@@ -1,0 +1,15818 @@
+#version: 0.2
+n a
+d ị
+k a
+m a
+  .
+n '
+b ụ
+  ,
+n dị
+k e
+r a
+m e
+h a
+r e
+na -
+t a
+ny e
+y a
+g a
+l a
+r i
+i h
+s i
+j i
+h ụ
+r ụ
+ih e
+kw u
+r ị
+r u
+b a
+kw a
+a ny
+t e
+na- a
+n ke
+a hụ
+t u
+nw e
+na- e
+gb a
+o nye
+gh ị
+b e
+t ụ
+d ụ
+t i
+ga -
+l e
+o tu
+b i
+z i
+any ị
+s ị
+p ụ
+m ma
+k ọ
+m ụ
+ch i
+ch e
+w e
+ch ị
+  "
+z ọ
+a ka
+l ọ
+r ọ
+ch a
+n ọ
+d e
+k ụ
+n e
+d o
+nw a
+w a
+ụ lọ
+kw ụ
+g o
+f ọ
+gb u
+i si
+gh a
+mma dụ
+s a
+l i
+gb e
+e be
+i ke
+n ụ
+r o
+t ọ
+n i
+m gbe
+ma ka
+g e
+b u
+s o
+a la
+ị a
+ga- e
+gb o
+ụ mụ
+ga- a
+gw u
+i ri
+ọ rụ
+rị a
+  :
+kw e
+kp e
+ọ chị
+kp ọ
+e ti
+kp a
+any a
+a fọ
+m ba
+b o
+o kwu
+nw ụ
+d a
+ọ zọ
+s te
+g ị
+s e
+a kụ
+l u
+ch ọ
+g ọ
+na ị
+naị ji
+naịji rịa
+kw ọ
+   "
+o bi
+z u
+gw a
+d i
+a kwụ
+ne ke
+ste eti
+chi neke
+a n
+akwụ kwọ
+  "  
+j e
+  ?
+e zi
+i che
+a bụ
+n u
+b ịa
+i le
+o ke
+n t
+o ge
+ni ile
+g ụ
+tụ tụ
+  )
+v a
+w u
+k u
+ya  .
+abụ ọ
+akụ kọ
+dị ka
+k o
+m p
+s ọ
+f e
+m me
+ọ tụtụ
+“  
+i gbo
+  ”
+o n
+nwa anyị
+bo do
+p u
+bụ l
+ị bụl
+d ọ
+ba ịbụl
+m i
+a  .
+gb ọ
+ọ nụ
+o bodo
+d u
+2 0
+e gwu
+h i
+ụ wa
+z e
+i kpe
+t o
+i wu
+ụ b
+ụb ọchị
+nt ị
+z ụ
+l ụ
+j ọ
+h o
+b ọ
+j ụ
+n dụ
+ahụ  .
+e go
+z ị
+o zi
+ih i
+ma na
+o ji
+u we
+u ha
+ọchị chị
+a  ,
+ụ zọ
+e r
+u kwu
+ọ me
+kp ụ
+gọ ọme
+e lu
+a ha
+onye isi
+oji i
+o nwe
+a tọ
+ya  ,
+fọ dụ
+nw oke
+ụ fọdụ
+kp o
+s ụ
+ha  .
+s t
+20 1
+ụ gbọ
+ọ ka
+ọ ma
+ahụ  ,
+bụ la
+n so
+e ze
+rị ka
+ .  ”
+h ịa
+o r
+ho va
+ih u
+je hova
+a gha
+uha ri
+B uhari
+gw ụ
+ọ bụla
+n na
+g i
+ọ kụ
+p a
+(  
+u gbu
+o lu
+o me
+ny o
+u ru
+ma  ,
+m kpa
+ụ ka
+m m
+gh ọ
+n ne
+e l
+nw u
+ọ nwa
+a na
+o le
+n ga
+j u
+j a
+n ta
+a sa
+zọ s
+ji zọs
+gw e
+p e
+m bụ
+mm iri
+gọọme ntị
+l ị
+y i
+va nọ
+mp i
+gọ vanọ
+gw ọ
+b ra
+M a
+  ;
+n tụ
+a ra
+n ị
+ma a
+g u
+J o
+z a
+a ba
+i se
+m o
+n dọ
+a hịa
+n k
+f u
+ndọ rọ
+o ko
+ezi okwu
+B B
+ny i
+h e
+c e
+m u
+a nụ
+tu pu
+i gwe
+ọ nwụ
+BB C
+m bra
+a sọ
+l o
+n ri
+ana mbra
+a zụ
+ntụ li
+ntụli aka
+asọ mpi
+ọ gba
+i we
+ch ụ
+a tụ
+o kp
+ọ gwụ
+nso gbu
+i n
+a me
+ny a
+n kwa
+bọ ọ
+n che
+m gba
+nwu nye
+bọọ lụ
+re gwu
+egwu regwu
+e nu
+agha ra
+ .   " 
+i be
+a r
+ri a
+m mụ
+h ọ
+e tu
+ọ hụ
+ọhụ rụ
+u nu
+ọ kwa
+maa zị
+t h
+an ị
+na anị
+s u
+eti ti
+enu gwu
+ezi gbo
+n gwa
+sị  :
+a ma
+a f
+A P
+N i
+ch ukwu
+a l
+ọ jọ
+ọjọ ọ
+o u
+n de
+ụ tọ
+aba lị
+ra ị
+n ti
+gh i
+s ta
+Ch i
+e kpe
+be re
+ke mgbe
+201 9
+go olu
+na rị
+gị nị
+o l
+te r
+ụ gwọ
+Ni ge
+ame rịka
+ṅ ụ
+k ị
+ha  ,
+gi de
+z o
+m bọ
+0 0
+nke ji
+na l
+af rịka
+ọ rịa
+i l
+a kwa
+ọ nọ
+ọnọ dụ
+a gba
+ti on
+o zu
+ụ dị
+mp aghara
+n o
+nche kwa
+ọ sọ
+n je
+v i
+nga la
+n ụlọ
+ezi nụlọ
+R o
+gị  :
+k i
+AP C
+ngala ba
+n g
+u gwu
+pu ku
+gọọme nti
+D a
+ome iwu
+okp uru
+i t
+e bu
+ra  ,
+1 9
+isi i
+o si
+i ko
+ekpe re
+v e
+ọ dị
+u gbo
+nk iri
+n d
+kpụ rụ
+ụlọ ikpe
+m  ,
+i zu
+gha rị
+i mo
+u che
+m  .
+n ku
+a jụ
+ụgbọ ala
+n zu
+ọ gụ
+y e
+ajụ jụ
+pụ ta
+a sụ
+raị st
+ole e
+R e
+asụ sụ
+v er
+ka rị
+k raịst
+M an
+e hi
+S u
+mmụ ọ
+a da
+mu me
+e chi
+e  .
+atụ ma
+atụma tụ
+L i
+-  
+n nu
+n sọ
+mme mme
+asa a
+ọ ba
+M o
+Jo se
+ụ kwụ
+o bere
+nga gharị
+an o
+ru  ,
+rị ọ
+e  ,
+ọzọ  .
+le s
+i k
+e kwe
+m kpụrụ
+n ka
+ụmụ aka
+anya  .
+I n
+re  .
+e nyi
+e gbe
+a gụ
+ra  .
+ọgba kọ
+L a
+na la
+f ụ
+be ke
+asa tọ
+H ara
+C o
+B oko
+à m
+àm à
+ma nụ
+S e
+Nige ria
+o f
+nwa ta
+kp u
+ugbo ro
+na i
+D P
+o fe
+ebu bo
+anụ manụ
+re  ,
+o kpo
+nje m
+i me
+ụ kọ
+ri s
+p o
+he re
+S a
+ro bịa
+o gi
+nku zi
+P e
+nnu kwu
+U ni
+nta akụkọ
+P DP
+Hara m
+c a
+N a
+p er
+i to
+ta  .
+ka ma
+L e
+h u
+u do
+ọ kpụ
+aka  .
+Jose f
+ik ike
+e ke
+a bịa
+ọ cha
+o ri
+anya nwụ
+pa ti
+ra n
+nai ra
+gọ s
+du m
+naịjirịa  .
+le gọs
+n jọ
+t ị
+okpo ro
+o here
+rị ta
+m kpọ
+o go
+w o
+ndị àmà
+ka nu
+F a
+ndọrọ ndọrọ
+hi e
+a kpa
+M uha
+ka rịa
+  !
+m kpe
+ito olu
+a bu
+A l
+beke e
+mma nụ
+O B
+ahụ hụ
+u s
+I P
+Muha mma
+E C
+ike  .
+e n
+ụkọ chukwu
+steeti  .
+o che
+mme ri
+rị  :
+a  :
+E a
+ofe si
+Muhamma du
+r y
+mi ni
+ .  "
+IP OB
+i je
+M u
+sa ụ
+m di
+P a
+ru  .
+niile  .
+ma ha
+u go
+p ọ
+mma  .
+ste r
+o chi
+A ti
+ụ tụtụ
+Ati ku
+ogi ge
+re l
+o nal
+ikpe azụ
+anya  ,
+ọ dụ
+okp u
+a mụ
+B a
+ụ ba
+nkwa do
+nzu kọ
+nk ị
+c i
+nt o
+ọ ha
+o so
+osi si
+Su per
+ọzọ  ,
+a m
+u so
+r t
+mmụ ta
+f i
+oso te
+c o
+ke re
+mgba sa
+ga  ,
+A da
+c k
+ga  .
+n ji
+maha dum
+anyị  .
+saụ t
+mkpọ rọ
+mini sta
+te d
+sh ịa
+p ị
+T ru
+K a
+obi ano
+ọ tọ
+di a
+O ko
+dọ kị
+a ja
+S o
+ome nala
+o ku
+n da
+elu igwe
+e le
+bụ  ,
+amụ ma
+a jọ
+sh ọ
+gbu ru
+B i
+ọ dọ
+me  .
+dọkị ta
+kọ mi
+il li
+ọma  .
+okwu kwe
+A r
+w ụ
+u r
+nto robịa
+gb ụ
+anyị  ,
+t y
+I N
+o p
+Ea g
+ọ hịa
+IN EC
+f o
+Tru mp
+F C
+vi d
+ike  ,
+  "  . "
+Uni ted
+o mume
+N e
+uso ro
+ro cha
+li te
+it y
+baịbụl  .
+D e
+ "  "
+aka ra
+A f
+A de
+ihe  .
+la nd
+Eag les
+te n
+M i
+nna mdi
+m ị
+echi che
+v o
+ta n
+rụ  .
+me nt
+ba ka
+W illi
+sị  ,
+n nọ
+i z
+R i
+ụlọ ụka
+ọ gọ
+obi  .
+akụ kụ
+O bi
+li k
+ke dụ
+chineke  ,
+o d
+o  ,
+ọ w
+y ọ
+ọw ụwa
+di o
+p t
+j ị
+el se
+e de
+ọ fụ
+pọ l
+ma ra
+gh e
+c on
+ọka cha
+ta  ,
+Ch else
+ọ gbọ
+o hi
+a h
+C ity
+tọ lik
+kọ rịta
+ka tọlik
+iz rel
+so n
+e nye
+chineke  .
+C a
+o nyi
+i yi
+e mume
+s s
+ochi e
+ụ nya
+n ihu
+i ne
+i de
+abu ja
+a  ?
+ti onal
+po ol
+i r
+eziokwu  .
+enye maka
+Mo ha
+ver pool
+ori ri
+Li verpool
+20 0
+shịa l
+s si
+i ji
+M e
+so shịal
+f ada
+a kị
+T o
+S ou
+o gbu
+ụgbọ elu
+ọ la
+z de
+o yi
+n tu
+ch u
+Af ri
+u l
+'  .
+ọka iwu
+onyi nye
+o li
+a gu
+Chelse a
+ọ mụ
+t ri
+okpu kpe
+isi  .
+an d
+o nyo
+n tọ
+mmadụ  .
+iche  .
+ala  .
+2019  .
+ " "  
+ọgba aghara
+onyo nyo
+ne t
+a kpụ
+ha m
+ọ  "
+u me
+che ster
+Man chester
+w it
+nwa nne
+mme d
+go dị
+e ji
+aka  ,
+ụwa  .
+ụlọ akwụkwọ
+or t
+ma ma
+ma du
+a gwa
+Sou th
+E me
+b ri
+S ta
+201 8
+o de
+n  ,
+abụọ  .
+oko rocha
+e me
+J a
+rọ   " 
+la  .
+Nw o
+E l
+ọ nị
+ọnị cha
+vo otu
+ny ụ
+m bere
+cha s
+Ro chas
+i te
+f or
+ar c
+ọchị ehi
+ya  ?
+ra l
+i a
+a gbọ
+Ar se
+ome ka
+n  .
+mbere de
+agbọ ghọ
+Arse nal
+A ba
+ọ gbu
+akị rịka
+Moha mmed
+E kwe
+“  ọ
+rụ  ,
+m bi
+iji pt
+Pe ter
+w i
+se tan
+ju u
+a nọ
+'  ,
+kwa do
+o k
+o  .
+n họ
+k y
+in g
+ala  ,
+1 0
+wit ter
+re madu
+K e
+Ekwe remadu
+00 0
+ọka mmụta
+ta a .
+s  .
+omeka ome
+nhọ pụta
+kọmi shọ
+atụ  ,
+a sị
+P re
+ọrụ  .
+u ju
+E ze
+A bu
+ụwa  ,
+s  ,
+ozu gbo
+kọmishọ na
+i m
+c y
+B o
+ọba ra
+on g
+na eze
+m kpu
+ke le
+j o
+eziokwu  ,
+o pe
+l y
+1  ,
+ )  .
+ọrụ  ,
+ọka ikpe
+ọgụ gụ
+ọ  ,
+ogbu ni
+ogbuni gwe
+n le
+ọha naeze
+i ro
+Sh e
+mp e
+m pụ
+bo nyi
+Z a
+W e
+ . ”  )
+ọ kpa
+ihe  ,
+a lụ
+ọdị nihu
+wa rị
+Jo h
+Ch a
+B u
+1 4
+nyo cha
+gw o
+eke le
+R a
+baịbụl  ,
+n chọ
+mkpe bi
+Chi na
+ )  ,
+ọ  .
+mma  ,
+mi dia
+1 5
+ụlọ ọgwụ
+ụ jọ
+niile  ,
+n kwe
+mmadụ  ,
+de vid
+bịa f
+O ke
+G e
+B e
+nwa yọ
+_ _
+sa tọ
+N or
+ụ da
+satọ de
+gị  ,
+c tion
+bi  .
+a rị
+ụtọ  .
+sh i
+ma lite
+ghị  .
+e zu
+S ara
+S S
+H a
+Ch ris
+sh a
+du na
+bịa  .
+ah ị
+N na
+ụlọ akụ
+ọdị nala
+ti us
+m ọ
+egwuregwu  ,
+Le agu
+obi  ,
+dị  ,
+la ị
+ele kere
+201 7
+ọfụ ma
+ri  .
+p h
+nzu zo
+na   " 
+j a .
+gị  .
+fu fe
+f a
+O si
+Ma r
+La go
+ọgbu gbu
+t ha
+Ch ukwu
+we r
+tius de
+rị  .
+ka n
+ekwe ntị
+Z i
+ọnụ  .
+nkị tị
+igbo  ,
+Willi e
+FC C
+ụmụ nne
+ụ gha
+ọgọ st
+naịjirịa  ,
+c an
+B ri
+to r
+nchọ pụta
+ma n
+iche iche
+e wu
+agụ mba
+abụọ  ,
+I he
+F ran
+n nyocha
+ije ri
+bi a
+baka r
+O r
+D i
+pụ rụ
+oli le
+n rụ
+mkpe sa
+m fe
+U ma
+U de
+T witter
+P ro
+J e
+Ada m
+1  )
+uru  .
+ogo lo
+ogolo go
+bri ten
+Pa ul
+J u
+G u
+Abu bakar
+ọmụ mụ
+u ro
+mme hie
+kọ ta
+isi okwu
+gb i
+e bonyi
+dị  .
+chọ ọchị
+tri k
+rọ  .
+nnọ ọ
+kw o
+ezu m
+atọ  .
+G A
+E FCC
+201 5
+o gbe
+ndị  )
+Sta te
+N A
+th er
+sta te
+raị de
+n go
+la trik
+f raịde
+G o
+ọ ga
+pa pa
+mma nya
+Nige ri
+In ter
+A b
+2 3
+se net
+ofesi  ,
+ny ị
+nwayọ ọ
+iche  ,
+d ri
+atụ rụ
+Ne w
+2  ,
+oko robịa
+me ri
+gbi di
+El -
+“  a
+ọ ṅụ
+za ky
+p i
+nwa afọ
+m gbọ
+m be
+k zaky
+ha b
+Za kzaky
+I ke
+F e
+y o
+nu e
+ga be
+a gbụ
+Sara ki
+Mu gabe
+G a
+A u
+1 7
+. .
+  - 
+ọ da
+ta a
+t on
+rịta ụka
+rị  ,
+o fufe
+okwu  .
+nwụ  .
+n sị
+m ọdụ
+T a
+Lago s
+ọma  ,
+ndụ mọdụ
+akwụkwọ  .
+t he
+ra tion
+n'  "
+fo to
+e fu
+bịaf ra
+be nue
+agụ ụ
+1 8
+ụ ra
+ti c
+ni a
+mme kọrịta
+ezum ike
+Afri ca
+AP GA
+ọkpa ra
+mme pe
+ka duna
+H e
+F u
+ri be
+jehova  .
+dri d
+anyị  "
+Ma drid
+E le
+ ?  ”
+ọkụ kọ
+r s
+ou rt
+oke nye
+ndụ  .
+mgbe de
+mba  .
+i ru
+dọ la
+o wer
+nji kere
+a u
+a nwụ
+N o
+1 3
+ọkacha mara
+ọ kpọ
+ị nta
+ịnta ne
+ịntane ti
+o hu
+igbo  .
+So wo
+R u
+A ma
+19 9
+ọda chi
+olile anya
+nka ta
+me  ,
+i fe
+W a
+T e
+ụ tụ
+ọdị da
+ọba sa
+ọbasa njọ
+ọ kọ
+steeti  ,
+m iri
+m bu
+l d
+kị rị
+Ihe dio
+I bra
+s pe
+nwaanyị  .
+ji ji
+e do
+V i
+A S
+we ne
+gu n
+agbụ rụ
+wene zde
+o mi
+k  ,
+gburu gburu
+any i
+sị  .
+ri  ,
+q u
+n rọ
+n gwụ
+la te
+l la
+agha  .
+Ibra hi
+Gh ana
+u p
+pa se
+osi miri
+na  ,
+mgbe re
+bi  ,
+ahị hịa
+Sowo re
+I fe
+F A
+1 6
+ọ k
+ọ jị
+rụ ngwa
+mbụ  .
+akụ rụngwa
+a d
+T i
+Nwo su
+I s
+F al
+ụ bụ
+ọkacha sị
+se na
+s  :
+pụrụ iche
+nkị ta
+ndị  "
+na tional
+n do
+mọ nde
+ma s
+kwa  ,
+gu zo
+O lu
+Na tional
+“  onye
+ị nyị
+nrụ rụ
+mba b
+mbab we
+la ni
+el o
+Zi mbabwe
+U S
+Ihedio ha
+Ibrahi m
+4  .
+ọkụ  .
+zi e
+u te
+sena tọ
+ro m
+mkpa rịtaụka
+b y
+anambra  ,
+a rụ
+Pre mi
+Ma du
+El- Zakzaky
+A h
+ụfọdụ  ,
+ọnwụ  .
+ọka fọ
+ọ zụ
+u le
+to ba
+izu ụka
+ge n
+O N
+Na i
+Leagu e
+ụ ta
+ọchịchị  .
+maa chị
+li c
+ka ta
+egwu  .
+arc ourt
+a chị
+P ort
+Inter national
+H arcourt
+E mma
+3 0
+  "  ọ "
+ọk toba
+tọ zde
+bụ   " 
+A le
+1 2
+ta a ,
+s ti
+s sa
+otu  .
+otu  ,
+ori akụ
+n chị
+n ba
+mi ta
+chi te
+ch o
+b ị
+Premi er
+Jo na
+Co mm
+ụnya ahụ
+st ra
+nkwe kọrịta
+k iri
+gbo ro
+Fal con
+B ra
+ọzụ zụ
+ya .  ”
+ntu ru
+nche ta
+n di
+me d
+la  ,
+ise  .
+afọ  .
+Osi nba
+O nye
+M baka
+1  .
+ụ ma
+ọka ra
+ka  "
+ihe  "
+c tor
+atọ  ,
+Nw a
+B ro
+Ale x
+ịnyị nya
+ra ma
+r d
+na  "
+mpi on
+mkpa mkpa
+ku ku
+achị cha
+Y o
+Joh n
+Fa ce
+Eme ka
+Da vid
+A ir
+201 6
+ọgwụ gwụ
+te  ,
+obodo  .
+nne wi
+mgba nwe
+isi  ,
+e fe
+ame ro
+a gbidi
+Willi am
+W or
+M A
+K o
+Jona tha
+C amero
+ọbụla  .
+re  :
+ni el
+n ha
+m gbo
+ide mmiri
+i kuku
+ego  .
+e kwu
+agụ ma
+a dị
+M ba
+D SS
+C on
+B or
+A na
+o  "
+m mi
+ebe re
+be rt
+al th
+S t
+Fu lani
+Ab du
+A i
+ ,  "
+re n
+obi bi
+kwu  .
+kan sa
+ju laị
+e h
+bụ  .
+Ri va
+Osinba jo
+Nai ja
+G er
+F ede
+E uro
+Cha mpion
+Aba ribe
+A di
+“  ndị
+ve s
+ngwụ cha
+n zụ
+mma sị
+kọmi ti
+ime  .
+b re
+T imo
+D o
+D el
+u bi
+ri e
+p te
+ope kata
+okwu  ,
+nsogbu  .
+ndị  ,
+n kọ
+gh ụ
+anwụ rụ
+U t
+Falcon s
+B arc
+A ra
+2  )
+ụnya ahụ .
+ụbụ rụ
+t ti
+sa ye
+p an
+nke  "
+nchị kọta
+n su
+mbụ  ,
+ho o
+eji je
+a ga
+U mu
+Jonatha n
+I gbo
+E ng
+Barc elo
+B en
+“  ihe
+ukwu  .
+pi ta
+onal d
+ode akwụkwọ
+nzụ kọ
+mp u
+mgba kọ
+late au
+bi shọ
+We st
+P lateau
+Nor th
+D onald
+3  ,
+“  m
+ọjọọ  .
+ọgwụ gwọ
+ọbụla dị
+wa  ,
+ta a :
+si a
+rọ  ,
+on do
+i nọ
+ghị  ,
+gba ta
+g ra
+cha fụ
+c ar
+an u
+Y e
+Wor ld
+Uma hi
+T he
+I v
+Fran ce
+Camero on
+“  n'
+yi n
+se pte
+m bodo
+gbo o
+eh ihi
+echi chi
+asa mbodo
+Ut d
+S er
+Ro bert
+C e
+Barcelo na
+Ba y
+2  .
+ọ na
+ta ra
+opekata mpe
+nọ  .
+l l
+kraịst  ,
+ka ma ,
+akwụkwọ  ,
+Sh i
+Riva s
+O ba
+L ondo
+I M
+G ra
+Ai sha
+2 5
+1 00
+  "  a
+ọnụ  ,
+ị chafụ
+t hi
+sh o
+saye nsị
+ogbe nye
+n ghọ
+n cha
+mbi do
+kwụ kwọ
+agụma kwụkwọ
+U K
+F o
+yin bo
+to yinbo
+t ten
+nso n
+ma nị
+ja manị
+j a ,
+inọ k
+c u
+c ra
+be r
+amerịka  .
+adị gboro
+T u
+I bi
+H u
+Chris ti
+ụzọ  ,
+tu m
+ssi on
+ri mara
+mkpa  .
+mi n
+mgbo chi
+m wu
+le y
+afrịka  .
+__ __
+To tten
+Re al
+Nige r
+Da niel
+A FC
+2019  :
+ọnụ ọgụgụ
+ị hụ
+ịhụ na
+oge  ,
+o ma
+nu el
+nturu ugo
+nri  ,
+ndị da
+n du
+m bịa
+jizọs  ,
+ghụ ghọ
+e se
+e p
+d ike
+chi e
+bo ok
+bi ko
+She hu
+Face book
+Fa toyinbo
+Del ta
+De mo
+Co mmi
+AFC ON
+A bi
+6  ,
+2019  ,
+2 8
+ụmụ nna
+v s
+p p
+osi ka
+n kụ
+i na
+g ri
+ekpere  ,
+egwu  ,
+de r
+arị rịọ
+a ghụghọ
+Timo ti
+L u
+ .  "  ọ "
+ụzọ  .
+ị dị
+si  ,
+nwa ada
+nji rimara
+k ra
+ga l
+ama di
+agha  ,
+Sa m
+Nigeri an
+A C
+4  )
+ụdị rị
+ụbọchị  ,
+ọla edo
+mu el
+mma lite
+mba  ,
+li a
+ko la
+elu  .
+da n
+Totten ham
+Sa muel
+Pe op
+E bre
+A gu
+(  n
+ọkụ  ,
+ọhụrụ  .
+zị za
+z  .
+sị ga
+si na
+re na
+nọ ve
+nrụrụ aka
+mwu te
+le ment
+jizọs  .
+jehova  ,
+ise  ,
+ekwe nsu
+chi  ,
+bịa  ,
+ama  .
+a re
+S te
+S i
+Ja pan
+Emma nuel
+Ele ction
+D an
+Champion s
+Ah med
+A N
+ọna tara
+ọdị mma
+re ss
+re a
+pa ra
+onye àmà
+okwu te
+o do
+nku me
+juu n
+ci a
+bishọ p
+arị rị
+ahụ  ?
+Oko n
+O la
+Ife anyi
+Bro ther
+Afri can
+3  .
+ụtọ  ,
+ụlọ  ,
+ọnatara chi
+wa  .
+re  ?
+ok iri
+o se
+nụ warị
+nụ  .
+nọ  ,
+no a
+ka na
+gw on
+gha ra
+ba  ,
+a zu
+P ar
+Jo e
+Ada mu
+“  chineke
+ti n
+spe n
+re e
+p ti
+nri te
+m bo
+l s
+kp ị
+ki lo
+ka  ,
+gwon gwo
+ep rel
+de be
+afọ  ,
+O su
+K ano
+Euro pe
+A li
+5  .
+ . ”  ,
+ọma rị
+ọmarị cha
+zi l
+se le
+pti zi
+n ge
+mi li
+ko ria
+jọ n
+ihu  .
+i s
+ga na
+g y
+ehihi e
+de n
+da ị
+ba ptizi
+ba  .
+a zịza
+William s
+W ol
+T ho
+Sh ia
+P ri
+O nwu
+O gbo
+M ike
+I kpe
+Eng land
+C O
+  "  anyị "
+ụka  .
+ụ kwa
+ọga ra
+ọ gbụ
+ọgbụ gba
+ugwu  .
+u m
+sh op
+rọ shịa
+ra  ?
+para daị
+p ort
+nnọ chite
+mme gbu
+mme chi
+h  ,
+S ala
+Ri ver
+Obi ano
+Jo b
+I d
+Demo cra
+Bor no
+B aba
+A nd
+2 4
+1 1
+  "  n' "
+“  e
+ọ wa
+w in
+ukwu  ,
+u de
+t ho
+nụ  ,
+ndụ  ,
+n ze
+n si
+m y
+li an
+eme mme
+bọ je
+b le
+anọ  .
+ama dị
+ahịa  .
+a ku
+Ye mi
+5 0
+z or
+ya  :
+u ni
+to m
+ru sele
+r  .
+ong ress
+ogo go
+obodo  ,
+n kwụ
+li n
+je rusele
+i gbe
+i ce
+bụ  :
+ar ba
+Se rena
+Re v
+Oke zie
+Ikpe azu
+Id ris
+C ongress
+C lement
+A s
+9  ,
+7  ,
+u du
+nso  .
+kọ mpu
+f ran
+e ri
+e  "
+d y
+agba ta
+abụ bụ
+a hu
+Vi ctor
+Se ra
+S y
+Li b
+Igbo kwe
+G od
+C ou
+Bra zil
+ụlọ  .
+ọchịchị  ,
+ịhụna nya
+w  .
+u hie
+r  ,
+mma nwụ
+ji  ,
+ha  ?
+fe bụ
+febụ warị
+ebu be
+du n
+de ine
+asa a .
+abu ja .
+Sh a
+Nna mdi
+Ke nya
+E m
+Commi ssion
+Chi bo
+A R
+19 8
+“  o
+ụka  ,
+ọkpọ ka
+ọdịnihu  .
+ro n
+pase ntị
+nwaanyị  ,
+nri  .
+ki ti
+ke pu
+igbo  ?
+gh t
+ekpere  .
+e ju
+azụ  .
+adịgboro ja
+U N
+Re hab
+Oko rocha
+O j
+Joh nson
+Ibi am
+G arba
+Co s
+C or
+Bi g
+B el
+9  .
+3  )
+201 4
+  "  , "
+ọsọ  .
+p raị
+ozi  .
+ower ri
+osika pa
+oke  .
+ntị  .
+nha zi
+ji  .
+il la
+i mi
+gen cy
+for d
+ezi  .
+e e
+da y
+a ṅụ
+U me
+U gwu
+S pa
+O pe
+N L
+K u
+F F
+Da vi
+B an
+Al la
+6  .
+20 23
+19 6
+ọjọọ  ,
+ya .   " 
+v el
+te  .
+sọ ọsọ
+o ne
+nọve mba
+ny a .
+nw o
+nso nso
+nghọ ta
+na  .
+n zọ
+kọ b
+kraịst  .
+je kọb
+ci al
+Oko ye
+O mo
+In dia
+Ch ar
+Bu kola
+5  )
+ọbụla  ,
+ọ sị
+ị laị
+o gbo
+nle ta
+kra ine
+f f
+ame s
+a ko
+Uni on
+Ude mba
+U kraine
+U che
+T im
+NL C
+M er
+In no
+Ebre ham
+D C
+Ce nt
+A ng
+8  ,
+19 7
+ụlọ ọrụ
+ọ ọ
+wo od
+vi ce
+u di
+tu s
+si li
+ol ly
+olly wood
+m gbu
+gị  ?
+ghị  "
+fe ro
+f fi
+ese m
+di se
+ci s
+anọ  ,
+Wol ves
+S an
+Na tion
+Londo n
+Bi o
+Alla h
+Al l
+9  )
+7  )
+2 6
+0  .
+ọka ibe
+ọgara nya
+t ta
+so m
+si ria
+septe mba
+o t
+mmiri  .
+mi di
+hi b
+e hab
+bụla  .
+bụla  ,
+ahụhụ  .
+a ce
+Par ty
+Okon kwo
+Jose ph
+Da y
+20 20
+  "  nke "
+ọnwụ  ,
+ọga nihu
+ọcha  .
+ọcha  ,
+okiri kiri
+nwe re
+ne gal
+mme pụta
+la n
+k ris
+iwe  .
+ikpeazụ  ,
+ihe re
+i lu
+ga zi
+eze  ,
+ego  ,
+e gbu
+beke e .
+a ị
+Z am
+Se negal
+Ro h
+O gbu
+Mi ni
+I S
+Gu ine
+Fe mi
+E ji
+E d
+Democra tic
+Da p
+A kanu
+0  ,
+ọka  ,
+ọ t
+ṅ omi
+udo  .
+p ho
+onwe alth
+ngwa ahịa
+n no
+n chụ
+legọs  .
+izu gbe
+g re
+cha el
+anyị  ?
+abụ  ,
+Z A
+V a
+Uni ver
+U zo
+R ibe
+O nu
+Madu ka
+K anu
+I V
+Davi do
+Comm onwealth
+Chibo k
+CO ZA
+C up
+C ro
+-  3
+ọ pụ
+ọ bọ
+ur ch
+ta in
+st le
+pụ  .
+o ti
+ntụ nye
+no t
+n ce
+mba ra
+ma r
+kọmpu ta
+kwe sili
+ide mili
+eze  .
+elu  ,
+e s
+di mkpa
+chị  .
+cho ol
+bọọlụ  .
+amerịka  ,
+a kọ
+T ra
+Roh r
+Ribe ka
+Port  
+Port  Harcourt
+O gu
+N ọt
+M or
+In di
+Fran cis
+C ana
+Adi chie
+AS U
+ !  ”
+“  mgbe
+ye tti
+si  .
+pase nt
+ntụliaka  .
+njọ  .
+na li
+mbịa ra
+l  .
+ice ster
+hi a
+gri k
+gi ge
+f ara
+esem okwu
+e nyo
+do  ,
+de l
+c t
+b lic
+aṅụ rị
+asị  .
+N gige
+Mi yetti
+Ma y
+Le icester
+Eze kwesili
+Ea st
+E thi
+Christi an
+C ol
+B re
+A ni
+A ku
+A d
+2 1
+(  N
+  "  ndị "
+  "  ihe "
+ụlọ ahịa
+ọ tụ
+te k
+t t
+ri n
+ra nk
+ozi gbo
+oge  .
+n kwu
+mkpọrọ  .
+mi c
+mgba ghara
+le n
+k la
+eluigwe  ,
+Oj ukwu
+Mer cy
+Ma i
+I ran
+I mo
+E bo
+C y
+(  A
+ .  "  anyị "
+“  ị
+ọṅụ ṅụ
+ọtọ  .
+ọhụrụ  ,
+ọ fọ
+ọ bịa
+yi nka
+wa y
+ugwu  ,
+tek nụ
+teknụ zụ
+sh u
+ro  ,
+ri ng
+ozi  ,
+o g
+nsọ  .
+nle kọta
+nje debe
+n sụ
+le ke
+kpa mkpa
+ko lo
+gburu gbu
+ga nị
+d ge
+bu  .
+akpụ kpọ
+abụ  )
+Shi ite
+Ser vice
+S AR
+SAR S
+K ing
+IM N
+I D
+H IV
+Ethi op
+Dap chi
+Bi shop
+A ja
+A F
+7  .
+2017  .
+  "  na "
+ọ bụ
+zi k
+ume ala
+u  ,
+si de
+ru  ?
+p ha
+ol y
+ochi e .
+o wu
+nkọ wa
+nkwa rị
+ni n
+n nwere
+ma gazi
+m on
+m kwe
+m  . ”
+l le
+kwa ghị
+ik iri
+ihu  ,
+gre ssi
+go la
+eziokwu  ?
+eluigwe  .
+dise mba
+Or ji
+Nwa chukwu
+Nw an
+Mike l
+K ogi
+J ames
+Ike chukwu
+I ta
+F rank
+E li
+Da kolo
+Ch urch
+Bri tain
+Bio dun
+Ben ja
+ASU U
+A gency
+5  ,
+2 2
+ . ..
+“  ka
+ọnwụ nwa
+ọfụma  .
+ya t
+s car
+pe nali
+penali ti
+p ro
+p he
+obi ọma
+o te
+nwata kịrị
+nkwe nye
+nji kọ
+n gwongwo
+n c
+magazi n
+ma  .
+m ne
+kwu  ,
+kana da
+i fo
+gra m
+gola yat
+f re
+enugwu  .
+e f
+ar d
+ahụ .  ”
+ahịa  ,
+a  "
+Uma r
+S C
+Peop le
+Pe ace
+P u
+Nigeri a ,
+Mi chael
+K im
+Ger not
+F i
+E n
+- E
+'  ?
+ .  "  ndị "
+  "  ka "
+ụlọikpe  .
+vel op
+velop ment
+ta nka
+so cia
+socia tion
+onye  "
+oke  ,
+nsọ  ,
+nna ya
+lu  ,
+jiji ji
+fraịde  .
+di  ,
+chineke  ?
+a ta
+a ja .
+Zam fara
+Univer si
+So yinka
+Se con
+Pro gressi
+P i
+N du
+Ge or
+E x
+B ur
+As sociation
+Abdu l
+5 00
+4  ,
+2018  .
+ọkọ lọ
+ọkọlọ tọ
+ọkpụ kpụ
+ị gba
+uru  ,
+ti ve
+tho lic
+si me
+s se
+ru  :
+ro up
+ri st
+ne si
+mmiri  ,
+mkpa gbu
+mana  "
+li can
+l li
+isii  ,
+ho le
+gbata gbata
+el sa
+el d
+ede me
+ca stle
+c to
+bụ  "
+alụ m
+She ka
+P o
+Olu se
+O du
+N ji
+Mu sa
+M z .
+M ala
+Leagu e .
+F I
+Ethiop ia
+De velopment
+Ca tholic
+Bay elsa
+Ban k
+Ana je
+A w
+ụ zụ
+ụ fụ
+ọ pị
+taa ta
+ri sh
+ra el
+paradaị s .
+ozugbo  .
+o m
+mbu li
+m we
+kpụrụ kpụ
+kpọ mkwe
+jerusele m
+je nụwarị
+iwu  .
+ite ghe
+ime  ,
+ikpe  .
+edeme de
+ce nt
+anambra  .
+Yo ru
+Tho mas
+T an
+Oluse gun
+Nwo do
+Nation s
+Lib ya
+Ka lu
+Is rael
+Go od
+Ge ne
+Char les
+Ch an
+Cana da
+B uso
+ .  "  o "
+’  )
+ụbọchị  .
+ọgụ  .
+ọ kwụ
+x i
+u kwa
+tiusde  .
+sta n
+siria k
+shi om
+shiom hole
+rọ s
+ru s
+praị m
+ochi e ,
+o kwe
+nnọchite anya
+n nụ
+mkpa  :
+mbu ze
+m  :
+l  ,
+ka  .
+isii  .
+in o
+hụ hụ
+ga asị
+er n
+di bia
+chi  .
+alụ kwaghị
+a .   " 
+Y u
+W ike
+Ugwu anyi
+T V
+Ro nal
+P C
+O shiomhole
+Nna bu
+New castle
+Ger ma
+Buso la
+B ar
+Au stra
+Air port
+A wa
+6  )
+2015  .
+“  unu
+ụ kpa
+ọ kwọ
+ọ chụ
+to  ,
+t witter
+ro  .
+re st
+rama hụhụ
+ozi ọma
+oyi bo
+o bo
+ny a ,
+nwoke  .
+nwoke  ,
+nwa agbọghọ
+nta ramahụhụ
+nta kịrị
+ma hịa
+m gbidi
+la za
+kọ pa
+ke  ,
+iri  .
+ikpe re
+ijipt  .
+i nt
+hib ru
+ha  "
+h ị
+gy pt
+ga d
+enugwu  ,
+echiche  .
+e k
+du gu
+biko  ,
+azụ mahịa
+asatọ  ,
+anya  . ”
+akwa  .
+aga di
+____ ____
+T ara
+Ste phe
+Sheka u
+S chool
+River s
+O ye
+N ollywood
+N FF
+Mai dugu
+Ha ru
+Fede ral
+F or
+E gypt
+Comm uni
+Chi oma
+Cha d
+Cent ral
+Benja min
+B enu
+Agu le
+Abdu lla
+A meri
+8  .
+2 9
+19 14
+-  "
+ịlaị ja
+ịdị na
+ya  ;
+ya   " 
+v an
+sọ nde
+sị   " 
+se kọ
+s to
+ran s
+pu blic
+ou r
+ojii  ,
+ohi  ,
+nwụ  ,
+nu che
+nkwa nye
+ndị  ;
+nc il
+mma  ?
+maa hịa
+m kpị
+lian ce
+li  .
+la ck
+ezi na
+di ng
+di n
+d ne
+con omi
+che be
+bu lu
+bo n
+azụ maahịa
+azụ  ,
+asatọ  .
+are bia
+afrịka  ,
+a hia
+Universi ty
+Tim gad
+Sa udi
+P S
+Ny ako
+M ou
+La i
+Inno son
+I sa
+I bo
+G roup
+C B
+Al liance
+Abdulla hi
+A bra
+4 00
+“  i
+ụkwa ra
+ụ ra .
+ọpụ pụ
+ọ lị
+ọ kpụrụkpụ
+xi co
+st y
+st on
+shi p
+se r
+sa  ,
+s tus
+rụ warị
+ri ty
+ri te
+r g
+ph obi
+ogo ogo
+no phobi
+n gwọ
+me sa
+mana  ,
+k no
+izrel  .
+iwe  ,
+in ji
+il le
+il l
+ikpeazụ  .
+i g
+ha .  ”
+fe b
+feb rụwarị
+eme ka
+el l
+ebu m
+e nophobi
+che l
+cha  ,
+asa a ,
+akpa rama
+Y ou
+T here
+Q u
+P  )
+Oba ma
+Me xico
+Mba ise
+Ma h
+Ma da
+M ana
+K ha
+In sta
+I C
+H i
+H ar
+Guine a
+Geor ge
+E conomi
+Cou ncil
+Be nin
+Bay ern
+  " a  "
+  "  - "
+ụ ra ,
+ọrịa  .
+ọnịcha  ,
+yọ si
+vi sa
+ve ntu
+v in
+t  .
+sta l
+ro u
+ote le
+or k
+olu tion
+ntu tu
+ne  ,
+n z
+mkpọ tụ
+mama nda
+li st
+le ge
+la tị
+kwa sị
+k s
+ge r
+ga r
+ga ni
+echiche  ,
+e  ?
+di  .
+da yọsi
+bi  . ”
+ala kụ
+ahị rị
+a c
+X enophobi
+U wa
+There sa
+Te kno
+Su nda
+Stephe n
+S al
+Rev olution
+R an
+P ower
+P ope
+Or tom
+O gun
+O di
+Is la
+Haru na
+FI FA
+Europe an
+Chi mamanda
+Ch rist
+C ri
+C N
+Bo ris
+B ala
+Al ge
+A t
+A nt
+A la
+A M
+8  )
+201 3
+’  ”
+ụwa  ?
+ụnya ahụ ,
+ụmụ ada
+ọkwa  .
+ọchị chọ
+u chu
+tụ ma
+to  .
+ti u ,
+sị :   " 
+sa ị
+ou s
+or g
+o lo
+o ghe
+ntụ kwasị
+mme fu
+ma k ,
+lu ck
+le t
+kpa m
+ke t
+iwu  ,
+i d
+gwu ru
+ga nda
+da  ,
+co deine
+cha  .
+c al
+bọọlụ  ,
+bi ri
+baptizi m
+anya  ?
+akụkọ  "
+abụ bọ
+a ma ,
+Z ara
+W AS
+Sunda y
+St  .
+Ru ga
+Pre side
+PS G
+Obi o
+O ha
+O de
+O WAS
+Nji kọ
+N u
+N su
+N nia
+N ke
+N di
+N B
+Me ssi
+Ke nne
+Em lin
+EC OWAS
+E nyi
+E MA
+Chi ef
+B lack
+2018  ,
+20 00
+ụgwọ  .
+ọsị sọ
+ọ nya
+wi ch
+st ri
+si ng
+satọde  .
+s ley
+ria l
+ri ko
+p ou
+ome n
+olu lu
+ojii  .
+of or
+o s
+nz agha
+ny ahụ
+nno gh
+nnogh en
+nkeji  :
+ni sh
+ni s
+naịjirịa  ?
+mfe  .
+me  ?
+ma tiu ,
+la ye
+ja iro
+ing land
+eji ji
+do  .
+din ma
+dayọsi isi
+da da
+ce se
+c er
+bọje tị
+bi  ?
+Z e
+U ganda
+U E
+UE FA
+Tan za
+T ur
+Su dan
+Sala h
+S olu
+R ama
+Osu n
+O no
+O nnoghen
+Maidugu ri
+Kenne th
+Ju ventu
+Isla mic
+I I
+Good luck
+E zi
+Chi ne
+Ch ike
+Ca li
+CB N
+C ar
+Au gu
+Ang lican
+Alge ria
+Ade leke
+A pp
+A ka
+3 7
+ụgha  .
+ụfọdụ  .
+ụ nyahụ
+ọsọ  ,
+ọmụ gwọ
+ọ s
+zu  .
+ya hoo
+y ode
+u ra
+re s
+ra h
+ra  "
+pho sa
+nwa nna
+nwa  .
+ngo si
+mme hi
+midi a .
+lị kan
+je riko
+goolu  .
+chị  ,
+ba n
+an g
+ama w
+akwa  ,
+akparama gwa
+aka  ?
+a jị
+Yu su
+Yoru ba
+W A
+WA EC
+S oko
+Rama phosa
+R us
+Progressi ve
+P oli
+NA F
+Me laye
+Ka duna
+Josef  .
+J ong
+J i
+Insta gram
+Ibo m
+He alth
+Gra nd
+E bonyi
+Col lege
+Buhari  ,
+Bel lo
+B ru
+Alex and
+A mara
+A chebe
+3 3
+- O
+ụgbọ mmiri
+ọzọ  ?
+ọhịa  .
+ọbụ na
+zu ru
+ye le
+y uro
+yuro p
+x it
+vi e
+unu  .
+u ba
+tụma dị
+st ry
+re r
+po li
+p y
+nzọ pụta
+ntị  ,
+nsi bi
+nnụ nụ
+nchekwa  ,
+n kwọ
+mọnde  .
+mmụọ  .
+mme r
+maha du
+ma h
+le agu
+laza rọs
+la s
+kwa  .
+i zi
+ho ny
+ge rs
+gba  .
+fi m
+f ị
+ezi e ,
+ebum nuche
+c tu
+bụ  ?
+beke e ,
+arụ sị
+akụ nụ
+a ro
+Yo be
+V illa
+Tara ba
+Ronal do
+Pa ris
+Onwu ama
+Omo yele
+O scar
+Nor wich
+Mada ga
+Ita ly
+I di
+E kiti
+Da biri
+D ino
+D AC
+Cro ss
+Chi do
+Ch e
+C an
+Bre xit
+Ant hony
+Ade sina
+A zik
+A n
+A mi
+A  )
+30  ,
+ " "  n' "
+  "  ma
+ụlọ mkpọrọ
+wenezde  .
+uju  .
+udo  ,
+u me .
+tọzde  .
+tic s
+ti ne
+so  .
+pa rt
+on  ,
+ohi  .
+o gu
+nwe  .
+nka  ,
+niile  . ”
+n or
+n gụ
+mma  . ”
+ka me
+ka h
+ja nụwarị
+iri  ,
+inji n
+gha lo
+gbu  .
+enyi  ,
+eji ma
+dị  ?
+bọje t
+bu ka
+baịbụl  ?
+agba ra
+a .  ”
+a wa
+a ja ,
+Uzo dinma
+T ogo
+Re public
+Peop les
+Ope ration
+O sa
+O ndo
+Nor way
+Njikọ ka
+NAF DAC
+M on
+I ghalo
+I ba
+Germa ny
+Gene ral
+Eze ife
+Economi c
+Da ve
+D on
+Con go
+Chukwu emeka
+Chan ne
+B les
+Anaje mba
+Ama echi
+Ada ma
+Abra ham
+A ction
+4 0
+2016  .
+20  ,
+15  ,
+- A
+ .  "  n' "
+ .  "  ihe "
+“  ma
+ụtụtụ  ,
+ụlọọgwụ  .
+ọgọst  ,
+ọchị  .
+ịntaneti  .
+ị kpe
+zi aka
+ya ,   " 
+y ị
+y  ,
+w w .
+w ww .
+w n
+ver ton
+v re
+us tom
+st rị
+spe n .
+saụ di
+s y
+re  "
+p or
+onyinye  ,
+o su
+nị strị
+mị nịstrị
+lu k
+le  ,
+kris mas
+jụ ụ
+j w .
+iko  .
+iche iche .
+ibe ribe
+fa i
+ezigbo te
+ezi  ,
+e som
+bu ike
+bo ur
+be del
+anụ rị
+al l
+abalị  ,
+a wụ
+a rọ
+Y ork
+Wa t
+W omen
+V e
+Tur ke
+T rans
+Spa nish
+Sam son
+Ru fai
+Ro ad
+Osi ta
+Or gani
+O li
+Ny esom
+No w
+Ka yode
+J AM
+JAM B
+IM F
+H ope
+G ol
+Fo ot
+F lo
+F B
+FB I
+Enyi nnaya
+E verton
+E U
+Cos mas
+Communi ty
+Co deine
+Chi di
+Channe ls
+C ustom
+C la
+Ameri ca
+Abi ke
+APC  .
+A re
+A T
+6 0
+19 4
+ " "  . "
+ụmụaka  .
+ụlọ elu
+ọnụ ahịa
+è vre
+wenezde  ,
+wa rd
+wa nda
+ute eze
+us tin
+uru ndi
+tic al
+ta nya
+tanya hu
+ta a ?
+ta  ?
+se s
+ry stal
+pe nde
+og le
+ofesi  .
+obi  ?
+nụ  !
+nzukọ  .
+nwa  ,
+ntu ziaka
+nso  ,
+ni ch
+ni  ,
+nga gwa
+ne s
+na ngagwa
+mọnde  ,
+mne sty
+mkpa  ,
+m b
+li nt
+kwu  ?
+kla asị
+ke ke
+ka li
+je ria
+isi ala
+injin ịa
+ikpe  ,
+i kwu
+i bu .
+gh ton
+ga ra
+ga n
+f èvre
+ezina ụlọ
+en ce
+egbe  .
+de rs
+bị lọ
+be l
+ba bịlọ
+b n
+alakụ ba
+ala ce
+al jeria
+akwụ na
+ahụ .   " 
+aha  .
+aba cha
+U do
+Turke y
+T ha
+Spa in
+So lo
+S ia
+Re gi
+R wanda
+R oge
+Pri ma
+P hi
+Oke chukwu
+O bo
+Ne tanyahu
+NY SC
+Mu sta
+Mu nich
+M nangagwa
+Le fèvre
+L an
+Ke shi
+Ka t
+Juventu s
+I nde
+I be
+Gra ce
+Go ogle
+G i
+Fede ration
+Ebo la
+E qu
+E kwu
+Bo y
+B urundi
+B er
+Azik iwe
+Aw gu
+Austra lia
+And re
+A so
+A sh
+A sa
+A mnesty
+2 7
+- -
+ :   " 
+“  otu
+“  obi
+“  anyị
+’  ,
+ụmụ ahịa
+ọrụ  )
+ọka  .
+zu  ,
+ya  "
+y chel
+ychel les
+ve ment
+ugbo  ,
+t te
+satọde e
+sa  .
+rin ho
+ri l
+ren ch
+re d
+py rus
+pa pyrus
+ozu zo
+ohu  .
+ogi di
+nye  .
+nwayọ ọ ,
+ntọ ala
+nsogbu  ,
+nsibi di
+nnwere onwe
+nchụ aja
+n isi
+mgbe  "
+mesa ya
+mbi ze
+m s
+m  ?
+lu k ,
+les tine
+kọ p
+kpọmkwe m
+kame l
+k in
+fraịde  ,
+fran sị
+eke re
+da ry
+d g
+baptizi m ,
+a sị ,
+a kpị
+Yusu f
+Y aku
+Wat ford
+Ude mba .
+Tu nisi
+Tanza nia
+Ta cha
+Se ychelles
+Qu e
+O sho
+N go
+Mou rinho
+Ma ina
+Ma gu
+Ko rea
+K on
+Jong -
+Ja ne
+J or
+Inde pende
+Hi gh
+H ou
+Fede rer
+F rench
+E do
+C rystal
+Bri ghton
+Bles sing
+Ara bi
+A nya
+A nge
+4 5
+2018  :
+2017  ,
+201 4 .
+10  ,
+ ;  )
+  "  bụ "
+“  mkpụrụ
+“  ha
+ụkwụ  .
+ọtọ  ,
+ọ stra
+ọ ghọ
+ṅ a
+zi  .
+u ri
+u n
+u be
+ti a
+ta ry
+ta  "
+t ra
+sho la
+sekọ nd
+ru  "
+ri ri
+ri ma
+qu e
+p ito
+osisi  ,
+or d
+ol oko
+okwu chukwu
+obiano  ,
+obere  .
+o gwu
+ni c
+ngwa  ,
+ne bọ
+ndi na
+nda gwuru
+ndagwuru gwu
+na n
+n gwe
+mo u
+mm y
+mi  ,
+mgbọ rọ
+mgbe  ,
+mbụ  :
+m kpụ
+la ri
+kpọ   " 
+je nesi
+izu  ,
+izrel  ,
+im iri
+ibe ri
+hoo ha
+ha .   " 
+ha  :
+gwongwo ro
+gburugbu ru ,
+gbo o ,
+gba  ,
+fu l
+ffi eld
+etiti  .
+ebe  ,
+e  !
+dg z .
+da h
+da  .
+cto ral
+chineke  . ”
+bu  ,
+be  .
+ba ll
+ba l
+arụ rụ
+anu si
+ahụ ike ,
+abu ja ,
+abalị  .
+W hi
+W al
+V C
+Ume h
+Ti wa
+She ffield
+SS OB
+Ran gers
+Que en
+Pa tri
+O ki
+Nigeria  :
+Ndu bu
+N an
+Moha med
+Mini stry
+Mar tin
+MA SSOB
+La w
+L o
+Kat sina
+J ide
+Isa ac
+I re
+H en
+Ga bon
+Fo rest
+Fe stus
+F ri
+Ele ctoral
+Custom s
+Ca mp
+BB Naija
+Agule ri
+A nti
+A mu
+A I
+4 4
+2020  .
+2015  ,
+19 5
+1 1 ,
+(  S
+ )  "
+ "  
+  "  ( 
+“  na-
+ọrịa  ,
+ọnwa  .
+ọktoba  .
+ọchị agha
+ọ sụ
+ugboro  .
+u ke
+so ja
+si on
+shu a
+ru mba
+ran ce
+pọ tị
+pa s
+omume  .
+omume  ,
+o st
+o o
+nye  ,
+nwunye  .
+nsọ pụrụ
+nka  .
+ni e
+ne u
+ndị   " 
+mmụọ  ,
+mme kọ
+mme bi
+mmadụ  ?
+me ya
+li us
+li  ,
+la tion
+la  "
+iteghe te ,
+ina b
+imiri kiti
+hooha a
+gọọmentị  ,
+gịnị  ?
+gu a
+ge ment
+gburugbu ru .
+gbo o .
+eme odo
+ekpe nta
+ekere sime
+e e ,
+c ol
+bri el
+asa ra
+ala nd
+aka  . ”
+a to
+a   " 
+Ze aland
+Za inab
+Yaku bu
+W ar
+U ba
+Te ch
+Sy ria
+Osu ji
+Onye ma
+Onwu emeodo
+Oke ke
+O yo
+O jo
+Nwan kwo
+Nnabu ihe
+Ne y
+Mo vement
+Mo ses
+Ku kah
+Kha fi
+Jide ọfọ
+Je re
+In do
+I si
+I lo
+I A
+Go ver
+Ga briel
+Eji ke
+D ru
+D ike
+Cy ril
+Ara bia
+Andre w
+Aba cha
+A mo
+A gba
+A chu
+200 7
+14  )
+ ;  ,
+ " "  na "
+“  dị
+ụjọ  .
+ụgbọala  .
+ụ dọ
+ọzọ  . ”
+ọsị sa
+ọgụ  ,
+ọghọ m
+ọ rumba
+y u
+wa n
+ugbo g
+ude le
+th y
+ter s
+te  "
+t  ,
+sị ga ,
+sh ing
+s ka
+rụ  ?
+pita l
+pe nal
+penal ty
+paradaị s
+p re
+ozi zi
+one l
+o ju
+oju ju
+nu bu
+nkịtị  .
+njọ  ,
+nje m .
+niile  ?
+ngwa  .
+nghọta hie
+neu mo
+nde r
+nche kwu
+mọ n
+mp ị
+mp anọ
+mmer son
+mme rụ
+mma nya .
+mkpụrụ  .
+mkpa rị
+mgbọrọ gwụ
+mgba li
+meya ng
+me lu
+maachị  .
+m  )
+lo ma
+li p
+li a .
+ko ro
+kemgbe  .
+ka mpanọ
+ka   " 
+iyi  .
+itoolu  ,
+i fufe
+ha r
+ha  ;
+h uru
+ge  :
+fi ele
+eziokwu  . ”
+enyi  .
+el ị
+e t
+bị bịa
+bu rg
+ba r
+ba meyang
+asa ba
+anyị  . ”
+ahụhụ  ,
+a lo
+Zi da
+Xenophobi a
+W ole
+W il
+U T
+Ti nubu
+Solo mon
+Sia sia
+Secon dary
+Rus sia
+Ro ck
+Ra bi
+Power ful
+P er
+P alace
+Onwuama egbu
+Obio ra
+O tti
+O kwu
+Ngo zi
+Ney mar
+N asara
+N PC
+N NPC
+Mor si
+Mana gement
+M c
+Li onel
+Ka bi
+Ire land
+Hara m .
+Ha u
+H O
+G an
+Eme fiele
+E mmerson
+Chukwu ma
+Ch ile
+Bri dge
+Ba le
+B ebe
+Au bameyang
+Ang lịkan
+Al ha
+Al -
+Aba ng
+A si
+A kpa
+A gbo
+A be
+4 7
+201 2
+14  ,
+(  gba
+(  APC
+ .  "  mana "
+  "  o "
+  "  dị
+“  na-e
+“  mmadụ
+“  le
+ụlọ ikwu
+ụlọikwu u
+ụkwụ  ,
+ọrụ  ?
+ọnịcha  .
+ọdụ m
+ọchịchị rị
+ọ bịbịa
+ị ba
+ị  "
+z on
+z bọ
+ye mi
+we  ,
+wa l
+u tu
+th ur
+sọ l
+su l
+si riri
+si r
+si n
+shing ton
+sh ia
+s anya
+ru ctu
+ro c
+ri bu
+re en
+re  ;
+pas tọ
+oriri  .
+oge ne
+ode e
+o di
+nsụ gharị
+nnu pụ
+nna  ,
+nkị rị
+ngwa ngwa
+neumo nia
+ne buka
+nebuka dne
+nchekwu be
+na nt
+n mi
+n ja
+ma d
+m son
+lli on
+li ne
+li fe
+latị n
+la  :
+kpa ndo
+kpa kpando
+kp i
+kedụ  "
+ke r
+ka ra
+ka pito
+ijipt  ,
+ihe  . ”
+igwe  ,
+i re
+gọọmentị  .
+fre y
+fe r
+enyemaka  .
+ele ction
+ek ike
+ehi  ,
+e kwo
+e bi
+dio cese
+ci e
+car d
+be zbọ
+babịlọ n
+awụ sa
+asị rị
+ar ch
+anụmanụ  .
+ala  ?
+akwa ra
+Y a
+We ah
+Wa shington
+Tho mson
+T hi
+Su le
+Soko to
+S la
+Regi na
+Re de
+Ra dio
+P neumonia
+Odu me
+O ga
+Nsu k
+Musta pha
+Ma t
+Le ah
+La ssa
+King sley
+Kanu  :
+Independe nt
+H os
+Gol den
+F re
+Em zor
+Eli za
+Election  :
+El- Rufai
+Eji ofor
+China  .
+C C
+Buhari  .
+Bo b
+Ar thur
+Al len
+Adi nu
+9 0
+3 5
+2023  .
+2  - 
+13  )
+1 1 )
+(  $
+ ”  .
+ .  "  nke "
+  "  e
+“  nke
+“  na-a
+ụtọ  . ”
+ụgbọala  ,
+ọkọ chị
+ọ ta
+ọ  ?
+Ọ ka
+Ọka fọ
+ị tụ
+ịtụ na
+z ara
+win do
+uru  ?
+ul tu
+uche  .
+u t
+u mu
+to ma
+tiusde  ,
+ti mi
+ti co
+ther land
+te l
+te  :
+su s
+sta nt
+s man
+s  )
+ructu ring
+roc co
+ri a .
+ri a ,
+ra te
+pụ l
+pọtị fa
+praị ma
+p se
+p per
+or y
+ole  .
+oge  "
+obi  . ”
+o ba
+nzuzo  ,
+nzu zu
+nwa mkpị
+nu k
+nnupụ isi
+nebọ t
+ndụ  . ”
+ndị isi
+n te
+mwe re
+mp ton
+mmehi e .
+mkpọrọ  ,
+mgba go
+me n
+me dia
+mberede  .
+mahadu m ,
+lu e
+lo s
+li stra
+le be
+la ss
+ku zi
+kraịst  . ”
+ke nan
+kali ki
+jụ  ,
+isi on
+il ding
+iko m
+iberi ibe
+gọọmentị  "
+gha ni
+gboo  ?
+fran s
+ezi e .
+eri ri
+eprel  ,
+ekpe rima
+efu  .
+ebe  "
+e d
+di bịa
+cu rity
+che  ,
+c ou
+c a .
+bịaf ra .
+bi o
+atụ  .
+anyanwụ  ,
+ama okwu
+ahụ  ;
+aba kaliki
+a t
+a gwọ
+W HO
+Ve ne
+V ir
+U loma
+T er
+South  ,
+Solu do
+S we
+S anusi
+Ro timi
+Ro ma
+Re d
+PDP  .
+Ope n
+Onye bu
+Odume gwu
+O ma
+O f
+O do
+Nw oko
+Mu r
+Mo rocco
+Mo gha
+Mi lan
+Ma ry
+L ibe
+Jo shua
+Inno cent
+Idi go
+Iba dan
+I je
+I de
+High life
+Hen ry
+Har ry
+God win
+Fa shola
+Fa ni
+FA AN
+El kana
+E mi
+Day  :
+D en
+Co a
+Chi som
+Chi nu
+Ca the
+C AF
+Bor der
+Bi nta
+B ol
+Alha ji
+Adam s
+Achu zi
+A ya
+A ri
+A ngo
+4 3
+3 9
+2  :
+10  )
+1 .
+ .  "  akụkọ "
+ .  "  a "
+“  okwu
+“  nna
+ụwa  . ”
+ụmụaka  ,
+ụgwọ  ,
+ọmụ ma
+ọhịa  ,
+ọgọst  .
+ọgwụ  ,
+ọ ha .
+ị  ,
+zị  ,
+yi ng
+unu  . ”
+unu  ,
+ume ngwụ
+ul ga
+ugbo  .
+u nyi
+u hi
+tu nde
+te bụl
+t ter
+sị ,   " 
+sti tu
+sa tion
+s  "
+ri son
+ren ce
+re fe
+praịma rị
+pou nd
+ozugbo  ,
+ozu bulu
+ower ri ,
+otu to
+otu   " 
+og iri
+o ye
+o bu
+nụ  ?
+nwe  ,
+ntụliaka  ,
+nti al
+nno chite
+nne s
+nle y
+nke wa
+ni ng
+ndụ  ?
+ndi di
+nchekwa  .
+n karị
+n gọ
+n gwu
+mo la
+mbịara mbịara
+maka  "
+ma mị
+lụ  .
+lị ka
+legọs  ,
+leagu e
+la  ?
+l ying
+kwa ra
+ku nle
+ka nda
+jizọs  ?
+izu u
+izu  .
+izi zi
+im on
+ig  .
+ha m ,
+gbu  ,
+gbo  ,
+g gi
+fi a
+fe  .
+fa ce
+etiti  ,
+el le
+ekeresime si
+ebe re .
+ebe re ,
+ebe e
+ebe  .
+e x
+e m
+do r
+d ral
+d d
+che z
+c ity
+b lọ
+ara ck
+a se
+a rụ .
+a gboro
+________ ________
+V an
+Uche ndu
+Tunisi a
+Tha i
+Se curity
+San chez
+Sa dio
+S imon
+Preside ntial
+Poli ce
+P oly
+P an
+P VC
+P P
+Onye ama
+Ogbo nna
+Ogbo do
+O by
+Ni mo
+Ne therland
+Ndi di
+Ma li
+M ozi
+M ma
+La bour
+L y
+Ko re
+K lint
+Josef  ,
+I ya
+H ong
+H oly
+Ge a
+Gan du
+G ana
+Fri day
+Face App
+F lying
+Ekweremadu  :
+E van
+E ri
+E ke
+E be
+E R
+Cathe dral
+C i
+Bur nley
+Ba u
+B arack
+Ah mad
+Af ghani
+Adinu ba
+AI T
+A zu
+A wo
+A chi
+8 8
+7 7
+19  )
+18 7
+17  )
+15  )
+1  - 
+.. .
+- Olu
+“  si
+“  mụ
+ụ gụ
+ọchị  ,
+ọbọ gwụ
+zuru ike
+za tion
+ya .  ,
+ve n
+va ge
+v ision
+ugbu a
+tọzde  ,
+tor s
+th le
+te bulu
+sị  ;
+su rance
+sto ne
+sse y
+so cial
+sh ir
+sekọnd rị
+ra nt
+pụ  ,
+part ment
+pa tị
+p a ,
+oyi  ,
+okwu  ?
+ogologo  .
+ogi di ,
+o jo
+nwunye  ,
+ntọ rọ
+nta net
+nne kwu
+nne  ,
+nkwu pụta
+nkuzi  ,
+nke sa
+ngwe re
+ngo zi
+ndị  .
+nche  ,
+na- i
+mp ard
+mo od
+mmekọ ahụ
+mgbe  .
+mgba gha
+mbe r
+li ty
+le tico
+land  .
+la pse
+la g
+kọp ta
+kwụ  .
+kwara ji
+kpa  .
+kiri e
+kepu kepu
+kampanọ s
+ka -
+jenesi s
+jamanị  .
+ja ni
+ike  ?
+ike  . ”
+i su
+i ntanet
+hu abu
+gị  . ”
+ght s
+gh e ,
+gen ous
+gar de
+ga wa
+fị ọ
+fu  .
+fre d
+fe ty
+ese re
+ekwentị  ,
+e ro
+de au
+da ura
+ca tion
+bịaf ra ,
+ber g
+be th
+be  ,
+ba nk
+aị za
+atụ rụ ,
+asọmpi  .
+anụmanụ  ,
+anyanwụ  .
+anya sị
+an  ,
+alụkwaghị m .
+akpa ti
+a s
+a pa
+a  ;
+Zida ne
+U sman
+U go
+Tech no
+T A
+So cial
+Secon du
+Se lari
+Sa vage
+S tan
+Ro mne
+Pa ki
+P or
+Oscar s
+Oko rie
+O kwaraji
+O kpa
+O huabu
+Nasara wa
+Na sir
+N C
+N AP
+Mor rison
+Mar k
+Mala y
+Mah mood
+Ma ria
+M M
+Londo n .
+Le ban
+La mpard
+La garde
+Kw ara
+Jere my
+Indi genous
+I ko
+H ollywood
+Gandu je
+G ir
+Fu nd
+Foot ball
+Fa i
+F ir
+F R
+England  .
+Ed ward
+E id
+Di ck
+De partment
+Dan daura
+D r
+Cy ber
+Cri me
+Cor po
+Cali for
+C ourt
+Benu e ,
+Bel gi
+B ill
+B all
+At letico
+As se
+Ami nu
+Aja yi
+Ade sanya
+A ustin
+A kwu
+A c
+9 .
+5 5
+20  )
+- N
+( APC  )
+' '
+  " . "  " 
+“  abụ
+ụtụtụ  .
+ụlọụka  .
+ụlọikpe  ,
+ụ sa
+ụ bịa
+ụbịa m
+ọnụ nụ
+ọnụ ma
+ọdịnihu  ?
+ọ nyụ
+ọ mị
+zu e
+ya n
+we lle
+ur ta
+urta do
+u bi ,
+t s
+t le
+si c
+septe mba .
+saị t
+satọde e .
+sa l
+s k
+rụ   " 
+ru m
+ro m .
+ris ti
+rie s :
+rie s
+re th
+ra q
+ra c
+puku  ,
+pro te
+pa l
+ozu  ,
+ozi e
+okwukwe  .
+obere  ,
+o nu
+nze re
+nwaanyị  ?
+nnọ chi
+nna ba
+ni te
+ngụ kọ
+nge r
+ng  :
+nebukadne za
+n ment
+n ko
+n ike
+mp a
+mou th
+mmeri  .
+midi a ,
+mi se
+mamị rị
+ma ị
+m pụta
+li ng
+l lo
+kọ rị
+kpamkpa m .
+kpamkpa m
+julaị  .
+inọk  .
+iko  ,
+ije re
+igbo  :
+i la
+ha   " 
+gịnị  "
+gu  ,
+gi di
+egwuregwu  .
+di um
+di an
+ck le
+ci ence
+chukwu  ,
+c tri
+baịbụl  . ”
+b si
+aị zik
+ato rial
+an ti
+an t
+akpụ  .
+akpị rị
+aka ri
+ahụhụ  ?
+aha  ,
+adịgboro ja .
+abụ  ;
+a nwa
+a ni
+a a
+You Tu
+W o
+Vir gi
+Va len
+Twitter  .
+Ti jani
+Ta mmy
+Ta i
+T ar
+T IP
+Swe den
+Si ckle
+Sa fety
+S ky
+S co
+S cience
+Ri ta
+Ra y
+Queen s
+Pro mise
+Preside nt
+Phi lip
+Patri ck
+PDP  ,
+Organi sation
+Onyebu chi
+Onu mah
+Oke ke ,
+Ohuabu nwa
+Ode kpe
+Oba ma ,
+O kpo
+O ka
+O k
+O G
+Nw agbara
+Nsuk ka
+Nigeri a .
+New s
+NB C
+NAP TIP
+N EMA
+Mogha lu
+Madaga ska
+Libe ria
+Li ght
+Li g
+L af
+K en
+Ju lius
+Jor dan
+Jong- un
+Je ssi
+I raq
+Hou se
+Hos pital
+Fi re
+F r .
+F ou
+F in
+Evan s
+Equ atorial
+Ekweremadu  .
+E F
+E E
+Chukwu di
+Ch u
+Cent re
+C al
+Bu ilding
+Bo ston
+Bo ni
+Bi ble
+Baba tunde
+Ba ssey
+Ba shir
+B S
+Augu sti
+Ango la
+Ana o
+Amara izu
+Ama zon
+Alexand ra
+Akpa bio
+Aja x
+Afghani stan
+Ade ye
+Adama wa
+Ada m .
+A yo
+A ston
+A kwa
+A ki
+8 5
+8 0
+4 6
+201 3 .
+201 1
+1  ;
+-  5
+ .  "  a
+ " "  , "
+  " ma  "
+  "  kwu
+“  oge
+“  gịnị
+“  ezi
+ụtọ  ?
+ụta rị
+ụlọọgwụ  ,
+ụb ọ
+ụ kpụrụ
+ọma  ?
+ọlị  .
+ọktoba  ,
+ọjọọ  ?
+ọgwụgwọ  .
+ọgba ta
+ọchụ chụ
+ọcha nja
+ọ f
+ị s
+zo  .
+zi  ,
+ze r
+z a .
+we bụ
+webụ saịt
+w ọ
+vi a
+ve nant
+uru  . ”
+u re
+u kpo
+u huru
+tọ  ,
+tta ck
+toma to
+tle he
+tha niel
+te nis
+te  ?
+sọ lọ
+sị :   " anyị "
+sị ga .
+st s
+ss y
+so la
+si sta
+ser ver
+sa ra
+s cu
+rọ d
+ru ,   " 
+risti ano
+re t
+re ctor
+p lo
+owu we
+otu  "
+osika pa ,
+onye  .
+oli li
+ok ike
+oghe re
+of frey
+obo si
+nzuzo  .
+nwata  ,
+nwa a
+nuk lia
+nta  ,
+nt on
+nnewi  ,
+nke  ,
+ni ca
+nha ta
+nga po
+na  "  ọ "
+n se
+n s
+n rọ .
+mwere onwe
+mu m
+mpụ  ,
+mp any
+mmemme  .
+mmemme  ,
+mmadụ  . ”
+mma nya ,
+me r
+mbọ mbọ
+mbo de
+m  !
+lụ  ,
+lu m
+lu b
+li sti
+li m
+latrik  ,
+kọ  .
+kpo  ,
+ke  .
+katọlik  ,
+itoolu  .
+isi si
+in de
+ihe  ?
+igwe  .
+i chi
+ha nnes
+h ong
+gu e
+gra mme
+gbụ rụ
+ga  ?
+fi eld
+fe  ,
+esere se
+eme ne
+ekpere  ?
+ehi  .
+egbe  ,
+echi  .
+echi  ,
+e ge
+e bo
+do m
+de ji
+d  ,
+col lapse
+cha ris
+ce ment
+briten  ,
+bo r
+blọ k
+bi shop
+aịza ya
+arụrụ ala
+an ca
+amaw bịa ,
+ama m
+akịrịka  .
+aku m
+ahụ ike
+ada  .
+a le
+a cha
+Z u
+Yo akum
+Uni lag
+U SS
+USS D
+Twitter  ,
+To ny
+Thai land
+Stan ley
+Si ngapo
+Sha ribu
+Selari ọs
+Se me
+S ri
+Prima ries :
+Okorocha  :
+Obi na
+O zo
+O ri
+O na
+O ld
+O ffi
+Nw abu
+Na thaniel
+N  )
+Mu elle
+Mon day
+Mma ku
+Mini mum
+Mar ch
+Madaga scar
+Ma ta
+Ma l
+Ma ku
+Lu ka
+Lago s ,
+L in
+Kano  ,
+Job  ,
+Jo hannes
+Je hova
+In surance
+Ihe ana
+I zu
+Hu nt
+He rọd
+Gu ar
+Gir ls
+Gh ost
+Ge offrey
+F urtado
+F ina
+F er
+Eme ma
+Eliza beth
+EE DC
+E kpe
+Cos charis
+Corpo ration
+Cor ne
+Con fe
+Co venant
+Co de
+Chi ka
+Chi eji
+Champion ship
+C ristiano
+C ole
+C ala
+C AN
+Buhari  :
+Bi anca
+Be nson
+Augusti ne
+Augu st
+Asse mb
+Amu neke
+Ali yu
+A ta
+A nne
+A mbode
+A gwu
+9 5
+8 .
+3 2
+199 9
+000  )
+(  nke
+(  IPOB
+ .  "  e "
+“  ụmụ
+“  nwa
+“  ga-
+ụ sọ
+ụ mị
+ọzọ  .  " 
+ọtụtụ  .
+ọhanaeze  ,
+ọgọ dọ
+ọgbata uhie
+ọgbakọ  .
+ọfụ ma ,
+ọba ra .
+ọ zara
+ị ị
+ị  .
+z a ,
+ya .  )
+wit zer
+vootu  .
+ve re
+uhi e ,
+ugbog uru .
+u se
+u d
+tị nkọ
+tum tum
+tte e
+to ph
+toph er
+ti s
+ti ce
+the w
+tha mpton
+sti ng
+ssa n
+so  ,
+septe mba ,
+sekọ ndị
+sekọndị rị
+satọde  ,
+ris ky
+ri  ?
+ren cy
+re dio
+re chi
+re al
+re -
+re  . ”
+re   " 
+ran ozie
+ra   " 
+r to
+r gency
+po pe
+pa ị
+p ịa
+p ri
+p hi
+ozu zu
+our ne
+ourne mouth
+otu to .
+okpukpe rechi
+okpo koro
+ojo ro
+ogbenye  .
+obi ọma .
+o ro
+o ka
+nzukọ  ,
+nzagha chi ,
+nzagha chi
+nwaanyị  "
+nw ịị
+nti na
+ntaakụkọ  .
+no w
+nnaba ta
+nkị ta .
+nkwụ sị
+nkuzi  .
+njedebe  .
+ni u
+ni a .
+nda pụta
+n tụtụ
+mwe pụ
+mu su
+mme zu
+mi ted
+mgba  .
+mbe rg
+mba  !
+maa tụ
+ma ni
+ma ja
+m kp
+lọ t
+listi a
+li sh
+kọ  ,
+kw o ,
+kris ma
+je kwu
+je ct
+izuu ka .
+i za
+i man
+hụ  .
+hụ  ,
+h er
+gụ  .
+gọvanọ  "
+gị nwa
+gwụ  .
+gi ne
+ge ge
+fi te
+fi listia
+eme d
+ekwentị  .
+ekele  ,
+eke ne
+eke  ,
+efu  ,
+e wo
+e e .
+e -
+e  :
+du m .
+devid  .
+devid  ,
+de  ,
+da alụ
+ck ing
+cie ty
+chọ  .
+ca de
+c ord
+c lo
+briten  .
+bishọ ọpụ
+bi si
+ba s
+ale rt
+akụkọ  ,
+akịrịka  ,
+agụ  ,
+agwa etiti
+af ụ
+af ana
+ad res
+abụ ba
+a ne
+York  .
+Wal ter
+V in
+V AR
+UN I
+Tru deau
+Tra ffi
+Tar rant
+Sou thampton
+So ciety
+Sa mbi
+S qu
+S p
+S on
+S ime
+Roge rs
+Rev  .
+Rede emed
+Rabi u
+R al
+Pro gramme
+Plateau  :
+Pa pa
+P y
+P F
+Oye de
+Ogbo nnaya
+O wer
+O pa
+O me
+O ji
+Netherland s
+Ndubu aku
+NB S
+N ze
+N ne
+N ike
+Muhamma d
+Muha mmed
+Mozi s
+Mo tors
+Mo st
+Mo ne
+Mat thew
+Mar c
+Madu me
+Ma ne
+Luka ku
+Li mited
+La dy
+L E
+Kon go
+Kanu  .
+Ka chi
+K an
+Ja net
+INEC  ,
+I we
+Ha di
+Ga reth
+G ree
+G ala
+Flo ri
+Fai th
+F iji
+En gine
+Emema nka
+Ele ctri
+Ebre ham ,
+Ea ster
+Dan ju
+D ou
+Christi ne
+Chris topher
+Chinu a
+Chi nwe
+Chi ld
+Ch eri
+Ce lestine
+Buhari  "
+Bru ce
+Bro ad
+Boni face
+Bob risky
+Black  "
+Bau chi
+Ba lo
+B ournemouth
+B aka
+B afana
+Aya melu
+Assemb ly
+Ar ge
+Ada m ,
+A m
+A k
+A do
+A cade
+A DC
+9 7
+8 4
+7 0
+3 8
+3 1
+28  ,
+2014  ,
+201 3 ,
+201 0 .
+201 0
+200  ,
+2 9 )
+2 7 ,
+197 0
+1914  .
+19  ,
+16  ,
+16  )
+1 000
+-O b
+( IPOB  )
+(  ma
+(  bụ
+(  APGA
+(  3
+ .  "  dị
+  "  mgbe "
+“  ụwa
+“  ya
+ụta zị
+ụlọakụ  ,
+ụ kp
+ọṅụ  .
+ọrụ   " 
+ọnwụ  ?
+ọma  . ”
+ọla ọcha
+ọkụkọ  ,
+ọdịnihu  ,
+ọdachi  .
+ọba ra ,
+ọ ha ,
+ịtụna nya
+ịchafụ  .
+zọ ma
+zị  .
+yurop  .
+ya . ”  )
+ya mo
+ya  ”
+ya   " . "
+y ou
+wu ji
+we i
+w ill
+visa  " " 
+vi so
+viso ry
+vere nd
+va ị
+va tion
+v ing
+v il
+u tical
+tu tu
+tta h
+to ck
+tia tive
+ti u
+ti ng
+te re
+te ch
+ta r
+t ro
+sị  ?
+sul t
+su per
+su n
+st ructuring
+shu ga
+setan  .
+s per
+s le
+s chool
+rish  .
+ri si
+ri ck
+ree scu
+paị let
+p la
+oyi  .
+osisi  .
+or  ,
+onye  ,
+omi mi
+okpo m
+oko ro
+ogbu gbu
+odi bo
+o ni
+o gba
+ogba ru
+o cese
+nọ  . ”
+nzu te
+nwo -Olu
+nu s
+nta  .
+nrụrụ aka .
+nrụ rịtaụka
+nkị ta ,
+nkwa lite
+nke y
+nka tọ
+nje m ,
+ni tiative
+ni o
+ngwọ rọ
+nghọ ta .
+ne y
+ndu ru
+nda ba
+ncha ra
+naịjirịa  "
+nai ra .
+na tor
+n za
+n gi
+mu s
+mpụ  .
+mmehi e ,
+mmanụ  .
+mkpu ghe
+mgba  ,
+me di
+mbụ  ?
+ma ce
+mace utical
+lo be
+lla m
+latrik  .
+kwe te
+kwa  "
+kris ti
+kpo  .
+kpa m .
+ko  ,
+katọlik  .
+k h
+jerusele m .
+ime  ?
+he li
+har maceutical
+gị ga
+gu gu
+go zie
+gb ị
+ewu  .
+elị iza
+eju la
+ejije  .
+ebi li
+e nwe
+e kpi
+du  ,
+de  .
+da n .
+ci ous
+cha ị ,
+ca sting
+c  .
+ba by
+aị rish .
+ara  ,
+ar t
+alụkwaghị m ,
+ala  . ”
+al la
+al -
+akụnụ ba .
+akpụ  ,
+aka  :
+agụ  .
+aghụghọ  .
+ada l
+abụọ  )
+abụ  .
+aba  ,
+a maka
+a kpụrụ
+a gwu
+a chi
+a bọ
+Z uba
+YouTu be
+W i
+Vin cent
+Vi sa
+Valen cia
+Va le
+Uche nna
+U zọma
+U zor
+To ro
+Timo thy
+T ele
+Sy ria .
+Sule iman
+Shiite s
+Ser ge
+Secondu s
+Sa nwo-Olu
+Sa li
+Sa di
+S witzer
+S pe
+S il
+Romne y
+Revolution Now
+Re verend
+Re structuring
+R ome
+Pu n
+Progressi ves
+Pre ss
+Pre cious
+Por tu
+Pi er
+Pe p
+Papa do
+Pa lestine
+P in
+P harmaceutical
+Oyede po
+Osho di
+Osho ala
+Organi zation
+Opa ranozie
+Ono ja
+Ona ga
+Okoye  ,
+Okorocha  ,
+Oko ro
+Ogu nye
+Ogbu ata
+Obi di
+O te
+O ra
+O lo
+Nwosu  ,
+Nwachukwu  ,
+Nw eke
+No Bra
+Nna ji
+Niger  ,
+National  "
+N el
+N adal
+Mohammed  ,
+Mexico  .
+Mar ket
+Malay sia
+Mah re
+Ma uri
+Ma c
+M bo
+M T
+Li ve
+Li on
+Laf ia
+Kon du
+Ke yamo
+K ya
+Johannes burg
+Jehova h
+Je sus
+J im
+Iv ory
+Italy  .
+In stitu
+Imo hi
+Iheana cho
+I w
+I chi
+He ran
+Hau sa
+Hara m ,
+H er
+H an
+Gover nment
+Fre edo
+For ce
+Fo rum
+Fe li
+Fa ther
+Fa rou
+FR SC
+FF K
+F ree
+F ala
+Eze nwa
+Euro pa
+Eng lish
+Eme rgency
+Eli sha
+E vo
+E u
+E r
+E  )
+Dru nk
+Do gara
+Dick son
+Di rector
+Di ocese
+Danju ma
+D u
+D ar
+D ana
+D R
+Cou rto
+Cos by
+Commi ttee
+Co mpany
+City  .
+Chine du
+Ca ta
+C lub
+C am
+C S
+C ON
+Buhari  ?
+Broad casting
+Belgi um
+Ball on
+B ulga
+Azu buike
+And reescu
+Ala de
+Akwu ke
+Agu ata
+Afri ca .
+Adeye ye
+Ade mola
+Ade bo
+Ada zi
+Achuzi a
+Abubakar  ,
+Abaribe  ,
+Aba te
+Aba gana
+Ab del
+Ab ba
+A thle
+A nto
+A maka
+A kwete
+A a
+A K
+A BS
+A AC
+8 00
+50  ,
+30  )
+3 6
+25  ,
+2019  ?
+200 9 .
+200 9
+2 2 ,
+2 .
+18 0
+12  )
+10  .
+1 2 ,
+- 3 5
+(  ya
+(  U
+(  PDP
+'  ;
+ ”  ,
+ ;  ;
+ .  "  onye "
+ .  "  che
+ .  )
+ !  !
+  "  onye "
+“  ugbu
+“  mba
+“  ebe
+“  bi
+“  agha
+“  [
+ụta ra
+ụgha  ,
+ụbụ rụ .
+ụ sụ
+ụ rọ
+ọstra lia .
+ọstra lia
+ọrụ  ;
+ọnyụ pa
+ọnwụ  . ”
+ọnwa  ,
+ọmụ maatụ
+ọma jiji
+ọka i
+ọgbaaghara  .
+ọgba a
+ọgbaa tumtum
+ọdụ  .
+ọdụ  ,
+ọdịnala  ,
+ọ yị
+ọ pụrụiche
+ọ n
+ịntaneti  ,
+ịlaị sha
+í gw
+ígw é
+za  ?
+ya .   " ọ "
+y ne
+ve nti
+venti on
+uru agụ
+ukwu  . ”
+ugboro  ,
+u gba
+tụ  ,
+tịnkọ m
+to ry
+ti es
+ti can
+ta la
+ta l
+stri ke
+steeti  ?
+sta nda
+standa dị
+st ịs
+ssa ma
+sion  :
+si ve
+sh les
+shles s
+sh ee
+setan  ,
+satọde e ,
+sa n
+sa le
+s wi
+s so
+s li
+s la
+ru sale
+re- Eme
+re-Eme rick
+re y
+re wa
+re mberg
+ra ble
+r by
+pị m
+pou los
+pe eji
+pe  ,
+p s
+otu tu
+otu  ?
+onyi nyo
+olile anya .
+okpom ọkụ
+oko oko
+ohu  ,
+ogbu gbo
+obiano  .
+obi bi .
+o re
+o nwu
+o na
+o la
+o h
+o be
+ny u
+nwụ  ?
+nu gwu
+ntaakụkọ  ,
+nkwa  .
+nkiri  :
+nke   " 
+nji nji
+nje ri
+nje hie
+niile  ”
+niile  ;
+ni an
+ng -
+ndọ rịtaụka
+nde ewo
+ncha  .
+na te
+na chukwu
+mu nd
+mpi o
+mp e ,
+mme gide
+mmalite  ,
+mkpu  ,
+mgbu  .
+mbọ  .
+mbi bi
+mbe le
+mahadu m .
+maachị  ,
+lo ja
+lo gy
+lo  ,
+llo f
+lin s
+li tion
+li e
+lebe  "
+latị n .
+kọ m
+kwe lu
+ku n
+kra t
+kpo ro
+kere do
+kara t
+kansa  .
+ka adị
+ka  :
+k ki
+jọ stịs
+jọ n ,
+ji ofor
+jerusele m ,
+je ms
+izi to
+iteghe te .
+iri ka
+in  ,
+il y
+ikpeazụ  . ”
+ike nga
+ifo  .
+ibe  ,
+i bu ,
+ha ra
+gụ  ,
+gọvanọ  .
+gọvanọ  ,
+gwụ  ,
+go o
+go di
+gh e .
+ge ne
+gbe re
+g ration
+fran s .
+febụwarị  .
+fe mi
+fa t
+fa ir
+ezi e
+ewu  ,
+er ry
+ele lebe "
+ekpi li
+egwu ri
+ede  ,
+e shia
+e cu
+dị  . ”
+do la
+dimkpa  ,
+di ne
+dge t
+d ro
+d ra
+cto ber
+con c
+collapse  :
+co al
+che  .
+cha lla
+c a ,
+bịa  ?
+bsi dy
+bri dge
+bo olu
+be lụ
+amaw bịa
+ala ka
+akụnụ ba ,
+akụ  ,
+akpa  .
+ajụjụ ọnụ
+ajụjụ  .
+ahụ  :
+agwa  .
+aghara  .
+agba  .
+af or
+af a
+acha ra
+abụọ  ;
+abụọ  :
+a tị
+a musu
+a gọ
+Zimbabwe  .
+Z ine
+You ng
+W is
+Vene zue
+Va tican
+V o
+V AT
+United  ,
+Ume h ,
+Ude ogu
+Ude mba ,
+Uche chi
+Uba ni
+U te :
+Trump  ,
+Trans for
+Toro nto
+To chukwu
+Ti mi
+Te x
+Te odo
+Switzer land
+Su n
+Sla m
+Singapo re
+Service s
+Ser gi
+Se x
+School  ,
+Saraki  ,
+Sara h
+Sa int
+SARS  :
+S port
+S and
+S ama
+Q ata
+Py rite
+Pro ject
+Port Harcourt  .
+Pier re-Emerick
+Pan ther
+PF N
+P h
+Ote dola
+Omo -A
+Omo-A gege
+Oma mba
+Oli ver
+Okpo ko
+Ok igwe
+Ojo to
+Ogunye mi
+Ogbu okiri
+Obi ang
+O y
+O tu
+O lani
+O ctober
+O bu
+O P
+Nwa bia
+Nu remberg
+Nsu gbe
+No t
+No a .
+Nke chi
+Ni co
+Ni cho
+Ndubu isi
+N D
+Muelle r
+Mone tary
+May or
+Ma tiu
+Ma in
+MT N
+M y
+M it
+M S
+M  .
+Ly on
+Lo ve
+Lan ka
+La mbo
+La ke
+Ko la
+Kabi r
+Ka te
+K izito
+K i
+K ele
+K ara
+Ju ne
+Ju de
+Ju d
+Ju an
+Jo s
+Jo nes
+Jo llof
+Je rusale
+J us
+Iv  ,
+Institu te
+Indi a .
+Indi a ,
+In f
+Ike okwu
+Ije oma
+IA AF
+I sha
+I ron
+I fite
+Ha ssan
+Gover nor
+Go mbe
+Ga ssama
+G lo
+G ames
+Freedo m
+Feli x
+Fani -
+Fani- Kayode
+F r
+Ex ecu
+Ekwu eme
+Ebonyi  ,
+Eag let
+E ti
+E se
+E no
+E hab
+E fe
+E P
+Dru g
+Do mini
+Di stri
+Di j
+Demo krat
+Dan go
+D J
+D A
+Col lins
+Coa lition
+Co lo
+City  ,
+Church  ,
+Chukwu lobe
+Chi me
+Char ly
+Cata lo
+C ultu
+C ell
+C  )
+Bur na
+Bulga ria
+Bre nton
+Bebe l
+Bar win
+Ba sin
+Ba d
+Awa da
+Au du
+Arge ntina
+Anya oku
+Ama ju
+Ah madu
+Agbo gugu
+Ade le
+Ad visory
+Abi y
+Abdul ra
+Aa ron
+AT M
+A ro
+A my
+A gri
+A g
+A bo
+7 00
+6 00
+5  :
+4  :
+3 00
+25  )
+23  )
+201 2 ,
+20  ;
+2 6 ,
+196 7
+19 0
+18  )
+17  :
+16 0
+13  ,
+-  6
+- U
+(  onye
+(  dị
+(  C
+ .  "  ya "
+ " "  bụ "
+  " dị  "
+  "  e "
+“  ụkwụ
+“  ụbọchị
+“  ọtụtụ
+“  ọnwụ
+“  we
+“  olee
+“  oke
+“  na
+“  hụ
+“  bịa
+“  anụ
+ụta lị
+ụkọchukwu  .
+ụda ra
+ụbụ bọ
+ụ ja
+ọtụtụ  "
+ọtọ  . ”
+ọrụ  .  " 
+ọnọdụ  .
+ọkọ rọ
+ọkọrọ tọ
+ọkwụ rụ
+ọkwa  ,
+ọkpọka  :
+ọf ala
+ọ m
+ọ lụ
+ịgba  .
+ị rish
+zi  ?
+z  ,
+ya ?  ”
+y uni
+y ke
+wu ru
+we ll
+we  ?
+wa le
+vootu  ,
+vo mi
+vin ce
+vie ve
+v ille
+v illa
+v  ,
+unu ko
+ugo  .
+u dah
+u bu
+tụ ta
+tọ rọ
+tọ n
+ton  ,
+to ye
+tlehe m .
+ti sh
+ti ence
+tech nic
+te ria
+ta  . ”
+sọnde  .
+sọlọ mọn
+sị ,   " ọ "
+swi di
+swidi n .
+su re :
+su bsidy
+steeti  :
+st  :
+st  ,
+sle eti
+sime ntị
+si ne
+se n
+se arch
+sa m
+rụ  "  elelebe "
+rụ  "
+rọshịa  .
+rọ s ,
+rị pọ
+rịpọ b
+rịpọb lịkan
+ru wa
+ro se
+ri ne
+ren dum
+refe rendum
+re au
+ration  "
+rate s
+rah man
+rac le
+ra y
+ra  :
+r ya
+r n
+r ghi
+pọ nd
+poli cy
+po x
+po ta
+pe dia
+pe ace
+op i
+omenala  ,
+olo gy
+oli n
+ogbugbo  :
+odo gwu
+oche  ,
+obo si ,
+obi bi ,
+nọ ọsụ
+nyocha  .
+nye  "
+nwu nmi
+nwa mba
+nu  ,
+ntụ gharị
+ntụ  .
+ntu le
+nti ne
+nta kị
+nso  . ”
+nri  ?
+no -Ob
+nne rby
+nne  .
+nkụ  ,
+nkịtị  ,
+nkwu chite
+nkwado  ,
+nkwa rụ
+nke nke
+nk i
+nji de
+niile  . ” )
+nie sta
+ni ck
+ni a ,
+ngwa ọrụ
+ngalaba   " 
+ne sia
+ne r
+nde kọ
+nche  .
+nai ye
+n hịa
+n cial
+mpe mpe
+mp osi
+mp o
+mmụ ta .
+mme tụta
+mmanwụ  ,
+mkpị sị
+mkpu chi
+mkp iri
+mi llion
+mgbọ  .
+mgbagha ra .
+me stone
+me  . ”
+mbi pụta
+maị l
+ma rt
+lị n
+lu sive
+lo pp
+leagu e .
+late rite
+la ndo
+kwe  ,
+kwa s
+kpọ  ,
+kpamkpa m ,
+kla s
+ki na
+ki m
+ka l
+k ing
+jenụwarị  ,
+je so
+je  ,
+j oko
+j o ,
+isi  "
+in ter
+illi ng
+ikike re
+ik h
+iji ng
+ije  ,
+ihe re .
+igbo ukwu
+i ti
+hib ru .
+he n
+ha .  ,
+h elị
+helị kọpta
+gua ge
+go du
+go do
+go  ,
+ghị  ?
+ghị  . ”
+gh u
+ge dọ
+gba   " 
+gb ụgbọ
+gara aga
+f t
+f ri
+f on
+ezum ike .
+ezu me
+enyo  .
+eluigwe  ?
+ejije  ,
+ehihi e .
+ego  ?
+ege de
+egbu ke
+ebu le
+e- Osuji
+du ka
+do zie
+dio ka
+di li
+di c
+de nt
+da n ,
+cy clo
+cyclo pedia
+cu a
+cou nt
+cha rd
+c ca
+bụ  "  a "
+bụ rụ  " elelebe "
+bọọ lu
+bn  )
+bi a .
+bezbọ l
+ber to
+b ba
+azụmaahịa  .
+atụ rụ .
+arch bishop
+ara  .
+anụ rị .
+anụ  ,
+anwa nsi
+an der
+alụkwaghị m
+akụkọ  .
+akwụ na .
+akpa  ,
+ahịhịa  ,
+agụụ  .
+agụma akwụkwọ
+agha  ?
+agba  ,
+af i
+achịcha  ,
+abalị  :
+a wu
+a vi
+a tu
+a te
+a rọ .
+a pụl
+a ction
+Z akari
+Z I
+ZI K
+X avi
+Wa ter
+Vale ntine
+V er
+Umu okpu
+Umu chu
+Ugo chukwu
+UT H
+UNI ZIK
+UN IC
+UNIC EF
+U ber
+Transfor ma
+Traffi cking
+Tra de
+To wn
+To ni
+Thi ba
+Tele vision
+T ro
+T ime
+T al
+Sy l
+Sta nda
+St ra
+Soyinka  :
+So ma
+Sil va
+Si nai
+She ikh
+Sha ron
+Serge ant
+Sa ga
+S pan
+S irika
+S imo
+S P
+Ru ff
+Ru be
+Roge r
+Ri ghts
+Ri chard
+R t .
+Pun ch
+Pro te
+Prima ry
+Po land
+Po gba
+Pin nick
+Peter s
+Pe te
+Papado poulos
+Paki stan
+Pa tience
+Pa rish
+P lan
+Osa debe
+Or lando
+Ola udah
+Okwu dili
+Oki yi
+Oke y
+Ogbu nike
+Odi on
+Obo no-Ob
+Obina gu
+Obi gwe
+O welle
+O ti
+O s
+O re
+O ni
+O naiye
+O kere
+O go
+O fu
+Nw afor
+Nnabu ife
+Nigerian  "
+Nigeria  "
+Nicho las
+Na poli
+NC DC
+N j
+Mur tala
+Mu sic
+Me tho
+Me di
+Marc el
+Man  .
+Mahre z
+Madrid  ,
+Mac ron
+M us
+M W
+Londo n ,
+Lib ya .
+Li lian
+Le nt
+Le a
+Lambo rghi
+Kya ri
+Kele chi
+Kaduna  .
+Ka olin
+K lopp
+K el
+Jose phi
+Jong- U
+Japan  .
+Ja iru
+J ustin
+Iw obi
+Isi guzo
+Indo nesia
+Indo nesi
+Imo h
+Ike di
+IPOB  :
+IPOB  ,
+I yke
+I sta
+I nitiative
+I niesta
+I le
+H is
+H am
+Ghana  .
+Germa in
+Gene vieve
+Ge t
+Gana  ,
+G ọ
+G reen
+France  .
+Fir st
+Fina ncial
+Farou q
+Facebook  ,
+Fa ttah
+F ul
+Execu tive
+En cyclopedia
+Ed gal
+Ebo e-Osuji
+Ebe le
+E ye
+E nd
+E je
+E cua
+E S
+Do na
+Dij k
+De nnerby
+Dapchi  :
+Dabiri -E
+Dabiri-E rewa
+Da ily
+D unuko
+D ole
+D ama
+Courto is
+Co mma
+Co m
+City  :
+Chukwu jekwu
+China  ,
+Chieji ne
+Chibo k ,
+Chi ze
+Chi ma
+Che kwas
+Chan ge
+Catalo nia
+Car l
+Can cer
+Camero n
+Cam bridge
+Califor nia
+Cala bar
+Ca re
+CC TV
+C lo
+C en
+Bur kina
+Bu reau
+Bu ck
+Bri tish
+Bri ga
+Brazil  .
+Bi den
+Ber na
+Benu e :
+Be tlehem .
+Be ijing
+Balo gun
+Bala ra
+Baka re
+B on
+B il
+Ayo gu
+Awa rd
+Atiku  ,
+Arsenal  .
+Arabi k
+Ara fat
+Ar ch
+Anto nio
+Ani chukwu
+Alex ander
+Aki nwunmi
+Ade osu
+Abe oku
+APC  ,
+AFCON  :
+ABS UTH
+A ịrish
+A vomi
+A rea
+A po
+A lo
+A keredo
+A A
+7 .
+6 9
+6 6
+400  ,
+4  - 
+3  :
+29  ;
+28  )
+26  )
+201 2 .
+200 6 .
+200 4 ,
+2 2 )
+2 1 )
+1914  ,
+187 9 .
+18  ,
+17  ;
+1 10
+000  .
+000  ,
+-  4
+( PDP  )
+( APGA  )
+(  ọ
+(  n'
+(  P
+(  G
+'  "
+ ”  ?
+ .  "  ha "
+ )  :
+  "  ị "
+  "  si
+  "  na
+  "  mana "
+“  ụmụnna
+“  ji
+“  ga
+ụwa .  ,
+ụwa  ;
+ụmụada  " " n' "
+ụmụ  ,
+ụma  .
+ụlọikpe  ?
+ụlọakụ  .
+ụlọakwụkwọ  .
+ụkọchukwu  ,
+ụjọ  ,
+ụ yọ
+ụyọ kọ
+ụ pa
+ụ nwụ
+ụ cha
+ọtọ  ?
+ọma  .  " 
+ọkụkọ  .
+ọkpụ tọrọ
+ọkpụtọrọ kpụ
+ọjọọ  . ”
+ọjị  .
+ọgụgụ  .
+ọgụgụ  ,
+ọgwụ  .
+ọgara nya .
+ọ rọ
+ọ lọ
+Ọ zọ
+ịhụna nya ,
+ịgba  ,
+ịchafụ  :
+zuru oke
+zu zu
+zor  ,
+zo ne
+ze  ,
+za ni
+z man
+yo yo
+yi  .
+y er
+y  .
+wu  ,
+wi g
+wa zuruike
+wa yo
+w or
+vaị n
+uro toye
+ur gen
+umu dioka
+ugo eze
+udo  ?
+u wazuruike
+u f
+tu men
+ttack s :
+tt lement
+ti ri
+ti i
+tere nian
+te l .
+taa ta .
+ta   " 
+t rou
+t rea
+sị   " ọ "
+su m
+st her
+so na
+sine ss
+si g
+sho ggi
+sh e
+ser vice
+se  ,
+saị rọs
+sa t
+sa r
+sa nd
+s co
+rụ   " na "
+rọ fe
+rọ ba
+ru ba
+ro  "
+refe ree
+re  .  " 
+ra de
+ra  . ”
+pọ pụl
+pu b
+pub lican
+pre me
+pound s
+po wer
+pa y
+pa rish
+pa r
+p rọfe
+p pe
+p ino
+ozigbo  .
+ose  ,
+ori e
+one y
+omeka tara
+ole  ,
+okwute  .
+okpo to
+oko kporo
+okenye  .
+ogologo  ,
+ogbenye  ,
+of fi
+obi  :
+obi  "
+o he
+nọve mba .
+nọ ọ
+nwụ  . ”
+nwoke  "
+nwata  .
+nwamkpị  .
+nwa amadị
+nu kwu
+ntorobịa  .
+nta l
+nsụ nsụ
+nsọ pụ
+nnọ kọ
+nle do
+nkụ  .
+nkwa fu
+nkwa  ,
+nkey pox
+nka ta .
+nka ta ,
+ngwu pụta
+nga rị
+ndo kwa
+ndi di .
+nda tion
+nchọ nchọ
+nche gbu
+ncha ra .
+ncha  ,
+nce  :
+nai ji
+naiji ria
+na  "  ndị "
+n on
+n kpụ
+n gwuru
+mụ rụ
+my r
+mpi ks
+mp ịa
+mp ako
+mon d
+mmeri  ,
+mme zu .
+mkpesa  .
+minista  .
+min  ) .
+mi na
+mi ly
+mgbede  ,
+mfe  ,
+medi terenian
+me nta
+me gbu
+me gawa
+megawa tt
+me  .  " 
+mbịa mbịa
+mbo mbo
+maka   " 
+ma chukwu
+ma  "
+m ole
+m ford
+m  ? ”
+m  .  " 
+lọ f
+lọ b
+lu mma
+lo w
+lo od
+lla r
+li stus
+li ban
+legọs  :
+lan guage
+la y
+kọrị ta .
+kọ nkịrị
+kwụ rụ  " na "
+kwụ  ?
+kwụ  ,
+ku  ,
+krisma s .
+kpọmkwe m .
+kemgbe  ,
+ka sị
+ka dị
+ka chi
+k lọb
+jọ lọf
+juu n ,
+ji   " 
+je e
+j or
+j an
+iro  ,
+ine r
+ije  .
+ihi ala ,
+ihi ala
+ide n .
+iche  . ”
+iberiibe  .
+i p
+i chie
+i bu
+ho od
+hi ara
+he em
+ha n
+ha   " . "
+gue ma
+gri k ,
+goo lụ
+gi e
+gen ce
+gbo ruwa
+gbo lu
+gbe ne
+ga s
+g lass
+fu rt
+fri ji
+ezume zu
+ezinụlọ  .
+ezi e ?
+ezi bel
+eprel  .
+enugwu  ?
+ele ke
+ekwe  .
+ego  :
+egede ge
+ebube  .
+e zani
+e ing
+e gbo
+e  . ”
+dọ b
+dọb lịn
+du ct
+do llar
+de la
+dd le
+da ta
+da le
+conc lusive
+co b
+co a
+ci ne
+chineke  :
+cha nge
+ca shless
+bụ . ..
+bụ  "  ụmụada " " n' "
+bọ l
+bu kola
+bezbọ l .
+bar rel
+baptizi m .
+ba le
+b ro
+b bi
+b be
+awa ra
+atụmatụ  ,
+atụmatụ   " 
+arụ sị ,
+anya  .  " 
+any ụ
+an ga
+amụma  .
+ama ra ,
+ama gedọ
+akwụ  ,
+aka  "
+aga dị
+afa el
+a ?  ”
+a .  )
+a tia
+a st
+a rụ ,
+a fe
+a  !
+a   " . "
+________________ ________________
+Zi on
+Z ik
+You th
+Y aha
+Y aba
+Xenophobi a :
+Wo od
+Wis dom
+Wil fred
+Whi t
+We sley
+We are
+War ri
+Vo ice
+Virgi l
+V al
+Uwa zuruike
+Univer sal
+Uni ty
+UN ES
+UNES CO
+U ru
+U lumma
+U ke
+U ju
+U J
+U C
+Tru st
+Transforma tion
+To m
+To ky
+Timgad  .
+Time s
+Teodo rin
+Techno vation
+Te am
+Ta liban
+T ou
+T onye
+T en
+T am
+T E
+T D
+Su preme
+Ste lla
+Standa rd
+Sta mford
+Spanish  .
+Span n
+Sowore  :
+Simo ne
+Shehu  ,
+Se gun
+Sco t
+Sali su
+Sadi ya
+S now
+S ER
+S A
+Rube n
+Ro tary
+Ro berto
+Re publican
+Re gu
+Re cord
+Ral ph
+R ile
+R ebe
+R afael
+Pri nce
+Pri me
+Premier ship
+Portu gal
+Pe shia
+P ho
+P P )
+Ono h
+Onaiye kan
+Omamba la
+Oli mpiks
+Okon jo
+Oko i
+Odi nga
+Obi -
+OG M
+O gbe
+O A
+Nze wuji
+Nna mu
+Nna mani
+Nna dozie
+Nel son
+Ne bal
+Ndu bisi
+N machukwu
+N guema
+Mo mo
+Mini ster
+Mi c
+Metho di
+Mbo nu
+Mba kwe
+Martin s
+Mar ble
+Man  
+Madume re
+Madu agwu
+Madrid  .
+Ma li .
+MA TA
+M gbe
+Lin da
+Li ving
+Leban on
+Leagu e ,
+Le kki
+Lamborghi ni
+Lago s .
+La wal
+LE A
+L ille
+Kore a .
+Kondu ga
+Kha shoggi
+Kachi kwu
+Ka ori
+Jus tice
+Jo y
+Ji gawa
+Jessi ca
+Je rom
+Je f
+Ja cob
+J urgen
+J ezibel
+J en
+Iv  .
+In ve
+In du
+Imohi mi
+Imo  ,
+Ike me
+Ike a
+Ife jiofor
+Ibi kunle
+IS IS
+IPOB  .
+IMN  )
+IC PC
+I su
+I so
+I da
+Hu tter
+Hu nga
+Hu man
+He art
+Harcourt  .
+Ha w
+H il
+Gọ v
+Guar dio
+Gu i
+God son
+G y
+G ri
+G on
+G ide
+Ful ham
+Frank furt
+Fou ndation
+Fer na
+Fa yemi
+Fa so
+Eze nne
+Europe  .
+Electri city
+El-Zakzaky  .
+Ecua dor
+Eagles  ,
+E sther
+E nugwu
+E gwu
+E gbu
+E du
+Domini c
+Di ezani
+Daniel  ,
+Da ura
+Da ni
+D urotoye
+D r .
+D ia
+D NA
+Cup  :
+Cro w
+Cro atia
+Crime s
+Cou nt
+Codeine  :
+Co al
+Clo sure :
+Cla y
+Ci vil
+Chukwu eze
+Chu ks
+Christi e
+Chidi ebere
+Chi eme
+Chi buike
+Chi bu
+Cameroon  ,
+Cal listus
+Ca ro
+CH OGM
+C lint
+Buck nor
+Bo eing
+Be ni
+Be ne
+Balara be
+Ba h
+Ba by
+B ode
+B ana
+B ada
+B C
+Atiku  :
+Athle tics
+Asi sat
+Asa gwa
+Aro chukwu
+Are wa
+Ara b
+And y
+Anao cha
+Al ph
+Aku re
+Air peace
+Agule ri ,
+Agu ero
+Af ara
+Adi chi
+Adebo ye
+Ade gboruwa
+Adazi -N
+Ad mini
+Acade my
+Abate te
+Ab bo
+AN U
+A ssi
+A sia
+A kin
+A je
+A hiara
+A fe
+A challa
+A bia
+9 1
+60 7
+6 8
+4 9
+3 5 )
+3  - 
+2000  ,
+200 6 ,
+200 6
+200 5
+200 4
+20 2
+2 7 )
+199 9 .
+18 4
+17 0
+12  :
+-  8
+-  5 )
+-  14 )
+- West
+(  £
+(  R
+(  INEC
+(  IMN )
+(  D
+(  AN
+(  4
+%  )
+ ? ”  )
+  "  i
+“ mkpụrụ  ”
+“  ozi
+“  naanị
+“  chineke ,
+“  biko ,
+’  .
+ụmụ ahịa ,
+ụlọụka  ,
+ụka   " 
+ụfụ  ,
+ụfọdụ  "
+ụba  .
+Ụ mụ
+ọnụ  ?
+ọmị iko
+ọlaedo  ,
+ọkọ chị ,
+ọkpụ kpọ
+ọgwụgwụ  .
+ọgba ra
+ọgba nje
+ọfọ ka
+ọ tị
+ọ   " 
+Ọ nwụ
+ịnyị nya .
+ịkpe azụ
+ịhụna nya .
+ịchafụ  ,
+ị di
+á n
+zụ  .
+zi z
+zi g
+z ho
+yuni ọn
+yo ta
+ye de
+ya :   " 
+ya .  "  ihe "
+ya .  ;
+ya  )
+ya  !
+x to
+x on
+w ork
+w ka
+vie t
+vi ta
+vi ron
+ve z
+va l
+va c
+v us
+v ol
+ur rency
+ul t
+ukpo r
+ugbog uru
+ud iri
+u ta
+uta zi
+u m .
+u m ,
+u ge
+uge gbe
+tị n
+to mi
+to la
+tion  :
+ti ves
+ti ma
+ther n
+tha ny
+te s
+te naị
+te lli
+telli gence
+te le
+ta tenaị
+ta i
+ta  !
+t z
+t n
+t  :
+sọnde  ,
+sị ,   " anyị "
+sy n
+strike  :
+sto ration "
+sti que
+state  :
+sta n .
+st ries
+st ration
+sso r
+ssi a
+ss port
+spe n ,
+so nal
+si a ,
+sho t
+shee d
+sh a ,
+se x
+se man
+s will
+s por
+rụ  . ”
+rọ  ?
+rịọ rịọ
+ru me
+rou i
+ro thy
+ro ke
+risi i
+ri zu
+ri  "
+ri   " 
+rest ructuring
+re public
+rama do
+ral d
+ra mic
+ra i
+ra h ,
+pọ nti
+pọnti ọs
+pọ int
+prọfe sọ
+plo sion :
+pho to
+per s
+pe nti
+penti kọ
+pa pers
+p sum
+p pa
+p el
+p a .
+ozu  .
+otu to ,
+osimiri  .
+ose bu
+osebu rụ
+oro ma
+onu gbu
+omenala  .
+omeiwu  .
+olu  .
+olu  ,
+olo gbo
+oku  ,
+okorobịa  .
+ofufe  ,
+odi de
+ochie  ?
+obo sara
+o ki
+o  ?
+o  !
+nzọ ụkwụ
+nze  ,
+nwunye  ?
+nwu  ,
+ntị  ?
+nti ng
+nti fi
+nte co
+nta mu
+nt ozu
+nsọ  ?
+nsogbu  ?
+nrụrụ aka ,
+nrụ pụta
+no fia
+nnyocha  ,
+nkwe kọrịta .
+nkwado  .
+nkeji  .
+nke r
+nke bi
+njedebe  ,
+ni fe
+ni cal
+nhọpụta  ,
+nghọ ta ,
+nga  .
+ne w
+ne l
+nde sli
+nde de
+nd s
+nchụ aja ,
+naịjirịa  .  " 
+nator  ,
+nal y
+na  "  ihe "
+na za
+na m
+n ru
+n obi
+n n
+n guzo
+nguzo be
+mọ kpọ
+mị  ,
+ms by
+mpi c
+mpi  .
+mo nt
+mmi gration
+mmanụ  ,
+mmadụ  .  " 
+mma d
+mkpụrụ  ,
+mini um
+mili ano
+mi nal
+mi ah
+mgbochi  .
+mgba da
+me ri .
+mbịara mbịa
+mbido  .
+mbido  ,
+mbi nye
+mbi lite
+mba za
+mar k
+ma ọ
+ma ss
+ma ke
+ma in
+ma go
+ma de
+m or
+m kpo
+m  ”
+m  ) ,
+lọ ọlọ
+lịka lịka
+lu s
+lu minium
+lo gi
+lle r
+li ma
+li a ,
+le na
+laza rọs ,
+la dy
+kọrị nt
+kịrị kịrị
+kw o .
+ku lu
+kpọmkwe m ,
+kpe  .
+ko ba
+kemgbe  "
+ke du
+kadị nal
+k il
+k hi
+juu n .
+ju da
+izugbe  .
+iyi  ,
+isi  ?
+ip zig
+in dy
+in conclusive
+imi  ,
+ille r
+ile le
+ile ad
+ike  ;
+ike  "
+idemmiri  .
+i ru .
+i re .
+i re ,
+i lo
+i a ,
+i  .
+ho de
+heli kọpta
+ha m .
+h el
+gra ph
+gide  .
+gh iri
+gbụrụ gbụrụ
+gbu o
+gba nụ
+gb inde
+gazi ne
+ga rd
+g na
+g ge
+for cement
+fo -
+fo- Ad
+fi te ,
+fa risii
+f ort
+f ford
+ex plosion :
+eti ng
+eri meri
+er ra
+er  ,
+enyo  ,
+enyemaka  ,
+enu e
+el la
+ekwu lọ
+ekwensu  ,
+ekpe  .
+ekpe  ,
+egwuregwu  :
+ego  "
+ebe lebe
+e z
+e mo
+e mi
+do w
+dio ra
+di th
+di s
+di mkpa .
+di m
+di er
+de ration
+de ra
+day  .
+da m
+co pper
+co ma
+co m
+co in
+cha  !
+ce  ,
+car pe
+c up
+c ultu
+c lass
+c  ,
+bịa  . ”
+bu tion
+bu dget
+bor der
+bon ch
+bi n
+bi llion
+bi ll
+be tel .
+be na
+ba o
+ba il
+azụmaahịa  ,
+arụ ma
+ar y
+anụ  .
+anyị  ;
+anti no
+ama la
+ama dị ,
+ala  "
+al ong
+akụnụ ba
+akụ  .
+aka ra .
+ahụ .  ,
+ahịhịa  .
+agụụ  ,
+agụmakwụkwọ  .
+afi kpo
+achi ng
+a zi
+a wọ
+a wa .
+a th
+a kp
+a  ”
+a  ! ”
+Zuba ir
+Zimbabwe  ,
+Z ou
+Yaha ya
+Y or
+Y PP
+We alth
+Wa les
+Wa ge :
+W in
+W ike ,
+W ha
+Ver sion
+Venezue la
+Vene rable
+V ol
+V isi
+Uzo ho
+Uwa ifo
+US A
+US  .
+U huru
+U gbo
+U A
+Tra fford
+To yota
+Tex as
+Techno logy
+Tai wo
+T y
+T UC
+T CN
+T B
+T  .
+Super  "
+State  :
+Sta ff
+Sta dium
+Sp ring
+So viet
+Snow den
+Sime on
+Si erra
+Service  ,
+Sergi o
+Se ttlement
+Sco tt
+Sambi sa
+Sa ni
+SER AP
+S wi
+S tock
+S ir
+S ar
+S U
+S ON
+S  .
+Ruff coin
+Ro oney
+Ro ch
+Rile y
+Rehab  .
+Rebe cca
+Re ube
+Re sult
+Re storation "
+Re chel
+Ra ila
+R obi
+R hode
+R am
+R B
+Q a
+Pu blic
+Pro vince
+Poly technic
+Plateau  ,
+Pe nteco
+Patri cia
+Pa t
+Pa s
+Pa ci
+P rie
+P ra
+Oyo -
+Oye made
+Osi m
+Ope n .
+Oni gbinde
+Okwu o
+Okpa leke
+Oko li
+Oke zi
+Oga kwu
+Offi cer
+Odekpe  ,
+Ode deji
+Obono-Ob la
+O ut
+O ur
+O se
+O le
+O il
+O gba
+O ff
+O R
+Ny ong
+Nwo ye
+Nwo do ,
+Nwabu eze
+Nu ella
+North  .
+North  ,
+Nor thern
+No ve
+Nnamu oh
+Nna emeka
+Nke mdi
+Nimo  ,
+Niger  .
+Nico las
+Ngige  ,
+News papers
+Nai ja .
+ND LEA
+N no
+N kwe
+N ki
+N do
+My stique
+Mus lim
+Moha mmad
+Mo na
+Mi racle
+Mi la
+Me gan
+Me dia
+Mar ti
+Mar co
+Man  City
+Man dela
+Mala mi
+Mal ta
+Ma u
+Ma tịn
+Ma ri
+Ma llam
+Ma il
+Ma gazine
+M iche
+M aha
+Lu pita
+Love th
+Light  ,
+Lib ya ,
+Le one
+Le ipzig
+La u
+La te
+L os
+L ord
+L ar
+Kore a ,
+Kel vin
+Ke mi
+Kanu  ,
+Kaduna  ,
+Ka roui
+K ur
+K ong
+Josephi ne
+Jo ur
+Jessi e
+Je ro
+J  .
+Iwe ka
+Is sa
+Is land
+Inf antino
+Imo  .
+Ikechukwu  ,
+Ike nna
+Ifeanyi chukwu
+Idigo  ,
+I sh
+I mmigration
+I mma
+I k
+I gwe
+I ce
+Hunga ry
+Hu d
+He ro
+Haram  ?
+Har per
+Han na
+H ote
+H ome
+Guine a ,
+Guardio la
+Gu ma
+Gri msby
+God swill
+God dy
+Glo bal
+Gide on
+Ghana  ,
+Ga il
+G rea
+G ilead
+G am
+Fo od
+Flori da
+Fatoyinbo  .
+Fala na
+Fa yo
+Fa mily
+F M
+Eze obi
+Eze agu
+Eu ph
+Engine er
+En forcement
+Ekweremadu  ,
+Ehab  .
+Ebele chukwu
+Ebe nator ,
+Eaglet s
+Eagles  .
+E nwo
+E ne
+E lia
+E f
+E buka
+E bu
+E bere
+Dona tus
+Do rothy
+Do ra
+Di xon
+David -West
+Dango te
+Dan ma
+Da mbaza
+DP  )
+D y
+D uke
+D er
+Crow ther
+Cri minal
+Corne lius
+Cor by
+Comm on
+Codeine  ,
+Co sta
+Co nt
+Clint on
+Chukwulobe lu
+Chukwu ka
+Chize a
+Chime zie
+Chido ka
+Chi kwelu
+Chi dera
+Chi a
+Chelse a .
+Chelse a ,
+Cha po
+Ch o
+Can c
+Cali xto
+CN M
+C u
+C indy
+C ard
+C ara
+C  .
+Bu ndesli
+Briga de
+Bri tan
+Bri ng
+Bode jo
+Bo la
+Bi ssa
+Ber ger
+Benja mi
+Be thany
+Be st
+Be a
+Bana bas
+Baba ngi
+Baba ndede
+Ba ịbụl
+Ba ga
+BBC  "
+BB OG
+B illi
+Ayamelu m
+Avomi mi
+Ata ni
+At la
+Ash ịdi
+Ara rume
+Ange les
+Ange l
+Anaje mba ,
+Ami na
+Ama rizu
+Ama di
+Akwa  
+Aku fo-Ad
+Aka se
+Airport  :
+Agba koba
+Africa  :
+Ado ration
+Adeosu n
+Ade bukola
+Adamu  ,
+Abu le
+Abi d
+Abeoku ta
+Abdulra sheed
+Abdul rahman
+Abdu la
+APC  :
+AP  )
+AC  )
+A pa
+A ne
+A naly
+A ko
+A ha
+A gụ
+A ga
+A du
+A Z
+?  "
+8 3
+7 5
+7 4
+7 3
+7 2
+7  - 
+6  :
+500  .
+500  ,
+5 000
+5  - 
+4 0 ,
+37 0
+3 4
+3 3 ,
+28  :
+24  ,
+23  ,
+2016  ,
+201 1 ,
+201 0 ,
+2000  .
+200 8 .
+200 3
+2 9 ,
+17  .
+17  ,
+15 0
+12  - 
+1 20
+1 13
+000  ) .
+0 8
+-  19
+-  17
+-  16
+-  13
+- P
+(  ga
+(  DSS
+(  1 ,
+ ,  " " 
+  "  naịjirịa "
+“  ụlọ
+“  ụgwọ
+“  nwe
+“  mana
+“  kemgbe
+“  gba
+“  chọ
+“  bụ
+“  anya
+ụwa  . ” )
+ụmụ ụmụ
+ụlọikwuu  .
+ụlọakwụkwọ  ,
+ụlọ  . ”
+ụlọ  "
+ụkp aka ,
+ụgwọ  ?
+ụgha  ?
+ụda  .
+ụda  ,
+ụbọchị  ?
+ụbọchị  . ”
+ụba  ,
+ụ ta .
+ụ ta ,
+ụ lụ
+ọzọ  ;
+ọzọ  "
+ọwa ra
+ọnwụ ama
+ọnwụama egbu
+ọmụmụ  ,
+ọma  ”
+ọlị  . ”
+ọlị  ,
+ọkpọ rọ
+ọkpọ kọ
+ọkpọ ka ,
+ọkafọ  ,
+ọka nkuzi
+ọjị  ,
+ọhụrụ  ”
+ọhanaeze  .
+ọgbakọ  ,
+ọgbaaghara  ,
+ọdọ gwụ
+ọdịnala  .
+ọdachi  ,
+ọchịehi  .
+ọchịchị  ?
+ọbụla  .  " 
+ọbọ  ,
+ọ bịa .
+Ọnwụ zu
+Ọnwụzu ri
+Ọnwụzuri ke
+Ọ m
+Ọm ọba
+Ọ kọ
+ịtụna nya .
+ịlaị ja .
+ịhụnanya .  ”
+ị zụ
+ị li
+ịli mọn
+zọ  ,
+zu ka
+z za
+z akari
+zakari ya
+yọ s
+yi  ,
+yer s
+ye ch
+ye  .
+yahoo -
+yahoo- yahoo
+ya .   " anyị "
+ya d
+yad h
+ya ba
+y yi
+we st
+we le
+we  .
+wa r
+vita min
+viron menta
+vironmenta list
+vie w
+vi c
+ver s
+ver ha
+verha mpton
+van gi
+vangi rai
+v or
+ute nant
+us  ,
+umu nne
+ukpo r ,
+uju  :
+uhuru chi ,
+uhuru chi
+ugo  ,
+udu mmiri .
+udu bonch
+u no
+u ng-
+u ko
+u ka
+u fe
+tụ mọkpọ
+tu ru
+tu m .
+tu m ,
+trou se
+trouse rs
+to ro
+tis tics
+ti lity
+ti e
+ti ca
+tho rity
+tha t
+th  .
+teria ls
+ter ling
+ten nis
+ten ni
+tel lite
+tan cha
+tan  ,
+ta u
+ta rị
+ta nki
+ta iner
+t si
+t rans
+sụ  .
+sy th
+su r
+su ki
+sti k
+stant pay
+stantpay pal
+stan bu
+st ru
+ss ment
+spe ctor
+siriak  .
+sina mọn
+si o
+si n ,
+si ah
+si  ?
+si   " 
+sh ị
+sh ford
+senet  ,
+se nti
+senti mita
+se d
+se con
+se  .
+saị las
+sa u
+s vangirai
+s tu
+s son
+s r
+s po
+spo ra
+s c
+s Cos
+s   " 
+rụ  ;
+rọshịa  ,
+rya nt
+ru ssia
+ru  . ”
+rose ne
+ro r
+ro ad
+ris c
+ria ge :
+ri an
+rea der
+re tọn
+re m
+re i
+rei ra
+ramic s
+ramado l
+ra tai
+ra t
+ra les
+ra  .  " 
+qu in
+qu are
+pre ssion
+pp ing
+poli ce
+po st
+po int
+po bo
+pla stik
+pi ta ,
+pha t
+pentikọ st
+pe nsụ
+papa ị
+pa rency
+p ter
+p sy
+p ol
+p ing
+ozigbo  ,
+ozi zo
+oyibo  ,
+oyi yi
+ou t
+otu te
+otu  . ”
+otu  )
+osi tive
+osi se
+osi n
+oseburụ wa
+ort mund
+ori e ,
+op hi
+onyonyo  .
+onyinye  .
+on owu
+omekaome  .
+omeiwu  ,
+olo dy
+olody myr
+ol sk
+okwukwe  ,
+okwu  . ”
+okwu  "
+okpuru  .
+okpukpe  ,
+okpu eze
+okpoto kpo
+oko mo
+okirikiri  ,
+okenye  ,
+oke  . ”
+ojii  :
+oji  ,
+oge  ?
+odee akwụkwọ
+obodo  ?
+obi ọma ,
+o welle
+o tụmọkpọ
+o ru
+o b
+nọve mba ,
+nọ mba
+nọ  ?
+nọ  "
+ny ọ
+nwu  .
+nwa for
+ntụ pọ
+ntorobịa  ,
+nsọ tụ
+nsogbu  . ”
+ns ky
+nru be
+nnu  ,
+nnochite anya
+nna nna
+nna  .
+nkwụ  ,
+nkwa debe
+nka kwụ
+ni or
+ni ko
+niko tin
+ni gbo
+ngwe re ,
+ngo  ,
+ng  ,
+ne i
+ne fo
+ndị agụ
+ndu hie
+ndo  .
+nchụ pụ
+nchụ aja .
+ncha tancha
+narị  ,
+nal  :
+na  "  onye "
+na nce
+na ka
+na  :  " 
+n si ,
+n ny
+n nwụ
+n lọ
+nlọ ta
+n ih
+mp e .
+mp ana
+mpana ka
+mo so
+mmụta  ,
+mmadụ  "
+mkpụrụ okwu
+mkpụ mkpụ
+mkpiri si
+mkpa ra
+mi no
+mi lli
+mi kal
+mi an
+mgba m
+mgba aka
+meri je
+me wu
+me nyi
+me nti
+me k
+mbinye aka
+mbe m
+maọ bụ ...
+mar ble
+ma ọlị .
+ma mba
+ma ll
+ma la
+ma il
+m gbị
+mgbị rị
+m  ;
+m  "
+ly n
+ly mpic
+ly  :
+los som
+lo wo
+lo m
+li ya
+li s
+language  .
+la ta
+la m
+la bi
+la  !
+l obi
+kọmpu ta .
+kọmpu ta ,
+kọ le
+ku bi
+kubi t
+kpa ra
+kp ala
+ko ng
+ko de
+ki d
+ki ck
+ki bo
+ke rosene
+ke mikal
+kanada  .
+ka rama
+k maa
+k ha
+jiji ji .
+ji uba
+ji de
+ji  "
+jeriko  ,
+jehova  ?
+jehova  . ”
+je man
+je  .
+jamanị  ,
+j j
+iwu  "
+iwe  ?
+iteghe te
+ite  ,
+is se
+iro  .
+iri ghiri
+in stantpaypal
+in f
+illi ng :
+illa ry
+ikike  .
+ihe re ,
+ihe  ”
+idemmiri  ,
+id na
+icheiche  ,
+ibe  .
+i nyo
+i godo
+i gh
+i ano
+i  ,
+hib ru ,
+hi ti
+he ad
+ha .  )
+ha ma
+h  .
+gị  ? ”
+gu i
+grik  .
+goolu  ,
+godị  ,
+go n
+go  .
+gna tius
+gha chi
+ggi ng
+gbo loja
+gbere gbe
+gba  "  alụkwaghịm
+gba  " alụkwaghịm  " " 
+gar ri
+ganị ganị
+ga tion
+ga  . ”
+g ry
+g ro
+fu na
+fi m ,
+febrụwarị  ,
+fe ver
+fair s
+fa ịlimọn
+f y
+f tau
+f la
+ezina ụlọ ,
+ezi  ?
+ewu mewu
+etu el
+etu  "
+en cy
+eluigwe  . ”
+ele nsky
+el low
+ehihi e ,
+edo  ,
+ebum nobi
+e utenant
+e uro
+e mu
+e gu
+e da
+dọkịta  ,
+dọkị ta .
+du m ,
+do nna
+do do
+dne s
+dio ha
+di e
+ders field
+de s
+de fo
+d ike .
+d  .
+cu ry
+co late
+ck y
+ci dent
+chukwu  .
+cho colate
+chineke .  ,
+chineke .  )
+che rem
+cha l
+ch t
+ce ss
+ce s
+ce nse
+can cer
+ca ze
+ca s
+c re
+c le
+c ker
+c ano
+bụ  "  Nigeria "
+bụ  ;
+bọ mbụ
+bịafra  :
+bo y
+bi tumen
+bi  ”
+bekee  :
+be ria
+bas ket
+bal sam
+b  .
+b  ,
+awu lu ,
+atụmatụ  .
+asụsụ  .
+asọmpi   " 
+asọ m
+asọ  .
+arụrụ ala .
+arụma rụ
+arụ kwaghị
+arịrịọ  ,
+anụ rị ,
+anụ   " - "
+anya   " 
+an ni
+an kwa
+amụ  .
+ame ed
+amaw bịa .
+amam ihe ,
+amagedọ n
+alụ mdi
+alakụ ba .
+ala  ;
+akụkụ  .
+akwụ kwụ
+akp akara
+aja mbele
+ahụ . ”  )
+ahụ  ”
+ahụ  "
+agụmba  .
+agwọ  ,
+agwa  ,
+agbụ rụ .
+afọ  ?
+af ị
+abịa  ,
+aa aa
+a pị
+a dụ
+a der
+a chu
+]  . ”
+Zu lum
+Zine dine
+Zi yech
+Zam bia
+Z elensky
+Yoru ba ,
+Yor k ,
+Wood ward
+Wol verhampton
+We dnes
+W en
+W el
+Villa ge
+Vi ole
+Vi et
+Vi cto
+V ulga
+V olodymyr
+V ide
+V enu
+V I
+Uwa leke
+United  :
+United  .
+Umu eri
+Uma ru
+Uma r ,
+Udo ma
+U te
+U nachukwu
+U la
+U ko
+U FC
+Tunisi a .
+Tro ost
+Trans parency
+Trafficking  :
+Tra ders
+Tou re
+To syn
+To o
+Tim ber
+Ti gers
+The ophi
+Tekno  ?
+Tech nical
+Te aching
+Tara ba ,
+Tan ko
+Tam bu
+Ta sha
+Ta hiti
+Ta dic
+T svangirai
+T ribu
+T osin
+T or
+T H
+Sy ria ,
+Su dan .
+Ste ven
+Sta tistics
+Squ are
+Squ ad
+Sport s
+Spe cial
+Solu yi
+Solu do ,
+Sime u
+Shi nto
+Sha lom
+Sh op
+Sh ike
+Sh ell
+Sh ara
+Ser wan
+Se nate
+Se kibo
+Scot land
+Sa le
+Sa bo
+Sa bi
+SS S
+S wa
+S terling
+S olsk
+S mart
+S isi
+S ing
+S in
+S aha
+S EMA
+Ru mu
+Roch dale
+River  ,
+Ri yadh
+Rhode sia
+Reube n
+Re por
+Ra shford
+Qu a
+Qata r
+Qa eda
+Pu rity
+Prote stant
+Pro du
+Pri nting
+Pre to
+Port Harcourt  ,
+Police  :
+Poli tical
+Plateau  .
+Penteco stal
+Pe pe
+Party  ,
+Paris  ,
+Pa u
+P risc
+P ositive
+P la
+P ell
+P el
+P ara
+P ana
+Oyo- Ita
+Oye tola
+Osu menyi
+Osim hen
+Osi gwe
+Ortom  :
+Ori gi
+Onu ma
+Onu achu
+Olo yede
+Oli sa
+Ola de
+Oka for
+Oha kim
+Ogu ta
+Ogbu n
+Ogbo moso
+Ofu melu
+Odi onye
+Obidi gbo
+Oba femi
+OP EC
+OA U
+O wo
+O rie
+O pobo
+O n
+O kpu
+O dah
+Nwoko lo
+Nwo rah
+Nwo gu
+Nwa jiuba
+Nove mber
+Norway  :
+NoBra Day :
+NoBra Day
+No bel
+Nkwe lle
+Nki ru
+Nkemdi lim
+Nke m
+Nigerian s
+Ni jee
+Ne pal
+Nai ja ,
+Na zi
+Na w
+Na sr
+N te
+N se
+N jeman
+N ile
+N UJ
+N G
+Mugabe  ,
+Mu ftau
+Mou nt
+Mor gan
+Mona co
+Mo rales
+Mo nt
+Mo nica
+Mo ni
+Miche l
+Mic ro
+Medi cal
+Me gha
+Me eting
+Mc G
+Mbaka  :
+Mbaka  ,
+Mba nefo
+Mauri ta
+Mar ley
+Mana se
+Magu ire
+Madu abu
+Ma x
+Ma vin
+Ma ssa
+Ma son
+Ma ko
+Ma jor
+Ma ga
+Ma donna
+MM M
+M r
+M gba
+M H
+M E
+Lu ther
+Lig nite
+Li ves
+Li mestone
+Li fe
+Li eutenant
+League  :
+Le mek
+Law rence
+Lar ry
+Lagos  ?
+La ure
+La tin
+La caze
+L along
+L A
+Kw ankwa
+Ku retọn
+Ko be
+Kenya tta
+Ke vin
+Ka inji
+K y
+K ir
+K idna
+K ar
+Ju bri
+Josef  ?
+Jong-U n
+Jonatha n ,
+Joh nso
+Jo siah
+Jo el
+Jerusale m
+Jere miah
+Je z
+Je ff
+Japan  ,
+Ja li
+Ja ir
+Ja c
+J ọs
+J aja
+Izu chukwu
+Iya bo
+Indonesi a .
+In telligence
+Iko yi
+Ikea zor
+Ike m
+Ife sina
+Ife diora
+Ice land
+Ibi da
+IS I
+ISI L
+IC G
+I wu
+I stanbu
+I shi
+I ma
+I kanda
+I gnatius
+I gbene
+I gba
+I ga
+Hud dersfield
+He ung-
+He a
+Harcourt  :
+Ha jj
+H on
+H ol
+H ille
+H illary
+H ameed
+Gy psum
+Guine a :
+Guar dian
+Gu zman
+Gu ate
+Gu ard
+God  ,
+Ghana  :
+Geor gi
+Ge rald
+Gb e
+Gana  .
+Ga ruba
+Ga lena
+G re
+G  .
+Frank lin
+For syth
+Fir mino
+Fayo se
+Fal l
+F ort
+F an
+F UT
+Ezi owelle
+Eze h
+Eze ani
+Ex plo
+Ese ge
+Er do
+Equ iano
+Enyi mba
+Eno ch
+Engine eri
+Emi rates
+Emi r
+Elia s
+Election s
+Eke chi
+Ed win
+Economi st
+Eag le
+EP L
+E tu
+E nwe
+E ni
+E gbe
+E gba
+E de
+E co
+Do reen
+Distri bution
+Dia spora
+Di sCos
+Di na
+Del ta ,
+Dap chi ,
+Da suki
+D ortmund
+D SP
+D  .
+Cor ps
+Cont ro
+Congo  ,
+Confe rence
+Confe deration
+Communi st
+Commission  ,
+Comma nd
+Com rade
+Code x
+Coa st
+Co ok
+Cla u
+Chukwu merije
+Chinu a ,
+Chine nye
+Chine cherem
+Chido ka ,
+Chidi mma
+Chibu zor
+Chia gozie
+Chi ji
+Chi gozie
+Che ck
+Chad  .
+Chad  ,
+Cha vez
+Cha pel
+Ch ek
+Ce ci
+Canada  ,
+Ca pital
+Ca iro
+Ca ine
+CON UA
+CN N
+CH AN
+C ru
+C isse
+Bu siness
+Bu ratai
+Bu da
+Brother hood
+Britan nica
+Bri ght
+Bol sona
+Bo russia
+Bissa u
+Benu e .
+Bada gry
+Bad mus
+Baba jide
+B ryant
+B lossom
+B etuel
+B  .
+Ayamelu m ,
+Awo lowo
+Awgu  ,
+Austra lian
+Au thority
+Au stri
+Atiku  .
+Ash anti
+Are gbe
+Are bia .
+Arch diocese
+Arabi a .
+Apo stle
+Anya ko
+Anti ọk
+Anti -
+Ani oma
+Ani di
+Ange la
+Ane nih
+Anao cha ,
+Analy tica
+Anaje mba .
+Ana zo
+An n
+Amu che
+Amo kachi
+Amara chi
+Alexand ria
+Alex is
+Ala bi
+Al- Qaeda
+Al le
+Al kmaa
+Al fred
+Al bert
+Akwa  Ibom
+Akufo-Ad do
+Akeredo lu
+Ahmed  ,
+Aga in
+Afri ca ,
+Admini stration
+Adichi e .
+Ade si
+Ade kunle
+Adama wa ,
+Abu ja
+Abid jan
+Abdula ziz
+AS P
+AS CS
+APGA  .
+APGA  ,
+AIT  ,
+AF P
+A tu
+A part
+A me
+A kpu
+A ge
+A fo
+9 0 .
+9  ;
+9  :
+8 6
+8 2
+7 9
+7 37
+7  ;
+6 6 ,
+6 2
+6  ;
+5 3
+5 1
+4 2
+39 2
+30  .
+22  :
+201 1 .
+200 9 ,
+200 8 ,
+200 8
+2 1 .
+199 4 .
+199 1 ,
+196 0
+18  - 
+13 15 ,
+12 -  14
+11  ;
+1 23
+-  7 )
+-  22
+-  13 )
+-  10
+- Germain
+- East
+( N D
+( DSS  )
+(  otu
+(  ndị
+(  gụ
+(  2
+(  1 )
+ .  "  otu "
+ ,  ”
+ )  ;
+ " "  nke "
+ " "  ka "
+  "  we
+  "  na-a
+  "  kedụ "
+  "  ha "
+  "  ebe "
+  "  Black "
+  "  )
+  "  , " " 
+“  ụzọ
+“  ọgwụgwụ
+“  udo
+“  okwute
+“  nọ
+“  kwụ
+“  kedụ
+“  isi
+“  ike
+“  gị
+“  eze
+“  che
+“  ama
+“  akwụkwọ
+“  agwa
+ụzụ  ,
+ụtọ  ;
+ụta ba
+ụmụ agbọghọ
+ụmụ  "
+ụlọ akụkọ
+ụlọ  ?
+ụkwa ra ,
+ụgụ rụ
+ụgụ  ,
+ụgwọ  . ”
+ụgbọ  .
+ụfụ fụ
+ụ nọ
+ụ la
+ụ kwọ
+ụ kwa ,
+ụ chụ
+ụ a
+ọṅụṅụ  .
+ọzọ  ”
+ọzọ  . ” )
+ọtị ta
+ọsọ  . ”
+ọrụ  . ”
+ọrụ  "
+ọnụ  )
+ọnụ  "
+ọnwụnwa  ,
+ọnwụ .  ,
+ọkọ chị .
+ọkwa dike
+ọkpụkpụ  .
+ọkpọkọ rọ ,
+ọkpọ  .
+ọkpọ  ,
+ọkpara eze
+ọkaiwu  .
+ọkaibe  .
+ọkai pe ,
+ọkai pe
+ọkafọ  .
+ọka zị ,
+ọka ra ,
+ọka da
+ọhụrụ  ?
+ọhụrụ  . ”
+ọhịa  ?
+ọgwụgwụ  ,
+ọgwụgwọ  ,
+ọgbụgba  ,
+ọgbọ sọ
+ọgbọ  ,
+ọgbu gba
+ọgba tum
+ọdị be
+ọda ala
+ọ tan
+ọtan isi
+ọ rị
+ọ na ,
+ọ gịga
+ọ fọdụ
+ọ fị
+ọfị s
+ọ b
+ọb ạ
+ọbạ sị
+Ọ nụ
+Ọ nyị
+Ọnyị dọ
+Ọ fọ
+ịntaneti  ?
+ịdị n
+ị ba .
+ṅụ  .
+ש ׁ
+פ שׁ
+נ פשׁ
+é  ,
+zọ  .
+zone  "
+zo  ,
+zie m
+zho k
+zhok har
+ze ch
+za mbi
+zambi que
+za lla
+z z
+z oly
+zoly n
+z burg
+yan ju
+ya . ”  ,
+ya .  "  ha "
+ya ,   " ọ "
+ya  "  o "
+ya l
+ya  ! ”
+y si
+y n
+x y
+x  .
+x  ,
+wuru wuru
+wei ght
+we et
+w rite
+w on
+w ole
+w ol
+w ho
+vo te
+visa " "  amerịka
+villa ge
+vi ne
+vi dio
+ve ster
+ve d
+v our
+ute  ,
+uru  :
+unu  . ” )
+unu  "
+unu  !
+umu awulu ,
+umengwụ  .
+ume  ,
+um or
+ule  .
+ule  ,
+uju  ,
+uhi e .
+uha ila
+ube  ,
+u zuzu
+u to
+u ters
+u ne
+u kwe
+u gba ,
+u al
+tụ  .
+tu re
+tu al
+tri tion :
+tri ce
+toma to ,
+to lik
+to le
+tlehe m
+tion  )
+tii vi
+ti ze
+ti va
+ti ona
+ti nue
+ti  ,
+thi s
+thi as
+te z
+te na
+te gui
+tar yan
+ta ya
+ta nker
+ta l ,
+ta  :
+t to
+t re
+t ramadol
+t -
+sọlọ mọ
+sọlọmọ n ,
+sọ s
+sị ;   " 
+sị :   " ọ "
+stitu ency
+sti val
+sti gation
+ste p
+ste in
+st ria
+ssi en
+so pota
+sopota mi
+sio -
+sio- Cor
+sio-Cor tez
+sina c
+sime nti
+sig nor
+side nt
+si u
+si re
+si a .
+si  :
+sho sun
+sho od
+sha le
+sha de
+sh ise
+shise ke
+shiseke di
+sh  ,
+se y
+se tt
+se nsi
+se ll
+se inde
+sa y
+sa me
+same ria
+sa i
+s tics
+s p
+s m
+s ket
+s ford
+s bour
+sbour g
+rọ  "
+rị rị
+rị ba
+rịba ama
+rị  .  " 
+ry  ,
+ru s .
+ru  ;
+ru  .  " 
+rou gh
+ro w
+rie d
+ri zi
+ri us
+ri ot
+ri er
+ri  .  " 
+ree t
+re sult
+re nt
+re main
+re gi
+re el
+ration  :
+ran da
+r ta
+r real
+r do
+qu i
+qu es
+qu el
+pụ   " 
+pụ  "  International
+pụ  " International  " " na "
+pọl  .
+pu r
+prote st :
+prote in ,
+prote in
+pota ssi
+por ting
+por te
+pita l ,
+pino e
+pe tual
+pati  .
+pa ss
+p alace
+ozuzo  ,
+oyi i
+oye ga
+oti ti
+oriri  ,
+ope tegui
+ope n
+onwe  .
+oni sts
+on ta
+on sus
+on ger
+omekaome  ,
+omeiwu  "
+ome na
+ole mole
+ole  ?
+ol do
+oldo va
+oku  .
+okpu kpu
+okpo ma
+okpoma bo
+ohi  ?
+ohe re .
+ofufe  .
+ofe ke
+oche  .
+obodo  .  " 
+obi eze
+o zara
+o ver
+o ta
+o my
+o kpụrụkpụ
+o joko
+o gwe
+o ghe ,
+o gh
+o gbi
+o dun
+o du
+o ch
+o  .  " 
+nọ  . ” )
+nị ka
+nzagha chị
+nye re
+nye ama
+nwụ .  ,
+nwu si
+nwoke  ?
+nwe  . ”
+nwaafọ  ,
+nwa le
+nuk lia .
+nu t
+nu kwu ,
+ntụkwasị obi
+ntụ ma
+ntụ  ,
+ntọ rị
+ntifi cation
+ntakị rị .
+ntakị rị ,
+nta ri
+nta chi
+nsọpụ rụ ,
+nsọ  . ”
+nsu gbe
+nsonso  ,
+nso gbo
+nse we
+nri  :
+nri  . ”
+nnwụ chi
+nnu  .
+nne ss
+nne rs
+nkịtị  ”
+nkwe nkwe
+nku me ,
+nkiri  .
+nka si
+nja kịrị
+nish ia
+ni ọm
+nhọpụta  .
+ngwụcha  ,
+ngwu gwu
+ngosi pụta
+ng s
+net  .
+nei j
+neij der
+nebọ t .
+ne ve
+ne ral
+ne me
+ne ka
+ne bo
+ndọ tị
+ndị ;  )
+ndị  "  Restoration "
+ndeewo  .
+nde pụta
+nda n
+nda le
+nchụ tu
+nchị kọ
+naịjirịa  :
+naịjirịa   " . "
+naịjirịa   " 
+naza ret
+naira  ?
+na  "  gọọmentị "
+na ver
+na rd
+na eme
+na e
+na  :
+n ṅomi
+n zi
+n ra
+n ha .
+n ha ,
+n gwo
+n gha
+mụ  .
+mpe ror
+mpako  ,
+mp h
+mph rey
+mo ri
+mo nu
+mo gu
+mme zi
+mmadụ .  ,
+mmadụ  ”
+mmadụ   " 
+mma .  ,
+mma  ”
+mkpu ghe .
+mkpamkpa  .
+mi t
+mi su
+mi e
+mi ddle
+middle weight
+mgbọ  ,
+mgbịrị gba
+mgba pụta
+mgba ka
+mgba gwo
+mgbagwo ju
+mesa ya .
+mediterenian  .
+me .  )
+me ter
+me na
+me n ,
+me  :
+mbụ  . ”
+mbọ  ,
+mbu m :
+mbi lla
+mberede  ,
+mbe nukwu
+mba ssy
+man  :
+maazị  "
+ma ọbụ
+ma p
+ma n ,
+m to
+m la
+m ile
+m  ) .
+m   " . "
+logi st
+lo ver
+lo la
+lo ck
+liya su
+list ra .
+li t
+li na
+li ght
+li ca
+le r
+le ase
+le  :
+le  "
+la po
+la de
+la  . ”
+la  .  " 
+kụ  .
+kọp a ,
+kọm -
+kwụ na
+kwu  :
+kwe m !
+kwa   " 
+krisma s ,
+kraịst ,  ”
+kraịst  ?
+kpọ kpọ
+kpo r
+kpo mkwe
+kpa  ,
+koro du
+kola m
+ko s
+ko niọm
+ko  .
+kla asị ,
+kin s
+ki ni
+ki  ,
+khi taryan
+ke ze
+ke s
+ke l
+katọlik  )
+kansa  ,
+kampanọ s .
+kama  "
+ka yo
+ka tolik
+ka di
+k rist
+k ley
+jụụ  .
+jụ  ?
+juu  ,
+julaị  ,
+ju bi
+jubi gbo
+joko vic
+jeriko  .
+jenesi s ,
+jekọb  .
+janụwarị  ,
+ja h
+ja er
+j ja
+j and
+jand ro
+j ana
+ito shi
+ite s
+isi   " 
+iro  . ”
+iri ba
+iriba ma
+inọ k ,
+inf lation
+ine s
+imo h
+illing s :
+ile s
+ikike  ,
+ike li
+ihi to
+ihe  . ” )
+igbo  "
+ig  ,
+ide r
+i li ,
+i fu
+i bi
+heli co
+helico pter
+ha . ”  )
+ha .   " ọ "
+ha ba
+h y
+h mm
+gọ n
+gị  ;
+gị  . ” )
+gua y
+gu nle
+golayat  .
+golayat  ,
+gi r
+gi n
+ghị   " 
+ghi e
+gha m
+ge r ,
+ge e
+gbu du
+gbe nga
+ga te
+ga me
+g roup
+g nus
+fọ nso
+fu gee
+fu el
+fre m
+fran s ,
+for mer
+fo ot
+fi nance
+fi m .
+fi bre
+fero  .
+febụwarị  ,
+fe ssor
+fe ry
+fe nce
+f ried
+f lic
+ezum ike ,
+eziokwu  :
+ezinụlọ  ,
+ezina ụlọ .
+es naver
+enyi  ?
+enu  ,
+emume  .
+eme na
+elo ved
+election  :
+ele le
+el -
+ekwo ro
+ekpe ri
+eju la ,
+eji ji .
+eji de
+ehi nde
+egwu eke
+egbu gbere
+efe sọs
+ee e ?
+ede ll
+echichi  ,
+echiche  :
+echi  ?
+ebi ghị
+e wi
+e tụ
+e hu
+e ghe ,
+e ding
+e ce
+e  .  " 
+dọkịta  "
+dọ tị
+dị  ;
+duka duka
+du me
+dra gọn
+do  ?
+dne y
+dise mba ,
+di mma
+di mgba
+di gi
+di ff
+di es
+di  ?
+de ri
+de fe
+day  :
+da ra
+da l
+d s
+d ru
+d ike ,
+d dy
+cu lata
+con tinue
+con omy
+co coa
+cker berg
+cia list
+chọ  ,
+chu sett
+chineke ,  ”
+chineke  ”
+chineke  ? ”
+chi ifu
+cha nic
+cha mpion
+cha m
+ch y
+ch urch
+ce  :
+carpe t
+ca sio-Cortez
+ca ine
+c ket
+c ell
+bụla  . ”
+bụ  . ”
+bọọlụ  ?
+bọ lụ
+bịa  . ” )
+bị rị
+bu r
+bu  . ”
+bra dor
+bn  ) .
+bn  ) ,
+blic al
+bi s
+bi owu
+bi a ,
+bi  ;
+bi  . ” )
+be tlehem
+bbe ry
+bba tical
+babịlọ n .
+ba sti
+ba o .
+ba la
+ba c
+aị koniọm
+atọ  :
+atị tị
+asọmpi  ,
+asa ba .
+arụkwaghị m .
+arụ sị .
+ara mola
+ar s
+anyị .  )
+anyị  :
+anyị   " . "
+anya  ;
+anwụ rụ .
+an s
+an go
+amerịka  ?
+ame n .
+ala .  ,
+ala eze
+al ti
+akị dị
+akwụna kwụna
+akwụkwọ  "
+akwụkwọ   " 
+akwụ na ,
+akpụ  . ”
+akpị rị ,
+aka ja .
+aka ebe .
+ajụjụ  ,
+ajụ  .
+aja .  ”
+ahụ .   " ọ "
+ahụ ,  ”
+ahụ ma
+ahụ ike .
+agụmba  ,
+agụmakwụkwọ  ,
+aghara  ,
+agbụ sị
+agbidi  .
+aga dị .
+aga dị ,
+afọ  . ”
+afị ọlụ
+af awa
+adụ  ,
+abụ  ; )
+aba cha ,
+a ṅ
+a wele
+a ttacks :
+a luminium
+a ig
+a họ
+a ghị
+a gbụgbọ
+a gbị
+a du
+Zu ckerberg
+Zou ma
+Zida ne ,
+Zi onists
+Z ANU
+Yusu ph
+Young To
+YoungTo Ru
+YoungToRu n
+Ye ong
+Ye kini
+Y oko
+Wor k
+Wil fried
+Wil der
+Wi nners
+Whit ney
+Whi te
+Wha le
+Wen ger
+Wel ls
+We ek
+Wa yne
+Wa siu
+Wa kil
+W u
+W an
+W CON
+Visi go
+Viole t
+Villa rreal
+Viet nam
+Vide o
+Va lue
+VAR  )
+V esnaver
+Uzo amaka
+Uwa kolam
+Uru guay
+Universi ties
+Umuchu  ,
+Umu oma
+Umu oba
+Umu mbo
+Umahi  :
+Umahi  ,
+Ukraine  .
+Ugbo aja
+Ude ze
+Ude chukwu
+UNIZIK  "
+UN GA
+U we
+U tomi
+U p
+U ka
+U gba
+U PP
+Twitter  :
+Troost -E
+Troost-E kong
+Tribu nal :
+Toronto  .
+Too YoungToRun
+Toky o
+To tal
+To mori
+Timgad  ,
+Timber shade
+Thiba ut
+Thiba ult
+Thi ngs
+Theophi lus
+The o
+The  "
+Ten nis
+Technovation  :
+Tarrant  ,
+Tambu wal
+Tai wan
+TE M
+TD F
+T shisekedi
+T se
+T ri
+T on
+T hu
+T afawa
+Syl vester
+Su r
+Su pp
+Stra sbourg
+Ste ve
+State s
+St -Germain
+Spe cialist
+Sowo re .
+Solsk jaer
+Soko to ,
+So mto
+So ci
+Sla via
+Simeu lue
+Shiite s :
+Shekau  .
+Sh o
+Sh im
+Serwan jja
+Secon d
+Se villa
+Se pte
+Se na
+Se mi
+Se basti
+Science s
+Saraki  :
+San die
+Samuel  ,
+Sambi sa .
+Sala h ,
+Sala am
+Sal zburg
+Sal wa
+Saha ra
+Saga gi
+Sa tellite
+Sa gir
+Sa bon
+Sa bbatical
+S uhaila
+S tu
+S neijder
+S lo
+S ibe
+S ch
+S c
+S aka
+S BC
+Rus sell
+Ru nsewe
+Ru gge
+Ronal do ,
+Romne y ,
+Rochas  ,
+Ro yal
+Ro y
+Ro man
+Ro c
+Ro bbery
+Riva s .
+Ribeka  .
+Repor ters
+Regu lation
+Rede em
+Record s
+Re view
+Re uters
+Re so
+Re fugee
+Re ece
+Re ader
+Ray power
+Ran sford
+Ral ly :
+Ra w
+Ra uf
+Ra shi
+Ra quel
+Ra pinoe
+Ra ed
+Ra che
+R T
+R  )
+Qata r .
+Pro f
+Prisc illa
+Pri ze
+Premiership  .
+Po land .
+Plan ning
+Pi late
+Pi e
+Pharmaceutical s
+Per petual
+Pe reira
+Paul  .
+Par k
+Paki stan .
+Paci fi
+Pa ssport
+PDP  :
+P TDF
+P N )
+P  .
+Oye yemi
+Ower re
+Otu kpo
+Osinba jo ,
+Osadebe  ,
+Os aka
+Orie ntal
+Ori ngo
+Or lu
+Onwuemeodo  ,
+Onu o
+Onu  ,
+Onnoghen  ,
+Ome be
+Olu shosun
+Olu ka
+Olu gbenga
+Olu femi
+Olu ehi
+Ole ka
+Ola seinde
+Ola mma
+Okwuo sa
+Okpa tu
+Okonjo -
+Okonjo- Iwe
+Okon kwo ,
+Oki ka
+Oki ja
+Oka gba
+Oj ukwu ,
+Oha ozara
+Ogu nwusi
+Ogu n ,
+Ogbun ike ,
+Ogbe h
+Ogba ru ,
+Of fa
+Odu du
+Odo zi
+Odionye n
+Obo wo
+Obiano  ,
+Obi nna
+Obi enye
+Obi e
+Obi alo
+O zil
+O zalla
+O vie
+O pu
+O nyi
+O ntari
+O nga
+O ne
+O lympic
+O l
+O kpe
+O dun
+O casio-Cortez
+O brador
+Nwoko cha
+Nu trition :
+Not TooYoungToRun
+Nor man
+Nollywood  .
+No a ,
+Nna ma
+Nke nu
+Njikọ ka ,
+Nji ma
+Njeman ze
+Ni neve
+Ni c
+Netanyahu  ,
+Ndi ego
+Nan cy
+Na za
+Na ta
+Na ssa
+Na oko
+Na bena
+N on
+N ome
+N jubigbo
+N dio
+N defo
+Mu l
+Mozi s ,
+Mont real
+Mon signor
+Momo du
+Mo zambique
+Mo shood
+Mo nkeypox
+Mo del
+Mit t
+Mi sty
+Mi chi
+Mi ango
+Methodi st
+Me e
+McG in
+Mba no
+Mba na
+Maurita nia
+Mauri ce
+Mat thias
+Massa chusett
+Marti al
+Mala wi
+Mala mi ,
+Mah mou
+Maduabu chi
+Madu bu
+Ma ter
+Ma mbilla
+Ma ite
+Ma gnus
+MA T
+M oldova
+M khitaryan
+M etu
+M ele
+M be
+M B
+Lu ke
+Lu gard
+Lives tock
+Liverpool  .
+Liverpool  ,
+Lib ya :
+Li ga
+Li bra
+Li a
+Lea ve
+Law yers
+Lau rie
+Late rite
+Lagos  :
+Lacaze tte
+La you
+La wan
+La porte
+La mi
+La dodo
+L opetegui
+L ang
+Kw a
+Kur d
+Ku ti
+Ku ma
+Kola sinac
+Ko vac
+Ko mla
+Ko lo
+King dom
+Kabi ru
+Ka ren
+K illing :
+K ehinde
+K al
+K aka
+K abu
+Ju li
+Joseph  ,
+Job  .
+Jo sh
+Jo gging
+Jo a
+Jideọfọ  ,
+Ji ha
+Ji bri
+Jez reel
+Jero me
+Jen kọ
+Jef fery
+Jali ngo
+Jac ques
+Ja ck
+J imoh
+J erry
+J er
+J anga
+J ama
+Iwu no
+Israel  .
+Iso ng
+Is se
+Inve stigation
+International  "
+Insta gra
+Indi an
+In spector
+Imma culata
+Ilo rin
+Ikedi fe
+Ike ji
+Ije gun
+Ihedio ha .
+Ihedio ha ,
+Igbo eze
+Igbo -U
+Igbene ghu
+Igba ria
+Ife oma
+Ide n ,
+Ibra heem
+IS CO
+I t
+I liyasu
+I korodu
+I hu
+I frem
+Hungary  .
+Hu nger
+Hu mphrey
+Hote l
+Hos pital ,
+Hong  .
+Heung- min
+Hero d
+He nri
+He ad
+Hau wa
+Haram  :
+Ha misu
+Ha iti
+H us
+H ugo
+H ot
+H itoshi
+Gọv  .
+Gw an
+Gw a
+Guinea -
+Gui nness
+Gu sau
+Gu nna
+Group   " kwu
+Group  " kwu ru "
+Gree k
+God frey
+Go thi
+Go ma
+Germany  .
+Ge rizi
+Gbe nga
+Gb oyega
+Ga li
+G ina
+France  :
+Fin tiri
+Fin land
+Fi nishia
+Fi lip
+Fe la
+Fe ina
+Fa tima
+FR CN
+FI B
+FF  )
+F ide
+Ezi ni
+Ezenne ka
+Eze nachukwu
+Eze ilo
+Ex tra
+Ex pe
+Europe  ,
+Euph rate
+Etu hu
+Eri trea
+Erdo gan
+Er ne
+Enwo nwu
+Enugwu -A
+Eno ide
+Eme nike
+Em zolyn
+Ekwu lobi
+Ekiti  ,
+Eid -
+Egypt  .
+Egbu nuche
+Edu cation
+Edo chie
+Ed mund
+Economic  "
+EMA  )
+E zu
+E vi
+E va
+E uni
+E nyeama
+E nwere
+E na
+E mperor
+E mp
+E miliano
+E lo
+E ko
+E do ,
+E -
+E  .
+Dunuko fia
+Dunuko fi
+Don ny
+Do lapo
+Distri ct
+Di vision
+Der by
+Den mark
+Den ja
+Democra t
+Del hi
+De sire
+De mon
+De menti
+De ge
+De de
+Davi es
+Danma llam
+Dambaza u
+Dama turu
+Dakolo  ,
+Da mian
+DSS  ?
+D zhokhar
+D umor
+D jokovic
+D ele
+D aramola
+D ISCO
+D  )
+Cyber  "
+Cultu ral
+Cri cket
+Council  :
+Cosmas  "
+Corby n
+Contro l
+Con te
+Con stituency
+Commonwealth  .
+Colo nel
+Co ro
+Co pa
+Clau dia
+Ci tize
+Christi ane
+Christ mas
+Christ  ,
+Chioma  !
+Chinua lu
+Chine se
+Chile  .
+Chike re
+Chieme la
+Chieji ne ,
+Chi nyere
+Chi nwe .
+Chi kun
+Chi amaka
+Ch ihe
+Ch al
+Cen ter
+Cara bao .
+Car diff
+Canc elo
+Canada  .
+Cana dian
+Camp aig
+Cameroon  .
+Califor nia .
+Cali sta
+Cala ba
+Cal lum
+Ca pe
+CH  ,
+C zech
+C urrency
+C IS
+C IA
+C -
+C- Don
+Burundi  .
+Bundesli ga
+Bu mbum :
+Bu la
+Bru yne
+Bridge t
+Bri an
+Bra ss
+Bon ny
+Bolsona ro
+Bol ton
+Bo ro
+Bo ok
+Billi e
+Bil bao
+Bi okpomabo
+Bi blical
+Berna rdo
+Benjami n .
+Beni n ,
+Belgi um .
+Bea trice
+Barcelona  .
+Bar kley
+Babangi da
+Ba sket
+Ba ru
+Ba ck
+BBC  ,
+B ul
+B in
+B eloved
+B edell
+B al
+B  ,
+Awa ra
+Aw ka
+Austri a .
+Au stria
+Atu ejide
+Atla nti
+Assi stant
+Ash ley
+Asagwa ra
+Arsenal  ,
+Ari mah
+Aregbe sola
+Arabi k ,
+Anyako ra
+Anya chebe
+Anti och
+Anidi obi
+Angeles  .
+Ange ls
+Anazo do
+Ana m ,
+Amo s
+Ameri ca ,
+Amara izu ,
+Ama ku
+Ama keze
+Am ster
+Alph onsus
+Alo na
+Alkmaa r
+Ali son
+Alexand ria ,
+Ale jandro
+Al kali
+Al fọnso
+Al bi
+Aku nwafor
+Aku n
+Aku me
+Ak ihito
+Aje gunle
+Airport  ?
+Agri ppa
+Agri cultu
+Again st
+Ag nes
+Africa   " - "
+Afe nife
+Ade wale
+Ade fara
+Ade da
+Ade bisi
+Adazi-N nukwu ,
+Ad dis
+Achi ke
+Achebe  ,
+Acade mic
+Ac count
+Ac cord
+Abubakar  .
+Abu ja .
+Abra ka ,
+Abi odun
+Abdullahi  ,
+Abaribe  :
+Abaribe  .
+Aba kpa
+Aba ga
+ASU P
+ASCS DA
+A ze
+A yi
+A ye
+A y
+A the
+A kpe
+A fi
+A dia
+A ct
+A WCON
+A D
+9 4
+9 00
+900  ) .
+800  ,
+8 1 ,
+8 1
+7 6
+6 4
+6 0 .
+6  - 
+50  )
+5 7
+5 6 .
+5 6
+5 2
+5 .
+44  :
+4 8
+4 1 )
+4  . "
+37  :
+3 44
+3 14
+28  ;
+23  .
+21  :
+200 7 .
+200 1
+200  .
+20 22
+20  :
+20  .
+2. 5
+2 4 )
+2 1 ,
+2  ;
+199 7 ,
+199 6 ,
+199 1
+199 0 .
+198 5 .
+198 0 .
+197 6 ,
+197 5
+1914  ?
+19 24
+19  :
+18  .
+17 6
+16 4
+15  .
+15  - 
+13 6
+13  ;
+13  .
+12  .
+11  :
+100  .
+100  ,
+10 3
+10 1
+10  :
+1 20 ,
+1 15
+1 1 .
+000  ?
+-- -
+- 3 3 )
+- 3 1
+-  9 )
+-  8 )
+-  6 )
+-  4 )
+-  27
+-  18
+-  17 )
+-  16 )
+-  15 )
+-  14
+-  12 )
+-  12
+- Ife
+( N C
+( A wka
+(  ọgọst
+(  sper
+(  per
+(  ihe
+(  di
+(  VAR )
+(  SARS
+(  NA
+(  J
+(  I
+(  E
+(  AP
+(  9 )
+(  3 )
+(  1.
+(  1
+%  ) .
+ ?  ?
+ . "  " 
+ .  "  ọ
+ .  "  oge "
+ .  "  kedụ "
+ .  "  ebe "
+ .  "  e
+  "  oge "
+  "  me
+  "  maka "
+  "  UNIZIK "
+  "  ? "
+“ ọ kpara
+“ o o
+“ e e
+“  ‘
+“  ịnyịnya
+“  tụ
+“  so
+“  onyinye
+“  obere
+“  nri
+“  nghọta
+“  mmehie
+“  me
+“  maazị
+“  jehova
+“  igwe
+“  gu
+“  ezigbo
+“  biko
+“  ahụ
+“  ahịhịa
+ụzọ  .  " 
+ụwa .  ;
+ụtụ  .
+ụta rị ,
+ụsọ ekwu
+ụmụnne  ,
+ụmụnna  .
+ụmụaka  ?
+ụmụ ahịa .
+ụmụ  .
+ụlọikpe  "
+ụlọ mkpọrọ .
+ụkọ  .
+ụkpa na
+ụkp ala
+ụgbọelu  ?
+ụgbọelu  .
+ụgbọ  ,
+ụfụfụ  .
+ụfụ  .
+ụbụrụ  ?
+ụbọchị  "
+ụ rị
+ụ ja ,
+ụ gbụgbọ
+ụ gbo
+ụ gba
+Ụmụ dim
+Ụ ka
+Ụka eju
+ọṅụṅụ  ,
+ọzụzụ  .
+ọzụzụ  ,
+ọzọ  ? ”
+ọzọ  . ” ,
+ọtụ rụ
+ọtọ megbu
+ọta akara
+ọsụ sọ
+ọsụ kọ
+ọsụkọ sụ
+ọsịsọ  .
+ọsịsọ  ,
+ọrịa  ?
+ọnụọgụgụ  .
+ọnụọgụgụ  ,
+ọnụ nọ
+ọnwụ  ”
+ọma  ;
+ọma  !
+ọlụ lụ
+ọlaedo  .
+ọla nchara .
+ọla nchara
+ọla  ,
+ọkụ ka
+ọkwa   " 
+ọkpụ  ,
+ọkpa ra .
+ọkpa ra ,
+ọka ra .
+ọka mgba
+ọhịa  ”
+ọgụ  !
+ọgọ  .
+ọgbatum tum ,
+ọgbakọ   " 
+ọgara nya ,
+ọganihu  .
+ọfụ fụ
+ọfụ  .
+ọfụ  ,
+ọdụ m .
+ọdịbe ndị
+ọchịchị rị ,
+ọbọ ,  ...
+ọbọ  ;
+ọbasanjọ  :
+ọbasanjọ  .
+ọ ọ .
+ọ ịs
+ọ wụ
+ọ sa ,
+ọ pụrụ
+ọ nya .
+ọ ja ,
+ọ ja
+ọ ha .  " 
+ọ gha
+ọ  ;
+Ọkọ nkọ
+Ọ lụ
+Ọ kụ
+ịzụ ka
+ịnyị nya ,
+ịlaịja  :
+ị yị
+ị sha
+ị rịbaama
+ị ghụ
+ṅomi  .
+ó n
+ígwé ,
+í a
+ã o
+zụ  ,
+zị za ,
+zị  "
+zuka la
+zu o
+zon spor
+zi ri
+zi nc
+zi k ,
+ze la
+zela -
+zela- Mandela
+ze  .
+z zi
+z -
+yyi da
+yo nu
+yo mi
+yi wa
+ye n
+yaba sị ,
+ya .  "  o "
+ya .  "  mana "
+ya .  "  e
+ya ,  "  onye "
+ya spor
+ya nge
+ya n ,
+ya mpo
+ya m
+ya   " ihe "
+y o .
+y o ,
+y no
+y l
+y ellow
+y -
+x t
+x ford
+x  )
+wol f
+wo  ,
+wi e
+wer s
+we re
+we n
+way s
+way o .
+wa ya
+wa ra
+wa nt
+wa kpo
+wa ge
+w ọ .
+w omen
+w n .
+w ha
+wha te
+whate ver
+vor ce
+vol cano
+vo ck
+vo ca
+vi vus
+vi s
+vi rus
+vi gi
+vigi lan
+vigilan te
+vi a ,
+ver nment
+ver ly
+ver de
+ve randa
+vaị n ,
+va ja
+vaja l
+v á
+v u
+v olu
+volu nte
+volunte er
+v enue
+v elo
+uwe  ,
+uru le
+urule re
+ur ces
+unu  ”
+unu  . ” ,
+uni s
+ume ala ,
+ul isi
+ulisi c
+ukwu .  ,
+ukwu  ?
+ugwu  :
+ugo lo
+ugba la
+udu mmiri ,
+uche  ,
+u ra ,
+u ny
+u ke ,
+u a
+u  .
+tụma dụ
+twitter  .
+tupu  "
+tu ng
+tu na
+tu  .
+tti ma
+tte nai
+ttack  :
+tri bu
+trans former
+tra de
+ton  .
+tole my
+to ring
+to o
+tn  ) .
+tice s
+tic les
+ti vi
+ti tion
+ti pa
+ti nka
+ti lla
+ti fi
+thi ng
+thi da
+the ma
+th on
+th  ,
+ter pri
+terpri ses
+tenni s .
+ten berg
+teknụzụ  .
+te rial
+te ra
+te nde
+tende nt
+te bo
+te am
+taata  :
+taa ta ,
+taa  ;
+taa  !
+ta sara
+ta mi
+ta lity
+ta  ”
+ta  ;
+ta  . ” )
+ta  .  " anyị "
+ta  .  " 
+t ty
+t su
+t shua
+tshua yi
+t d
+t che
+t  )
+sọ l ,
+sọ dọ
+sọdọ m
+sọ b
+sọb je
+sọbje k
+sọbjek t
+sọ  .
+sị :   " n' "
+sị .  )
+sị ,   " a "
+sị ,   " a
+sị  . ”
+sị   " n' "
+sul ta
+su s ,
+su ry
+su pa
+su n ,
+stru ction
+stra r
+sto ry
+ster n
+steeti  .  " 
+ste d
+state  ,
+sta dium
+st rial
+st reet
+ssion  ,
+sse nger
+ssa lo
+so rom
+so ret
+so anya
+so adu
+soadu ra
+so  "
+sli ght
+sla v
+sing le
+sili ca
+si s
+si oma
+si m
+si l
+si ke
+si  ;
+shu ga ,
+sh ụa
+sh it
+sh el
+sh  :
+sh  .
+senet  ?
+senet  .
+sekọnd rị .
+sekọnd rị ,
+secon dary
+se um
+se mi
+semi ro
+se me
+se a ,
+se a
+saụt  .
+saye n
+sayen sị ,
+sal t
+sa nna
+sa la
+sa kra
+sakra me
+sakrame ntị
+s wa
+s quare
+s pur
+s pa
+s mond
+s late
+s -
+s  ) .
+s  " " n' "
+rọ s .
+rọ n
+rọ  . ”
+rị  . ”
+ru m ,
+ru gwu
+rt s
+rs  :
+ro ni
+ro le
+ro in
+rin tendent
+ria ke
+ria h
+ri va
+ri ra
+ri nne
+ri m
+ri lla
+ri ka
+ri ght
+ri ga
+ri bbe
+ren fe
+renfe ll
+rea st
+re rs
+re de
+re bel
+ran si
+ran ge
+range lo
+rama i
+ral ong
+ralong ko
+ralongko rn
+rac tices
+ra vers
+ra m
+ra j
+ra in
+ra cht
+ra  ”
+ra  ;
+ra  )
+r l
+r di
+que z
+qu ity
+qu e ,
+pụ  . ”
+pọtị f
+pọtịf a ,
+pị ị
+pị nta
+py right
+pri ce
+pre mi
+premi er
+pping  :
+ppe al
+pp ines
+pou lo
+poulo s ,
+potassi um
+po va
+pha ne
+pha el
+ph ra
+per mit
+pensụ l .
+penalty  .
+pe tro
+pe rintendent
+pe op
+peop le
+pe line
+pe le
+pe  .
+paradaị s ,
+par tition
+papaị rọs .
+pa ri
+p tion
+p tain
+p ta
+p ra
+p oly
+p illa
+p il
+p hu
+phu s
+ozugbo  ;
+ozu  :
+ozi  ?
+ozi   " 
+oyi n
+oye  ,
+owu wu
+owerri  :
+ower ri .
+ower ment
+ou gh
+otu s
+oti te
+osimiri  ,
+ose n
+oru re
+ori re
+ori ngo
+opekata mpe ,
+onyonyo  ,
+onyeisi   " 
+onyeisi  "  Nigerian "
+onye  ?
+onye   " 
+onwe  ,
+onta y
+on o
+on d
+on ce
+omume  ”
+omume  . ”
+omi tilla
+omenala  :
+ome  ,
+olo lo
+oli ve
+ole do
+ol d
+okwukwe  ?
+okwukwe  . ”
+okpuru  ,
+okpukpe  ?
+okpukpe  .
+okpu  .
+okpu  ,
+okorobịa  ,
+oki ja
+oke  ?
+oke  "
+oka da
+oji sola
+ohu  ?
+ohi miri
+ohe re ,
+ogoogo   " 
+ogige  .
+ogh o
+ogene  .
+oge .  )
+oge ne ,
+ofufe  . ” )
+offi cer
+ofesi  :
+ofe  .
+obodo  :
+obi .  )
+obi  ”
+obi  .  " 
+o yoyo
+o yo
+o toro
+o kpụ
+o kpe
+o gwo
+o gha
+ogha in
+o ding
+o cha ,
+o be .
+o  . ”
+nọ  ;
+nzọ pụ
+nzọ mụ
+nzọmụ kwụ
+nza cha
+nye lu
+ny ong
+nwụ  ;
+nwunye  "
+nwoke  !
+nwe  . ” )
+nwe  "
+nwanne  ,
+nwaanyị  ;
+nwa  ?
+nwa  "
+nw ọgha
+nw or
+ntutu  ?
+ntorobịa  :
+nti ty
+nta in
+nta  ”
+nta  ?
+nsọpụ rụ .
+nsọ  ”
+nsị  .
+nsogbu  "
+nsibi di .
+nsi on
+nrube isi
+nrite   " onye "
+nrite   " 
+non -
+nnụ nụ ,
+nnukwu  "
+nnewi  .
+nne  "
+nmi la
+nmila yo
+nkọ  .
+nkwụ m
+nkwa rị ,
+nke ta
+ni yi
+ni t
+ni fer
+nha zị
+nha nce
+nhance ment
+ngụ gụ
+ngọ ngọ
+ngwọ rọ .
+ngo n
+nghọ gbu
+nga rd
+nga nga
+nga fe
+new s
+ne nt
+ne lo
+ndọrọndọrọ  .
+ndọrọ  ,
+ndị  "  Super "
+ndị ụnọ
+ndo zi
+ndo  ,
+ndi di ,
+nde  ,
+nda m
+nchọpụta  ,
+ncha wa
+narị  .
+na ,   " 
+na  "  nke "
+na  "  anyị "
+na  "  a
+na stics
+na ka ,
+na bis
+n onye
+n obi ,
+n nia
+n la
+nla ghachi
+n gịga
+n ction
+n chi
+nchi gbu .
+n bu
+nbu ll
+n -Olu
+mụrụ mụ
+mụ ka
+mụ  ,
+mọ ra
+mọ nk
+mwu nye
+mu ri
+mpịa kọ
+mpo ten
+mpi  ,
+mpe o
+mpaghara   " 
+mont h
+mo nkeypox
+mmiri .  ,
+mmiri  "
+mmepụta  ,
+mmepe  ,
+mme zu ,
+mme ju
+mmalite  .
+mmadụ .  ;
+mma .  )
+mma sị ,
+mma nwụ .
+mma n
+mma i
+mma  . ” )
+mm ị
+mkpụrụ osisi
+mkpụrụ edemede
+mkpọrọ  ?
+mkpọ mkpọ
+mkpu ghe ,
+mkpo ri
+mkpe gharị
+mkpe gbu .
+mkpe  ?
+mkpa rị .
+mkpa rị ,
+mkpa chi
+mkpa  . ”
+minista  ?
+million  )
+milli gram
+midia  ?
+midi a :
+mi ssion
+mi r
+mi nu
+mi n ,
+mi la
+mi chael
+mgbu  ,
+mgbede  .
+mgbanwe  ,
+mgbagwoju anya
+mgba wa .
+mgba da ,
+mesa ya ,
+meri  ,
+mer cury
+medi cine
+me rs
+me lu ,
+me lo
+melo di
+me ga
+me chanic
+me  .  " ọ "
+mbu gharị
+mbo la
+mbi a
+mbe kwu
+mba zụ
+mba ssa
+mba si
+mba da
+mb rose
+maọbụ ...   " - "
+man sea ,
+mala ria
+maka  ,
+mago mago
+ma y
+ma soret
+ma nent
+ma lik
+ma la .
+ma k
+ma g
+mag nesi
+ma el
+m ọnụ
+m nwọgha
+m nastics
+m  . ” ,
+m  . ” )
+m   " - "
+lọt rị .
+lọ tiri
+lu e ,
+lo ur
+lo ka
+list ra ,
+lima te
+li ze
+li ppines
+li o
+li nin
+li nes
+li mestone
+li ed
+li ame
+li  ?
+le vel
+le nge
+le ast
+le af
+latị n ,
+lation s
+lan ville
+lady s
+la u
+la ke
+la k
+la  ;
+l ory
+kụ  ,
+kọp a .
+kọ tọ
+kọ k
+kwọ t
+kwu  "
+kwe r
+kwe m
+kwa  !
+ku r
+ku mo
+ku bo
+ku  .
+ks son
+krismas  ?
+kpu  .
+kpamkpa m ?
+kode x .
+ko m
+kla ho
+ki zela-Mandela
+ki nri ,
+ki mbi
+ki el
+ki di
+ki a
+kh tar
+ke well
+kanada  ,
+ka pịnta
+ka ndụ
+k ri
+k  :
+k  .
+jụ  :
+jọ shụa
+juu  .
+jo ine
+joine d
+jizọs  . ”
+ji ralongkorn
+ji m
+ji akụ
+jehova  ;
+je n
+izuu ka
+iz kid
+ite o
+it su
+isi owu
+isi  . ”
+isi  !
+ise  ;
+ise  .  " 
+ise  ) .
+int racht
+in s
+in ji ,
+imi  .
+ime  . ”
+ilu x
+il d
+ikuku  .
+ikuku  ,
+ikpeazụ  ”
+ike kwe ,
+iji ji
+ihu  ;
+ihe dioha
+ihe  :
+ihe  .  " 
+igh ur
+igbo  .  " 
+ifo  ,
+ife go
+iche  ?
+i shi
+i s .
+i s ,
+i li .
+i ju
+i i
+i gun
+i da
+i chafụ
+i  "
+hụ  "
+ho sanna
+ho ada
+hmm  .
+hi nne .
+hi m
+hi e .
+hi e ,
+hi bi
+he e
+hara ssment
+hara oh
+haba kọk
+ha . ”  ,
+ha . ...
+ha ve
+ha rd
+ha pụ
+ha  ”
+h ngon
+gọ mọra
+gị rị
+gị  !
+gị   " 
+gwu  "
+gun kwu
+gua in
+gua ge :
+gu n ,
+gu ese
+gu er
+guer rilla
+gu ard
+graph y
+gra nite
+go vernment
+go ura
+go n ,
+gide  ,
+gi on
+gi nger
+ghị .  ;
+ghị   " . "
+ghe neka
+gha i
+gh ters
+gene ral
+ge s
+ge de
+gbo  .
+gbe oghain
+gbanụ gbanụ
+gba m !
+gba  ?
+gara a
+ga ssi
+ga ret
+ga ma
+ga il
+g t .
+g lade
+g gar
+g  ,
+fu nmilayo
+fo od
+flic t
+fla ring
+fi va
+fi re :
+fi re
+fer son
+fe ree
+fa cial
+f ịa
+f lu
+f lood
+f ar
+far mers
+eziokwu  . ” )
+ezinaụlọ  ?
+ezi  . ”
+eze ku
+eze  . ”
+ex per
+etu s
+esem okwu ,
+eri ri ,
+er to
+enu ga
+en -N
+en-N aha
+en  .
+en  ,
+elu  :
+elu  . ”
+else n
+ele  ,
+ekwulọ bịa ,
+ekwensu  .
+ekwe na
+ekeresime si ,
+eju  .
+eji rimara
+egwu rugwu
+egwu  "
+egu si
+ego   " 
+efu  . ”
+efe re ,
+ede rede
+ebubo  ,
+ebube  ,
+ebu bọ
+ebe le
+ebe ebe
+e we
+e tta
+e rọn
+e re
+e ology
+e mbasi
+e kwo .
+e ko
+e du
+e di
+e conomy
+dọ la .
+dum  ;
+du be
+dube m
+du ate
+ds men
+dru nk
+dro p
+dro ne
+dri ć
+do o
+do nate
+di ọgụ
+di vivus
+di re
+di kizela-Mandela
+deri c
+der n
+der  :
+deau x
+de v
+de s :
+de rers
+de n .
+dd ha
+dara yọs
+da ma
+da lla
+da  "
+d gin
+cu les
+ctu re
+ctor s
+codeine  ,
+co pyright
+cident  :
+ci st
+ci a ,
+chị  ?
+chineke  "
+chi r
+chi e ,
+che ta ?
+che me
+che  ?
+cha i
+cha eology
+ch o .
+ce y
+ce ramics
+can  .
+c us
+c tive
+c lay
+c la
+c ame
+bụ  "  ị
+bụ  ? ”
+bọje t .
+bọ da
+bịa  ? ”
+bu s
+bu ly
+bu ilding
+bre michael
+bre a
+bo u
+bo ot
+bo ard
+billion  )
+bi .  ;
+bi .  )
+bi ,  ”
+bi lity
+bi  ? ”
+be s
+basket bọọlụ
+bac teria
+ba u
+ba t
+ba ller
+ba doo
+ba  :
+b zonspor
+b lack
+b ha
+b bo
+aị zik ,
+aṅụ rụ
+azụ  ?
+azụ  .  " 
+atọ  ;
+asọmpi  "  English
+asọmpi  " English  "
+asị  . ”
+ase  .
+asambodo  ,
+asaa  ”
+asaa  )
+arụrụ ala ,
+arụ mụka
+are z
+ar ticles
+anụrị  . ”
+anọ  ;
+anyị .  ,
+anyị  ”
+anya sị ,
+anya  ”
+anya  .  " ọ "
+anwụ rụ ,
+anwụ nta
+anu si ,
+and hi
+ana  ,
+amụ ma ,
+amụ  ,
+amerịka  :
+ame n
+ame ch
+ama zi
+am si
+am ond
+alti el
+al lo
+akọ  ?
+akịrịka  !
+akị  ,
+akwụkwọ  ?
+akwa ra .
+akwa  ?
+akpụ kpa
+akpa tị
+ako r
+aka rta
+aka nchawa
+aka ebe ,
+aka  ;
+ajọ  "
+aja bia
+ahụma hụ
+ahụhụ  . ”
+ahụ .  "  o "
+ahụ .  )
+ahụ .   " n' "
+ahụ .   " a
+ahụ  ? ”
+ahụ   " . "
+ahịa  "
+ahịa   " Black "
+ah uru
+agwọ  .
+agu  ,
+agha  . ”
+agha  "
+agbụ rụ ,
+agbọghọ  .
+agbọghọ  ,
+agbị sị
+agbidi  ?
+agbidi  ,
+afrịka   " nke "
+afe re
+af rans
+adịgboro ja ,
+achịcha  .
+achị bishọp
+ac count
+abụọ  ?
+abụọ  . ”
+abụ mọnụ
+abụ  :
+abacha  ?
+aba cha .
+aba ar
+aba  .
+a .  "  o "
+a .  "  mana "
+a .   " ọ "
+a .   " ndị "
+a .   " anyị "
+a yị
+a wọ .
+a wei
+a to .
+a soanya
+a sime
+a ro .
+a pp
+a ni ,
+a kpọ
+a id
+a bo
+a ble
+a  ) .
+a   " ka "
+________________________________ ________________________________
+Zuba iru
+Ze nit
+Zamfara  .
+Zamfara  ,
+Zakzaky  ,
+Za gre
+Z oro
+Z one
+YouTu be .
+Yoru ba .
+Ye ars
+Ya sir
+Y unis
+Y aba ,
+X i
+Wo ol
+Win d
+William s ,
+Whit ton
+Whi rl
+Wednes day
+We  "
+Washington  ,
+Wan derers
+Wal son
+Wa bba
+W use
+W izkid
+W it
+W ho
+W TA
+Vol ks
+Visigo th
+Virgi nia
+Victo ria
+Vi ce
+Version  .
+Venu s
+Val verde
+Va jiralongkorn
+VC A
+Uwe lu ,
+Uwa ni
+Umuoma ku
+Umu eze
+Umu e
+Uko ha
+Ugwu madu
+Udo ka
+Ude ji
+Uba ime
+Uba h
+US  ,
+UK  .
+UK  ,
+U yo
+U tu
+U ti
+U pper
+U nder
+U l
+U ighur
+U di
+Twitter  ;
+Tur nbull
+Tu tsi
+Tu ray
+Tu nji
+Tu ggar
+Tu es
+Tu buly
+Trans -E
+Trans-E kulu
+Trafford  .
+Tra ore
+Tra bzonspor
+Togo  .
+Timoti  .
+Ti ra
+Ti ger
+Thi rd
+The ssalo
+The Ca
+TheCa ble
+Tex a
+Ter ver
+Ter kimbi
+Tanza nia .
+Tal on
+Ta ttenai
+TV  .
+T rea
+T ransi
+T oledo
+T in
+T h
+T O
+T C
+Sy dney
+Su thida
+Su perintendent
+Su ning
+Su monu
+Su mmi
+Su arez
+Strasbourg  .
+Stra che
+Stephe n ,
+Ste eti
+State  .
+State  ,
+Sta rs
+Sta cey
+Sport slight
+Spa ce
+Sp ider
+Sowo re ,
+South  .
+Soma lia
+Soko to .
+Society  )
+Soci ology
+So lari
+Sla ve
+Sir leaf
+Singapo re .
+Sing le
+Sin gh
+Si lica
+Shike m
+Shi a .
+She ttima
+She altiel
+Shara pova
+Sha le
+Sha ki
+Sha ibu
+Sh ar
+Sergi us
+Ser ver
+Septe mber
+Senegal  ,
+Security  :
+Secondu s ,
+Sebasti án
+Se yi
+Se tan
+Se riake
+Se ra ,
+Se cre
+Sara h ,
+Sar ri
+San tia
+San ta
+Sale h
+Sal va
+Sal ly
+Sal l
+Sabi ne
+Sa yyida
+Sa tiva
+Sa mbuli
+SS ANU
+SARS  .
+S ven
+S urulere
+S porting
+S mi
+S mall
+S iberi
+S gt .
+S cheme
+S ca
+S TEM
+S I
+Rwanda  :
+Rwanda  ,
+Rugge d
+Ruga  ?
+Ru ga .
+Ronal d
+Rome lu
+Rock  .
+Roc í
+Robi nson
+Road  ,
+Ro ss
+Ro land
+Riva s ,
+Ri o
+Ri ga
+Ri ce
+Revolution  "
+Rev enue
+Restructuring  :
+Republic  ,
+Rehab  ,
+Re wa
+Re sident
+Re search
+Re port
+Re li
+Re divivus
+Re con
+Ray mond
+Ran ge
+Rache l .
+Ra s
+Ra phael
+Ra heem
+Ra chael
+R itsu
+R aja
+R A
+Qua dri
+Pu tin
+Pu erto
+Promise  ,
+Produ ction
+Pro state
+Pro hibi
+Pro fessor
+Pro cess
+Prie sts
+Prie st
+Preto ria
+Presidential  "
+President  :
+Pre si
+Pra gue
+Portu guese
+Port Harcourt  ?
+Poli cy
+Po mpeo
+Pla ster
+Pie rangelo
+Pi us
+Pi peline
+Pi dgin
+Philip pi
+Phi lo
+Phi lippines
+Peters burg
+Per sonal
+Per manent
+Pe tra
+Pe t
+Pe shit
+Pe ri
+Pe nta
+Pe nsion
+Paul  ,
+Pas cal
+Par liame
+Pana yi
+Pa cis
+PP N )
+P ulisic
+P tolemy
+P ractices
+P haraoh
+Ozo emena
+Oye gun
+Oy enuga
+Owerre -E
+Ower ri
+Osita dimma
+Osi sioma
+Oshiomhole  ,
+Ose loka
+Osa ze
+Osa kwe
+Osa gie
+Ora ukwu ,
+Ora i
+Operation  "
+Onye di
+Onwuama eze
+Onwu asoanya
+Onu igwe
+Ontari o
+Ono chie
+Omo ni
+Ome ru
+Olympic s
+Olu funmilayo
+Olu eze
+Ola yinka
+Ola wale
+Ola le
+Ola kunle
+Ola i
+Ola f
+Okwu i
+Okpu no
+Okpa nda
+Okorocha  .
+Okonjo-Iwe ala
+Oko ta
+Oki ja ,
+Okezi e .
+Okezi e ,
+Okere ke
+Oke nze
+Oke iyi
+Okagba re
+Oj o ,
+Oha naeze
+Oha le
+Oha ki
+Ogu n .
+Ogu ine
+Ogo chukwu
+Ogbu agu
+Ogbo nnia
+Oga h ,
+Oga h
+Ofu melu ,
+Odudu ru
+Odu ma
+Odozi aku
+Odionyen ma
+Odi li
+Obu nofia
+Obo llo
+Obo hia
+Obina gu ,
+Obienye m
+Obie je
+Obidi che
+Obi re
+Obi nofia
+Obi mma ,
+Obi li
+Obi a
+O xford
+O wie
+O tto
+O tta
+O to
+O so
+O ro
+O nesi
+O mu
+O mor
+O kw
+O klaho
+O gheneka
+O ge
+O GA
+O  .
+O  ,
+Ny anya
+Nwo rah ,
+Nwo ra
+Nwo nwu
+Nwo k
+Nwan kwo ,
+Nwan du
+Nwa wu
+Nw aka
+Nu man
+Nte je ,
+Nsugbe  ,
+Nome h
+Nne ka
+Nnamdi  "
+Nnabu ihe ,
+Nkem ka
+Nj oku
+Nineve h
+Nigeria   " 
+Ni ko
+Ni elsen
+Ngo r
+Netherland s .
+Ne uro
+Ne res
+Ne ge
+Ndo ki
+Ndio wu
+Ndiego ro
+Ndi be
+Nazi ru
+Nation s .
+Nan do ,
+Nan do
+Na omi
+Na kpo
+Na ama
+NC AC
+NB A
+NA SU
+N ur
+N sorom
+N nobi ,
+N kanu
+N ja
+N en ,
+N ara
+N ER
+NER C
+Mur ray
+Mur der :
+Mugabe  :
+Muelle r ,
+Mu yiwa
+Morocco  .
+Moni toring
+Mogha lu ,
+Mo sco
+Mo s
+Mo du
+Mo drić
+Mnangagwa  ,
+Mini stries
+Micro finance
+Michi gan
+Michael s
+Mi ssion ,
+Mi gration
+Mi ddle
+Mgbe ahuru
+Megha n .
+Me ng
+Me ka
+McGin ger
+Mc ginger
+Mbonu -
+Mbonu- Eze
+Mbonu-Eze oke
+Mbe diọgụ
+Mbanefo  ,
+Mba ppe
+Mba ma
+Mba ito
+Mba ekwe
+May  .
+Max well
+Massachusett s ,
+Marc us
+Mar yam
+Mar riage :
+Mar garet
+Mana ger
+Mana fort
+Malay sia ,
+Main land
+Maidugu ri .
+Mahmou d
+Maga ya
+Madume re .
+Maduagwu  ,
+Madu kwe
+Madu eke
+Ma tti
+Ma tt
+Ma thema
+Ma terials
+Ma ra
+Ma p
+Ma o
+Ma mo
+Ma mman
+Ma melodi
+Ma li ,
+Ma gi
+Ma dikizela-Mandela
+MS F
+MA  )
+M ole
+M ojisola
+M gbolu
+M  )
+Lu iz
+Lu is
+Lu cky
+Lu cas
+London  :
+Lo cal
+Liverpool  :
+Lin col
+Limited  ,
+Libra ry
+Liberia  ?
+Li ngard
+Li man :
+Li ege
+Li cense
+Lebanon  .
+Leave nwor
+Le sley
+Le o
+Laure tta
+Lang ton ,
+Lan guage :
+Lagos  )
+La t
+L ọịs
+L td
+L or
+L ome ,
+L obi
+L amech
+Kwankwa so
+Ku n
+Kola de
+Kogi  ,
+Ko st
+Ki bat
+Ken ny
+Ke nya .
+Ke ny
+Ke ane
+Kar l
+Kano  .
+Kan te ?
+Kaduna  )
+Ka ne
+Ka inji ,
+Ka i
+K ro
+K raịst
+K oso
+K or
+K it
+K il
+K erry
+K ana
+K amsi
+Juventu s .
+Julius  "
+Jubri l
+Ju lian
+Ju len
+Ju dith
+Ju da ,
+Ju d ,
+Jour nali
+Jour nal
+Josef  ”
+Jose phus
+Jose phat
+Jor dan .
+Johnso n .
+John ny
+Joh n .
+Joh n ,
+Joa quin
+Ji zọs
+Ji ang
+Jen nifer
+Jef ferson
+Je w
+Je si
+Jama l
+Jairu s ,
+Jairu s
+Ja zz
+Ja sper
+Ja red
+Ja kes
+Ja bi
+J ugbo
+J on ,
+J ame
+J akarta
+J abaar
+Izu nna
+Iya loja
+Iv an
+Italy  :
+Isu ikwu
+Islamic  "
+Isha q
+Ish mael
+Inve st
+Inter vention
+Inter sex
+Instagra m ,
+Indu stries
+Indu strial
+Indonesi a ,
+Indi a :
+Independe nce
+Ilo anusi
+Ile -Ife
+Ikpeazu  .
+Ike ogu
+Ikanda  ,
+Ik yange
+Ihe ji
+Igwe mba
+Igbokwe  ,
+Igbo ka ,
+Igbo ka
+Iga la
+Ifesina chi
+Ide ntity
+Ide ntification
+Ide ato
+Ibe zi
+Ibe neme
+Ibe awu
+Iba dan ,
+IS W
+INEC  :
+IMN  .
+IM T
+II I
+ID  )
+IC T
+I ze
+I wuji
+I vo
+I va
+I kwer
+I kidi
+I gunkwu
+I fy
+I du
+I do
+I den
+I an
+I T
+I FA
+IFA D
+I F
+Hunt  ,
+Hu tu
+Hu awei
+Hu ang
+Hou thi
+Hot spur
+His tory
+His pa
+Hil da
+Hi guain
+Heran  .
+Heran  ,
+Her ders
+Her cules
+Henri etta
+Hea dies
+He i
+He ga
+Haw kins
+Haw king
+Harcourt  ,
+Ham do
+Ha kim
+HIV  .
+H ur
+H in
+H ilux
+H alla
+H af
+H SBC
+H  .
+Gunna r
+Guinea- Bissau
+Guine a .
+Guate mala .
+Gu rira
+Green land
+Gree ce
+Grea ter
+Grea t
+Gre g
+Gra mmy
+Gra duate
+Gra des :
+Gothi c
+Gol d
+Go lo
+Go je
+Glo ria
+Gilead  .
+Gi wa
+Gi anni
+Get ty
+Ger man
+Ge nk
+Ge bremichael
+Gb ajabia
+Gan da
+Gam bia
+Gali le
+Gala tasara
+Ga te
+Ga ni
+G yampo
+G renfell
+G or
+G oge
+G lanville
+G ladys
+G en .
+G andhi
+G TB
+Friday  :
+Fri ede
+French  .
+Freedom  "
+Fre deric
+Francis ca
+France  ,
+For tuna
+For d
+Flori da .
+Flo rence
+Flo oding
+Fina nce :
+Fin land .
+Fi kayo
+Ferna ndo
+Feina n
+Fe ver
+Fe stival
+Fe e :
+Falcon s .
+Fala na ,
+Fa ye
+Fa vour
+Fa hngon
+FUT A
+FIB A
+FC T
+FC ID
+FA  .
+F ro
+F our
+F la
+F EMA
+Eziowelle  ,
+Ezini fite ,
+Ezi nne
+Ezi nator
+Ezenne ka ,
+Ezekwesili  ,
+Ezeife  :
+Eze kiel
+Eze ji
+Ex pression
+Euni ce
+Eu gene
+Eti m
+Eti aba
+Eri ksson
+Enwe zor ,
+Enugwu-A gidi
+England  ,
+Engineeri ng
+Eng ravers
+Ene h
+End SARS :
+En vironmentalist
+En field
+Emp owerment
+Eme role
+Eme rie
+Eme ne
+Eme lie
+Eme cheta ?
+Eli jah
+Election s :
+Ele je
+El-Zakzaky  :
+El- Shalom
+El lis
+El ders
+El  "
+Ekwe nsu
+Ekpe nyong
+Ekpe nta
+Ekpe h
+Ejiofor  ,
+Eid- el-
+Ehab  ,
+Egwu onwu
+Egwu atu
+Ef obi
+Ed nut
+Ebu n-Olu
+Ebre ham .
+Ebonyi  .
+Ebo ny
+Ebo la .
+Ebo h
+East  ,
+EFCC  )
+ECOWAS  .
+E zza
+E wu
+E tebo
+E ste
+E ssien
+E sse
+E sha
+E nhancement
+E mbassy
+E mail
+E lu
+E kubo
+E dith
+E den
+E biowu
+E  ,
+Dy bala
+Dou g
+Do ha
+Dina mo
+Di vorce
+Di vock
+Di dier
+Di ana
+Democra ts
+Democra cy
+Dementi a
+Dege ma
+De smond
+De ontay
+De mbele
+De fence
+De ce
+De by
+De bo
+Daniel s
+Daniel  .
+Dana i
+Da yo
+Da udu
+DP s )
+DC  )
+DA NA
+D uba
+D ro
+D oyin
+D or
+D omitilla
+D ja
+D iri
+D ame
+D G
+D B
+Cy p
+Cup  .
+Cru z
+Count y
+Corne l
+Cor ru
+Constituency  "
+Congo  .
+Con vention
+Con tainer
+Con sulta
+Con ser
+Con duct
+Commonwealth  ?
+Commonwealth  :
+Commission   " ( 
+Commission   " 
+Com fort
+Colo mbia
+Cole man
+Co ope
+Co mb
+Citize n
+Chukwulobe lu ,
+Chukwu nonye
+Chukwu naeme
+Chu ka
+Christ y
+Chioma  ?
+Chinualu mogu
+China sa
+Chima maka
+Child ren
+Chiji oke
+Chihe b
+Chi dubem
+Chi dinma
+Chelse a :
+Che ong
+Chal lenge
+Cha rity
+Cha in
+Ch osen
+Cen gi
+Caro line
+Car vajal
+Cana an
+Can nabis
+Ca semiro
+Ca ribbe
+Ca pito
+Ca e
+COZA  ?
+CIS A
+CHOGM  ?
+C le
+C el
+C R
+C FA
+C A )
+Bul l
+Bu dget
+Bu chi
+Bro wn
+Britain  ,
+Bri ef
+Brexit  .
+Bre ndan
+Brazil  ,
+Boy s
+Borno  ,
+Bor deaux
+Bola ji
+Bol t
+Bob by
+Bo seman
+Bio raj
+Bin dow
+Big  
+Big  Brother
+Bi r
+Bi afrans
+Berna rd
+Beni n .
+Bello  ,
+Be y
+Be verly
+Bayelsa  .
+Bay er
+Bau chi ,
+Barcelo na ,
+Bar ca
+Bank s
+Bank  ?
+Ban goura
+Ban glade
+Bale wa
+Bah rain
+Baba gana
+Baba chir
+Ba uru ,
+Ba tshuayi
+Ba riga
+Ba kewell
+BBC  
+BB Naija .
+BB N
+B ọda
+B reast
+B ori
+B oli
+B ok
+B lue
+B la
+B isi
+B arba
+Azik iwe ,
+Award s
+Awa ziem
+Awa nigbo
+Aw ku
+Austra lia .
+Atlanti k ,
+Athle tic
+Ata ni ,
+Association s
+Asi a ,
+Ashịdi kinri ,
+Ashịdi kin
+Asagwa ra :
+Asa ta
+Asa ba :
+Arsenal  :
+Are mu
+Arch bishop
+Ara rat
+Ar my
+Ar men
+Ar chite
+Ar chaeology
+Anyachebe lu
+Ani ekwena
+Anglican  )
+Andrew s
+And res
+An nie
+An ju
+Amuneke  ,
+Amster dam
+Amo sun
+Amo o
+Amazon s
+Amaka eze
+Am hara
+Alliance  .
+Ali ou
+Ali ko
+Ali  ,
+Algeria  :
+Ala soadura
+Al- Sisi
+Al- Maku
+Al lied
+Al gassi
+Akwa ihe
+Akwa eze ,
+Aku nyi
+Aku kwe
+Akeredo lu ,
+Aka buike
+Aka bu
+Ajayi  ,
+Aja sin ,
+Airport s
+Air ways
+Air lines
+Ai gbeoghain
+Ah lam
+Agu lu
+Agency  ,
+Age nt
+Agba nelo
+African  "
+Afo labi
+Afe ez
+Afara ukwu
+Af fairs
+Adia s
+Adi be
+Adeye mo
+Adesanya -
+Adesanya- Davies
+Adefara sin
+Adeda yo
+Ade yemi
+Ade wu
+Ade wole
+Ade to
+Ade l
+Ade deji
+Ade ban
+Ade ba
+Adazi-N nukwu
+Achuzi a ,
+Achu ba
+Ac cra
+Abu -
+Abu- Yasir
+Abo h
+Abi ola
+Abi mbola
+Abi gail
+Abi dine
+Abi a :
+Abi a .
+Abe l .
+Abdullahi -
+Abdul malik
+Abate te ,
+Abaga na ,
+Aba yomi
+Ab dalla
+APC  "
+AM VCA
+AFCON  .
+AF DB
+A venue
+A ve
+A ttacks :
+A seman
+A rena
+A ramai
+A nnu
+A mbrose
+A mansea ,
+A mana
+A lan
+A kana
+A iteo
+A hoada
+A hab
+A gha
+A funa
+A bel
+A MAT
+A  ) ,
+A  "
+97 8
+97 5
+9 9 ,
+9 2
+9  ) ,
+8. 9
+8. 6
+8  :
+7. 2
+7 8
+7  :
+6 5 :
+50  .
+5 9 ,
+5 8 .
+5 8 ,
+5 50
+5 4
+5 3 ,
+45  :
+40  )
+4 6 ,
+4 50 ,
+4 5 ,
+4 4 .
+4 4 )
+4 3 )
+4 2 :
+35  :
+33 .
+33  :
+300  ) .
+3 4 ,
+3 2 ,
+3 2 )
+3 1 ,
+3 1 )
+3  ;
+3  . "
+28  .
+26 4
+26 2 ,
+26  :
+25 0 ,
+21  ;
+21  - 
+2019   " . "
+200 7 ,
+200 5 ,
+200 3 ,
+200 2 .
+200 1 .
+20 21
+2 -  1 ,
+2 -  1
+2 -  0 .
+2 -  0 ,
+2 9 .
+2 7 .
+2 4 .
+2 25 ,
+199 8 .
+199 6 .
+199 5 .
+199 5 ,
+199 3 ,
+199 2 ,
+199 1 .
+198 8 ,
+198 7 .
+198 5 ,
+198 3 .
+198 3 ,
+198 0 ,
+198 0
+197 8 ,
+197 6 .
+197 5 .
+197 1
+196 4 .
+196 3
+196 1
+195 8 ,
+194 9 ,
+194 8 ,
+190 1
+19 1 ,
+19  .
+16 7
+15 23 ,
+15 0 ,
+15  :
+14  :
+14  .
+11 1
+11 .
+10 8
+10  ;
+1 -  0
+1  :
+. 8
+- 3 5 )
+-  9 ,
+-  9
+-  44
+-  30 )
+-  30
+-  3 )
+-  29 ;
+-  28 ;
+-  23
+-  20 ;
+-  19 )
+-  15
+- Umu
+- General
+( sper m )
+( per sonal
+( P OP
+( N IP
+( N FF )
+( N EMA )
+( INEC  ) ,
+( INEC  )
+( APGA  ) ,
+( AN N )
+( A AC )
+( A A )
+(  ị
+(  ti
+(  si
+(  nna
+(  nkeji
+(  katọlik )
+(  in
+(  e
+(  anambra
+(  Y
+(  Nigeria
+(  NLC
+(  MA
+(  M
+(  L
+(  Kaduna )
+(  F
+(  DP
+(  Anglican )
+(  AC
+(  7 )
+(  7
+(  24
+(  2.
+(  2 )
+(  17
+(  11 )
+'  .  " 
+'   " . "
+ ”  )
+ :  "
+ . ”  ;
+ .  "  ọnụ "
+ .  "  gọọmentị "
+ .  "  Buhari "
+ " "  na-a
+ " "  na
+ " "  ma "
+ " "  ha "
+  " ma ọbụ
+  "  ụfọdụ "
+  "  gwa
+  "  go
+  "  ga-
+  "  che
+“ ya a ! ”
+“ okwute  ”
+“ a jị
+“ a gwọ
+“ a chị
+“ achị cha
+“  ụmụnne
+“  ụjọ
+“  ọnwụ ,
+“  ọka
+“  ọchịchọ
+“  ọchịchị
+“  ịhụnanya
+“  zu
+“  uru
+“  tupu
+“  te
+“  rịọ
+“  ru
+“  pụ
+“  ozugbo
+“  osisi
+“  ogige
+“  obodo
+“  nzukọ
+“ nzukọ  ”
+“  nye
+“  nwaanyị ,
+“  nkasi
+“  ngwa ,
+“  nchọpụta
+“  mmiri
+“  mmemme
+“  mbọ
+“  mbilite
+“  mba ,
+“  maka
+“  lazarọs ,
+“  kwe
+“  kpọ
+“  kama
+“  ju
+“  jizọs
+“  iwu
+“  ikike
+“  hel
+“ hel  ”
+“  gụ
+“  gwa
+“  eziokwu
+“  enyi
+“  ekpere
+“  egwu
+“  echiche
+“  dike
+“  di
+“  chi
+“  ba
+“  atụmatụ
+“  ala
+“  We
+“  I
+“  Enoch
+“  Akpa
+“  Agụ
+ụzụ  .
+ụzọ  ;
+ụzọ  . ”
+ụzọ  "
+ụzọ   " UNIZIK "
+ụwa ,  ”
+ụwa  . ” ,
+ụtụtụ  :
+ụtọ  ”
+ụta zị ,
+ụra .  ,
+ụmụaka  :
+ụmụ nwanne
+ụlọ  ;
+ụkọchukwu  ;
+ụkọ  ,
+ụka  "  rịọ
+ụka  ;
+ụgwọ  .  " o "
+ụgbọelu  "
+ụgbọala  :
+ụgbọala  .  " anyị "
+ụgbọ oloko
+ụgbọ  ?
+ụgba la
+ụdọ  .
+ụdọ  ,
+ụdị dị
+ụbọchị  ;
+ụbọchị   " . "
+ụba ra .
+ụba ra
+ụba nị
+ụb ọbọ
+ụbọbọ  .
+ụ ṅ
+ụ zịza ,
+ụ nwụ .
+ụ na
+ụ dụ
+Ụmụ eze
+Ụkaeju o
+Ụkaejuo ha
+ọṅụ  . ”
+ọṅụ  ,
+ọzọ .  "  ya "
+ọzọ .  "  oge "
+ọzọ  :
+ọzọ  .  " o "
+ọzọ  ) .
+ọzọ   " . "
+ọzara  ,
+ọwụwa  ,
+ọtụ ma
+ọtụma dị
+ọtọ nọọ
+ọta akụ ,
+ọsọ ọsọ .
+ọstra lia ,
+ọrụ  "  Nigerian "
+ọrụ  "  ' "
+ọrụ rụ
+ọrụ  .  " ọ "
+ọrụ   " . "
+ọrụ   " , "
+ọrị re
+ọnụ ala
+ọnụ   " 
+ọnọdụ  ,
+ọnyụ pa .
+ọnyụ nyụ
+ọnwụ  :
+ọmụmụ  .
+ọmụmaatụ  :
+ọmụgwọ  .
+ọmụ ma ,
+ọmị iko .
+ọmị iko ,
+ọma .  )
+ọma  .  " ọ "
+ọma   " . "
+ọlị  . ” )
+ọla ọcha .
+ọkụ  ;
+ọkụ  . ”
+ọkụ  "
+ọkọ wa
+ọkwụ rụ ,
+ọkwụ  .
+ọkpụtọrọkpụ  ,
+ọkpụ kpa
+ọkpụ  .
+ọkpọ ọ
+ọkpa  ?
+ọkammụta  "
+ọkaiwu  ,
+ọkaiwu  "
+ọkafọ  ;
+ọkachasị  "
+ọka zị
+ọka mmụta .
+ọka da ,
+ọka  ;
+ọjọọ  ”
+ọhụrụ  . ” )
+ọhụrụ  .  " 
+ọhịa ,  ”
+ọhịa ra
+ọhịa  . ”
+ọha  ?
+ọgụ  ;
+ọgwụ  "
+ọghọ m .
+ọgbụgba  .
+ọgbọ  .
+ọgbu gbo
+ọgbara igbo
+ọgbaraigbo gharị
+ọgbanje  .
+ọgba ra ,
+ọgba ra "
+ọgba mgbada ,
+ọgba  ,
+ọfụma   " n' "
+ọfọ  ,
+ọf ịa
+ọf ala ,
+ọdịnihu  . ”
+ọdị iche
+ọda e
+ọdae shi
+ọchụ ehi
+ọchụ  .
+ọchụ  ,
+ọchịehi  ,
+ọchịchị  ;
+ọchịchị   " 
+ọcha  ;
+ọcha  . ”
+ọbụla  ;
+ọbụla   " anyị "
+ọbụ na .
+ọbụ bụ
+ọbọgwụ  ,
+ọbọ  . ”
+ọbasanjọ  ,
+ọbara  . ”
+ọbara  "
+ọba nte
+ọba gwọ
+ọba  .
+ọ ọ ,
+ọ zịza
+ọ sa
+ọ s ,
+ọ pọ
+ọpọ pọ
+ọpọpọ  ,
+ọ pịa
+ọ nji
+ọ n .
+ọ kpụrụ
+ọ jụ
+ọjụ jụ
+ọ gwọ
+ọ bịa ,
+ọ  :  " 
+ọ  :
+ọ  . ”
+Ọzọ nkwụ
+Ọzọnkwụ akụ
+Ọzọ nkpụ
+Ọnụ nkwọ
+Ọkọ ugbo
+Ọ kpara
+Ọ gọ
+Ọgọ dọ
+Ọ dị
+Ọdị naka
+Ọ bụ
+Ọ ba ,
+ịzụ uka
+ịlaị sh
+ịlaịsh a .
+ịkpe re
+ịgba  ?
+ịdịn otu .
+ị ụ
+ị sọ
+ịsọ mpi
+ị sha ,
+ị mụ
+ịmụ maatụ
+ị kpa
+ị hị
+ị ha
+ị gbo
+ị ch
+ị ba ,
+ṅụ  ,
+ṅa a
+ṅ e
+נפשׁ  ) ,
+š an
+ş ik
+şik ta
+şikta ş
+ü n
+ö r
+ö nche
+önche ng
+öncheng la
+önchengla d
+önchenglad ba
+önchengladba ch
+ó n .
+ñ e
+ñe ra
+í ci
+é tico
+é phane
+é ne
+éne z
+é gu
+é  .
+á z
+áz quez
+á si
+ási co
+á le
+ále z
+zọ m
+zza ville
+zuru ike ,
+zu ogu
+zu naka ,
+zu  ?
+zo s
+zo ba
+zi r
+zir -
+zir- I
+zir-I -O
+zir-I-O mar
+zi e ,
+zi  :
+ze re .
+ze ngo
+ze ma
+ze em
+ze d
+za yi
+za rd
+za lo
+za kh
+zakh stan
+za ar
+z- Christian
+z ález
+z pi
+zpi lic
+zpilic u
+zpilicu e
+zpilicue ta
+yọ s .
+yyi p
+yuni ọn .
+ysi us
+ysi ci
+ysici ans
+yode le
+yo ro
+yo gu
+yogu rt
+yogurt  .
+yin lola
+yi v
+ye ye
+ye ya
+ye v
+ye s
+ye ing
+ye gh
+ye  ,
+yaba sị
+ya :  "  gọọmentị "
+ya :   " nke "
+ya .  "  ndị "
+ya .  "  na "
+ya .  "  akụkọ "
+ya . ...
+ya .   " n' "
+ya  "  o
+ya  "  e
+ya van
+ya to
+ya  ) .
+y- le
+y-le -
+y-le- Grand
+y ssa
+y our
+y osi
+y oke
+y ce
+xy gen
+xi li
+xili ary
+x ed
+wọ ghị
+wọghị rị
+wor th
+wor ld
+wor ke
+wo nu
+wonu ola
+wo  ;
+wo  .
+wo  !
+wn s
+windo w
+win ter
+win do .
+wi th
+wi s
+wi nyi
+wi fe
+wi ck
+we tan
+we e
+we bsi
+websi te
+we  "
+way o ,
+war rant
+wakpo yeya
+wa z
+wa ter
+wa ta
+wa t
+wa rt
+wa na
+wa n ,
+wa le ,
+wa kịrị
+wa kpọ
+wa k
+wa it
+wa hab
+wa gen
+wa ge :
+wa  . ”
+wa  )
+wa  "
+w ri
+w ord
+w nha
+wnha ll
+w land
+w ji
+w hi
+whi ch
+w he
+whe ed
+w  :
+w  ,
+w   " . "
+vol ving
+voca cy
+vo ters
+visa " " amerịka  . " " 
+visa " "  naịjirịa "
+visa  .
+vil s
+via tion
+vi li
+vi er
+vi a .
+ver ku
+verku sen
+ventu re
+ven s
+velo pu
+vel yn
+vel ope
+ve y
+ve s :
+ve s .
+ve rest
+ve rance
+ve dev
+vac cine
+va nia
+va kia
+va g
+vag na ,
+va ddha
+vaddha na
+vaddhana pra
+vaddhanapra bha
+v wakpoyeya
+v on
+v ise
+v be
+vbe kha
+v  .
+ute rọ
+uterọ nọ
+ute  .
+usoro  "
+use kwu
+uru .  )
+uru  ”
+uru  ;
+ura nt
+ur  :
+unyi  ,
+uny iri .
+unu  ” .
+unu  ;
+uni er
+une re
+ukwu  ” .
+ukwu  ”
+ukwu  . ” )
+ukwu  !
+uke mi
+uka zi
+uhuru chi .
+ugolo ọma
+ugo sla
+ugosla via
+ugo di
+udu mmiri
+udu  ,
+udo ,  ”
+udo u
+udo  .  " 
+udo  ! !
+udele  .
+ude le ,
+ude  .
+ude  ,
+uche  . ”
+ubi t
+ubi  ;
+ua ibu
+u zor
+u zere .
+u su
+u re .
+u re ,
+u fu
+u da
+u bakar
+u ani
+uani a ,
+tụ fịa
+tụfịa kwa !
+tụ  "
+tọ sị
+tọ k
+tịnkọ m ,
+ty pho
+typho id
+tupu  ,
+tu s .
+tu res
+tu re :
+tu ra
+tu nji
+tti  ,
+tt s
+tt le
+ts bur
+tsbur gh
+ts App
+trou ser
+tro poli
+tropoli tan ,
+tro le
+trole um
+tribu nal
+tri ta
+tri ke
+tri ck
+tri c
+tra ile
+traile r
+tra ctor
+toyinbo  ,
+tor ney
+to wn .
+to wn
+to rial
+to p
+to on
+to ne
+to m .
+to ka
+tivi st
+tiusde  )
+tiona ry
+tiona le
+tion  ) ,
+tine lli
+tifi ca
+ti te
+tite shọ
+titeshọ n
+ti st
+ti m
+tim kọm
+ti les
+ti j
+ti er
+ti ana
+tho l
+thol ome
+tholome w
+thle he
+thlehe m .
+thi ly
+the y
+the ring
+the m  " . "
+the ir
+tha rine
+tha n
+th y ,
+th uania ,
+th ren
+th on ,
+th man
+ter pilla
+terpilla r
+tenni s ,
+tele medicine
+tel son
+teknụzụ  ,
+tebụl  .
+te ssa
+te red
+te ne
+tene gro
+te chi
+te  . ”
+te  ) ,
+te   " 
+tan cy
+taa  "
+ta rian
+ta r .
+ta nwata
+ta ma
+ta laị
+talaị tị
+ta ker
+ta h
+ta -
+ta  . ” ,
+ta  ! ”
+t- trick
+t yaspor
+t te ,
+t ra ,
+t n ,
+t for
+sụ pị
+sụpị rị
+sọ shịal
+sọ rọ
+sọrọ mpi
+sị ;   " ọ "
+sị :  "  o "
+sị :  "  mgbe "
+sị :  "  e "
+sị :  "  e
+sị :   " ihe "
+sị :   " a
+sị  "  ọtụtụ "
+sị  "  kedụ "
+sị  "  ha "
+sị  "  e "
+sị a
+sị   " ndị "
+sị   " anyị "
+sị   " a "
+sy l
+syl vania
+su ya
+su s .
+su pp
+su p
+su olo
+su c
+suc cess
+su b
+stry  ,
+stri ct
+stra y
+stra te
+stra da
+story )
+ster ga
+sterga ard
+steeti   " 
+ste rọ
+sterọ l
+ste rial
+ste nd
+ste el
+state  .
+stan za
+sta vus
+sta n ,
+sta mp
+sta l ,
+sta ge
+sta d
+st roke
+stroke  ) ,
+st jen
+ssi stant
+ssi one
+ssione r
+ssi ng :
+ssi miliano
+sse x
+sse r
+sse l
+ssa d
+ssa  ,
+ss  ,
+spen sion :
+spa ghe
+spaghe tti ,
+sp on
+spon se
+sopotami a
+son s
+soja  )
+so r
+so nne
+sonne l
+so dium
+so chukwu
+so  ?
+so  .  " 
+sla ture :
+ska toon
+sk il
+skil stu
+siriri -
+siriri- were
+sig ner
+si  "  coma
+si  " coma  " " 
+si  " coma " "  te
+si ọm
+si te
+si t
+si ni
+si i
+si bau
+si a ?
+shọ nal
+shu ra
+shu ga .
+shu a ,
+shop ping
+sho la ,
+shi shi
+shi a ,
+shi  ?
+shi  .
+shel ling
+shee da
+sheeda t
+sha w
+sha phat
+sh im
+sh illing
+sh all
+sh al
+sex ual
+sensi tive
+senatọ  ?
+seme sta
+secon d
+search  "
+sea son
+se ye
+se ry
+se mina
+semina ry
+se l
+se ille
+se ga
+sega li
+segali nk
+se fu
+sefu  !
+se e
+scu int
+school  .
+saị z
+satọde  ?
+sar nae
+sarnae v ,
+sai ni
+sa ve
+sa talaịtị
+sa ster
+sa s
+sa ry
+sa ri
+sa ra .
+sa nmi
+sa fe
+safe   " , " " 
+sa du
+sadu sii
+sa bility
+sa beth
+sa a
+sa  "
+s- Benson
+s .  )
+s weet
+s suolo
+s pino
+spino sa
+s pho
+s mark
+s ca
+s bu
+sbu ry
+s  " " , "
+s   " nke "
+s   " n' "
+rụ  :
+rụ   " e
+rọ ,   " 
+rọ  "  ị
+rọ  "  national
+rọ  " national  "
+rọ  "  ha
+rọ  "  gịnị "
+rọ  "  e
+rọ  "  de
+rọ  "  World
+rọ  " World  "
+rọ  "  The "
+rọ  "  Revolution "
+rọ  "  Operation "
+rọ  "  International "
+rọ  "  Global
+rọ  " Global  "
+rọ  "  Dementia
+rọ  "  Da
+rọ  "  Cro
+rọ  "  Constituency "
+rọ ọdụ
+rọ  ”
+rọ  .  " 
+rịọ  ;
+rịọ  . ”
+rịọ  .
+rị ,   " 
+rị ta .
+rị fa
+rị  ;
+rị  . ” ,
+rị  "
+ry gi
+ry  :
+ry  "
+ry   " . "
+ruba lu
+rubalu eze ,
+ru ,  "  o
+ru ,   " n' "
+ru ,   " anyị "
+ru e
+ru  ? ”
+ru   " na "
+ru   " 
+rt y
+rt on
+rt ha
+rs quare
+rs  ) .
+ron kwo
+roke   " na "
+ro y
+ro ris
+roris m
+ro psy
+ropsy  )
+ro nic
+ro m ,
+ro ll
+ro du
+ro bo
+ro be
+robe at
+ro   " 
+riva tives
+risi t
+risi s :
+ris ma
+risma tic
+ris co
+rie -
+rial da
+ria ku
+ri  "  ogbugbu
+ri  " ogbugbu  "
+ri z
+ri tory
+ri te ,
+ri t
+ri od
+ri nde
+ri n ,
+ri ghts
+ri ff
+ri f
+ri ca
+rica ne
+ri bo
+ri an ,
+ri  ;
+ri  . ”
+rey ra
+rena de
+ren te
+ren sic
+rel la
+rel l
+reen pla
+reenpla y
+ree m
+re .  )
+re  "  We "
+re tti
+re t .
+re sta
+re si
+re ra
+re pt
+re ma ,
+re kh
+re hole
+re gu
+re ep
+re di
+re co
+reco g
+recog ni
+re cht
+re c
+rec tional
+re am
+ream  "
+re  ”
+re  ? ”
+re  .  " a
+re   " anyị "
+rank in
+rankin cense
+ra .  "
+ra ,   " 
+ra tta
+ra tor
+ra tives
+ra ry "
+ra nti
+ra ne
+ra kumo
+ra f
+ra do .
+ra bbi
+ra  ? ”
+ra  . ” )
+ra  .  " ọ "
+ra  ) ,
+ra   " ma "
+ra   " a
+ra  " a pp
+r é
+r ga ,
+r ban
+r ba
+rba yev
+quin one
+qui rer
+que  )
+qu e .
+qu b
+qu a
+pụrụ iche ,
+pụ .  ,
+pụ  "
+pọ mpụ .
+pọ lị
+pọlị na
+pọ k
+pọk rịfa
+pị ị .
+pị  .
+pu onwu
+pu mp
+pu lu
+pulu chukwu
+pu is
+pu  .
+pu  ,
+psy cho
+psycho logist
+pro vince
+pro sy
+pro state
+pro of
+pro mo
+promo  ,
+pro gressi
+progressi ves
+pro ble
+proble ms
+pri aha
+pound  .
+poly technic
+poli tical
+po t
+po hu
+pohu nda
+po -
+pil low
+pi um
+pi nk
+phra im
+pho spho
+pho on
+pho ne
+pha r .
+petro l
+per son
+per na
+per cent
+pensụ l
+penalty  ,
+pe riod
+pe pper
+pe nny
+pe m
+pe c
+paịlet  ,
+pati ti
+pati  ,
+pass word
+partition s
+paradaịs .  ,
+paradaịs .  )
+paradaịs  . ”
+par k
+papaị rọs ,
+pa ssport
+pa pe
+pa ge
+p top
+p ril
+p rah
+p oko
+p let
+p les
+p iz
+piz za ,
+p iro
+p in
+p hia
+p ha ,
+p  :
+ozugbo  . ”
+ozubulu  .
+ozu bu
+ozubu lu ,
+ozi  "
+over head
+ou nds
+ou is
+ou d
+ou by
+otu  "  Ojoto
+otu  " Ojoto  "
+otu nde
+oti phar .
+oti ng
+oting s :
+osu imi
+osu  ,
+osisi  ;
+osika pa .
+osi sochukwu
+ort ho
+ortho do
+ori ma
+ore ntina
+or li
+orli e .
+or bo
+or  .
+opi  ,
+opekata mpe .
+ope ka
+opeka mpe
+op man
+oo oo
+oo o
+oo  ! ”
+onye  . ”
+onwu nwe
+oni st
+on di
+on c
+on  )
+omume ,  ”
+omi mi ,
+omenala  "
+ome e
+olu me
+oloko  .
+olo gi
+oli ath
+ol ls
+okwu te ,
+okwu ru
+okwu  :
+okwe  ,
+oku bo
+okpukpe  ;
+okporo ko ,
+okpo kpo
+okpo ko
+okp obi
+okpobi ri
+okp iri
+okomo ko
+oko lo
+oko ko
+oko  ,
+okirikiri  .
+oki yi
+oke ọkpa ?
+oke n
+oke   " 
+oka for
+oka da .
+ojuju  ,
+ojoko  ,
+ojii  ?
+ojii  "
+oji  .
+ohi  ;
+ogu nle
+ogologo  ?
+ogo li
+ogo  ,
+ogiri si
+ogidi  . ”
+oge  . ”
+ogbunigwe  .
+ogbunigwe  ,
+ogbu opi
+ogbu gbu .
+ogbu a
+ogbenye  ?
+ogbenye  . ”
+og iri ,
+offi ce
+ofe  ,
+of ia ,
+of f
+off side
+odo re
+odo odo
+ode shi ?
+od ji
+od d
+ochi ehi
+oche ndo
+obodo ,  ”
+obodo  "
+obo sara .
+obi .  ,
+obere  ?
+obere  . ”
+ob han
+o ,   " 
+o ra ,
+o pu
+o po
+o ny
+ony isi
+o mo
+o mberg
+o ma ,
+o kpụrụ
+o ghe .
+o cha
+o ba ,
+o ah
+o -E
+nụ  . ”
+nụ   " 
+nụ  "  Electoral
+nụ  " Electoral  "
+nọ  ? ”
+nṅomi  ,
+nzọpụta  ,
+nzukọ   " 
+nzu zu ,
+nz a . ”
+nyocha  ,
+nyi uke
+nyelu re
+nye maka
+nye  ? ”
+nya ahụ
+ny n
+ny iri
+nwụ  ”
+nwu te ,
+nwoke  , "
+nwoke   " . "
+nwo od
+nwere onwe
+nwe ike
+nwata  . ”
+nwaanyị  :
+nwaanyị  . ”
+nwaanyị   " nke "
+nwa ko
+nwako robịa
+nwa eze
+nwa da
+nwa chukwu
+nwa adị
+nu ke ,
+nu gu
+nu cle
+ntụma dị ,
+ntụliaka  .  " ọ "
+ntụ zi
+ntụ kpọ
+ntọ hapụ
+ntị  . ” )
+ntị  . ”
+ntutu  .
+ntu te "
+ntu ry  " . "
+nto nite
+ntifi c
+nti ọba
+nti na .
+nti le
+nte cha ,
+nta n
+nt rance
+nt le
+nsụ pụ
+nsọ  . ” )
+nsu s
+nsogbu  .  " 
+nso .  )
+nso ye
+nso nso .
+nso -
+nso  ?
+nso  ;
+nso  :
+nsibidi  :
+ns onye
+nrụ rịta
+nrite  "  nwaanyị "
+nrite  .
+nri  )
+now les
+non- sensitive
+non so
+nnụ cha
+nnọọ  " " ma "
+nnọ ọ .
+nnyocha  .
+nnyocha  "
+nnwereonwe  .
+nnwereonwe  ,
+nnukwu  .
+nnu pu
+nna mon
+nna lo
+nna kwe
+nn sylvania
+nle re
+nle gharị
+nkọwa pụta
+nkwụm ọtọ
+nkwụ sị .
+nkwụ  .
+nkwọ rị
+nkwọ bị
+nkwọbị  ,
+nkwọ  .
+nkwu tọ ,
+nkwenye  ,
+nkwekọrịta  ,
+nkwa rị .
+nku me .
+nkiri ka
+nkiri  ,
+nkiri   " Black "
+nki e
+nkeji  ,
+nke e ,
+nke  .
+nka y
+nka pị .
+njọ  ?
+njọ  . ”
+nje re
+nje  ,
+niu m ,
+nior  "
+ning  :
+ning  ,
+niile . ..
+niile .  )
+niile ,  ”
+nic a .
+ni um
+ni ty
+ni toba
+ni shia ,
+ni s .
+ni ge
+ni fred
+ni field
+ni fe ,
+ni ce
+ni be
+ni Di
+niDi po
+nhọ rọ
+nhazi gharị
+ngụ  .
+ngọngọ  ,
+ngwụcha  .
+ngwọ rọ ,
+ngwọ ngwọ
+ngwọ  ,
+ngwu  .
+ngwa nụ
+ngwa agha
+ngwa  "
+nghọta ghie
+ngha gharị
+nge rs :
+ngalaba  "  Operation
+ngalaba  " Operation s " " n' "
+nga mp
+nga  ?
+nga  ,
+ng  " " . "
+net sk
+nebukadne za .
+nebukadne za ,
+ne wal
+ne ur
+ne sty
+ne ssy
+ne ssa
+ne ri
+ne c
+nec ki
+ne  " " 
+ndụmọdụ  .
+ndụmọdụ  ,
+ndụmọdụ  "
+ndụ .  )
+ndụ  ”
+ndụ  :
+ndụ   " . "
+ndịda  .
+ndịda  ,
+ndị na .
+ndị agụ .
+ndị  ...
+ndu zi
+ndu ru ,
+ndo zi .
+ndo wns
+ndo ni ,
+ndi zuogu
+ndi ng
+ndeewo  ,
+nde wo
+nde rs
+nde ring
+nde d
+nda kpọ
+nd -
+nd  .
+nchịkọ ta ,
+nchị kwa
+nchị gbu
+nchekwa   " - "
+nche kasị
+nche fu
+nche do
+ncha tanwata
+naịjirịa .  "  mgbe "
+naịjirịa  ;
+naịjirịa  .  " ndị "
+naza ret .
+narị ọs
+nala  ,
+nai ra ,
+nai d
+na ,   " ọ "
+na  "  ụmụ
+na  "  ụbọchị "
+na  "  ya "
+na  "  ntute "
+na  "  mgbe "
+na  "  e "
+na  "  e
+na  "  dị
+na  "  akụkọ "
+na  "  ajọ "
+na tị
+na te ,
+na t
+na shọnal
+na sa ,
+na na
+na n .
+na ma
+na ise
+na go
+nago gue
+na ekwe
+na chi
+na bo
+na ba
+n'  .
+n'  ,
+n .  ,
+n ro
+n old
+n kpa
+nkpa tọsị
+n koro
+n ike .
+n hụ
+nhụ si
+n he
+n cy
+n  ;
+n  "
+mụrụmụ rụ ,
+mụrụ mụrụ
+mụ tara
+mụ  !
+mị  .
+myr r
+mwu te ,
+mwe pụ ,
+mwe da
+muri mu
+mu s "
+mu h
+mu anya
+mu  ,
+mpịakọ ta ,
+mpịa kọta
+mpu ter
+mpoten ce
+mposi  ,
+mpe te .
+mpe mbe
+mpako  .
+mpaghara  .
+mp ọ
+mp ur
+mp tion
+mp le
+mp he
+mou nt
+mon di
+mole ye
+mo s
+mo h
+mmụọ  ?
+mmiri  ?
+mmiri  ;
+mmepe  .
+mmekọrịta  ?
+mmekọ rịta .
+mmehie  . ” ,
+mme tọ
+mme gharị
+mme ga
+mmanya   " 
+mmadụ .  )
+mmadụ ,  ”
+mmadụ  !
+mma nye
+mma ja
+mma  ;
+mma   " . "
+mkpụrụ obi
+mkpọtụ  ,
+mkpọ chi
+mkpọ  ,
+mkpu ke
+mkpu chi .
+mkpu  .
+mkpu  !
+mkpiri kpi
+mkpirikpi  . ” )
+mkpesa  "
+mkpe zi
+mkpe gbu ,
+mkpe  .
+mkpagbu  . ”
+mkpa rịta
+mkpa kpa
+mkp ọchị
+minu te ) ,
+minista  ,
+mini stry
+mina y
+mina tion
+min ster
+min or ,
+min or
+min isi
+minisi ta
+min gham
+million  ) .
+milli meter
+mili ta
+mili  ,
+midia   " 
+midia  "  Facebook
+mic al
+mi ng
+mi new
+mi neral
+mi de
+mi d
+mi  .
+mgbọrọgwụ  .
+mgbidi  ,
+mgbe re .
+mgbe re ,
+mgbanwe  .
+mgbanwe  "
+mgbakọ  .
+mgbagha ra ,
+mgbagha  . ”
+mgba rima
+mgba pe
+mgba mgbam
+mgba kwu
+mgbakwu nye
+mgba hi
+mgbahi ge
+mgba chi
+mgba aka ,
+mesa ya . ,
+menta ry
+ment  :
+ment  ,
+me trik
+me ssenger
+me ssa
+me sopotamia
+me s ,
+me s
+me re
+me l
+me kpe
+me  ? ”
+me  .  " mana "
+me  .  " akụkọ "
+me   " anyị "
+mbụ  ;
+mbụ  ) ;
+mbụ  )
+mbụ   " . "
+mbọ  :
+mbo  ,
+mbi er
+mbi bi ,
+mbe yi
+mbe r .
+mbe m .
+mbe  .
+mbassa do
+mbassado rs
+mbada mba
+mba ri
+mba ra ,
+mba nasa ,
+mba  ?
+mba  . ” )
+mb rella
+mb ley
+mara thon ,
+mar riage :
+mar ke
+mani tarian
+man go
+mamị rị .
+make ch
+maka  "  ị
+maka  "  otu "
+mahadum  ?
+mahadum   " UNIZIK "
+magnesi um ,
+maa th
+ma x
+ma terials
+ma terial
+ma sị
+ma s ,
+ma nuel
+ma le
+ma lari
+ma ker
+ma fọ
+ma fu
+ma bu
+ma  ?
+m . ..
+m wakpọ
+m so
+m or ,
+m ong
+m chi
+m -
+m  .  " o "
+m   " ndị "
+lọ t ,
+lọ n ,
+lọ ja
+lọ gụ
+lọ gwụ
+lịka n ,
+lị  .
+lu s "
+lu ng
+lu mba
+lu ka
+lu i
+lu gbo
+lour  .
+logy  ,
+logi cal
+lock  ,
+lo uf
+lo ri
+lo rente
+lo omberg
+lo gu
+lo e
+lli ps
+lle t
+lle gal
+ll  .
+list  :
+ling s
+lin tel
+lima te "
+li verance
+li ta
+li ouby
+li ot
+li nic
+li n ,
+li m .
+li ka
+li ga
+li e ,
+li  . ”
+li  .  " 
+ley  ,
+let ter
+legọs   " 
+leagu e ,
+le ri ,
+le ne
+le nda
+le le
+le g
+le bri
+le  ?
+le  .
+laị  . ”
+land s
+lady slav
+la s .
+la ry
+la ptop
+la mpụ
+la mo
+la i
+la h ,
+la gọs
+la gu
+la di
+la de ,
+la  ”
+la  ) .
+la  )
+la  " " 
+l ético
+l ásico
+l án
+l t
+l s :
+l otus
+l onger
+l ly
+l ki
+lki flu
+l han
+l  :
+l  "
+kụ rụ
+kọrịnt  .
+kọmishọna  ,
+kọmishọ n
+kọm- kọm
+kọm- kọ
+kọm-kọ m ,
+kọle sterọl
+kọle ji
+kọ bọ
+kọbọ d
+kị tị
+kwu ru
+kwu lu ,
+kwu  ;
+kwu   " 
+kwe  .
+kwa  " " 
+kuzi  ?
+ku ten
+ku s
+ku ru
+ku nwoke
+kristi  ,
+kri pal
+kraịst  :
+kraịst  . ” )
+kra tis
+kpọkpọ nkị
+kpọ  "  Instagram
+kpọ  " Instagram  "
+kpọ  .
+kpu m ,
+kpu  ?
+kpu  ,
+kpomkwe m ,
+kpo r ,
+kpe  ?
+kpe  ,
+kpamkpa m . ”
+kpala kwu
+kpala eke
+kpa ta
+kpa m ,
+kpa  ?
+kp uru
+kp aka
+kode ks
+ko ut
+ko dun
+kodun mi
+ko bo
+ko Kor
+koKor kus
+kla asị .
+kiti ć
+kiti pu
+kiri kiri
+kick   " 
+ki rya
+ki ghi
+kighi r ,
+ki gbe
+kh louf
+kele chi
+ke ne
+ke nan .
+ke gbe
+ke  "
+kata mpe
+kata kata
+kara t .
+kara ma ,
+kandụ l ,
+kan -
+kan- Kw
+kan-Kw atu
+kame ra
+kal siọm
+kah  .
+kadi r
+ka ye
+ka r
+ka nti
+ka lu
+ka lenda
+ka lagu
+ka i
+ka chi ,
+ka   " ndị "
+k illings :
+k g
+k bou
+jụụ  ,
+jụ  .
+ju nction
+ju  ,
+jo mbo ,
+jizọs  ”
+ji ba
+jiba de
+ji b
+ji -N
+ji-N ike
+jenụwarị  .
+jenesi s .
+jekọb  ,
+je kodunmi
+je  ?
+janụwarị  .
+ja y
+ja t
+ja ket
+ja il
+j oke
+j o .
+izugbe  ,
+izu zu
+izu ka
+iyi  ?
+iwu  ?
+iwu  .  " ndị "
+iwu  !
+iwu   " 
+iwe tel
+iwe  "
+itoolu  ?
+iti ri .
+ite  .
+it tsburgh
+it ler
+isu su
+isu  ,
+isii  ;
+isi akwụkwọ
+isi  .  " 
+ise  . ”
+is y-le-Grand
+iru s
+iru ro
+iru ka
+iro n
+iro bi
+iro  ! ”
+ir port
+inọk  ?
+inyo m
+inter vention
+inter net
+ins worth
+ing s
+inflation  )
+ine di
+inconclusive  ?
+in z-Christian
+in nie
+in fer
+infer tility
+in da
+in ch
+imo koKorkus
+ime  :
+ime  .  " 
+im s
+ilu  .
+illi on ,
+iller son
+il way
+il la ,
+ikpeazụ ,  ”
+ikpe  .  " 
+ikpe  "
+iko   " ma
+iko  " ma jor
+ikike   " 
+ike . ..
+ike ke
+ike  ? ”
+ike  :
+ike  . ” ,
+ike  .  " ọ "
+ike  .  " ihe "
+ike  !
+ike   " nke "
+ik  ,
+iji ji .
+ijeri  "
+ije  . ”
+ihu  ”
+ihu  ?
+ihu  :
+ihu  . ”
+ihu   " . "
+ihe  ? ”
+ihe  ;
+ihe  .  " ọ "
+ihe  )
+igwe  "
+igwe   " 
+igwe  "  card
+igwe  " card  "
+igun kwụ ,
+igbe  ,
+ig s :
+ide i
+iche .  )
+iche  :
+iche   " . "
+i ć
+i sị
+i sh
+i nk
+i nitiative
+i murimu
+i mp
+i m .
+i li
+i kpu ?
+i ghu
+i f
+if uru
+i e
+i chi ,
+i bo
+i ah
+i a .
+i Pho
+iPho ne
+hụ  . ”
+họ tel
+hị ọ
+hy dro
+hydro quinone
+hu lkiflu
+hu d
+ho shaphat
+hia khi
+hia e
+hiae riaku
+hi story)
+hi r
+hi o
+hi nde
+hi ll
+hi li
+her dsmen
+helicopter  .
+hel  ,
+he roin
+he m
+he ims
+he e ,
+ha .  "  dị
+ha .  ;
+ha .  .
+ha .   " ndị "
+ha .   " ihe "
+ha  "  ga-
+ha  "  Restoration "
+ha t
+ha se
+ha ry
+ha q
+ha ng
+ha nd
+ha ma ,
+ha ka ,
+ha ha
+ha  ? ”
+ha  )
+ha  !
+h ,  ...
+h iri
+h -A
+h-A kpe
+gọvanọ   " ihe "
+gọ m
+gọ  ,
+gị :   " 
+gị de
+gị  .  " 
+gị   " . "
+gy mnastics
+gwu  .
+gwu  ,
+gwo ogwo
+gwe  ,
+gwa g
+gwag ye
+gw ala
+gwala da
+gu yen
+gu ri
+gu nsoye
+gu e ,
+gu du
+gu  .
+graph y ,
+gra tu
+godị  .
+go orlie .
+go mbeyi
+go li
+go go
+gidi gidi
+gi ve
+gi slature :
+gi di ,
+ghọ  ,
+ghị .  )
+ghị a
+ghị  .  " ọ "
+ghị  .  " 
+gh nessy
+gh el
+ghel li
+gh da
+ge li
+ge le
+ge  .
+gbọ  .
+gbu zo
+gbo ndi
+gbe nro
+gbe je
+gbe  ,
+gba  " alụkwaghịm " "  nwoke , "
+gba mgbam
+gb ịdị
+gb inedi
+garaa ga .
+gani  ,
+gan ja
+ga za
+ga wa ,
+ga ri
+ga lọn ,
+ga asị .
+ga  ;
+ga  :
+ga  .  " a
+g ress
+g renade
+g ree
+g le
+g iri
+fụ la
+fọ m
+fu ngi
+fu neral
+fu n
+fu  ,
+fre sh ,
+fran c .
+foto  ,
+for m
+fo wo
+fo re
+flood  :
+fi ghters
+ff man
+ff anga
+ff  ,
+fero  ,
+fe la
+fair s ,
+fada  ?
+fada  ,
+fada  )
+f ree
+f rankincense
+f ra
+f lọgụ
+f fer
+f an
+f all
+f ala
+fala fe
+f aha
+eziokwu .  )
+eziokwu  ”
+eziokwu  ? ”
+eziokwu  "
+ezigbo  "
+ezi  .  " 
+eze  ?
+eze  "
+exper t )
+ewu be
+ewube ze
+ewi  ,
+etu to
+etiti  )
+eti ng :
+esere x
+esem okwu .
+er -
+eprel  ;
+enyi  . ”
+enyi  "
+enyemaka  . ”
+enugwu  :
+enu  .
+en vironmentalist
+en velopu
+en velope
+en ough
+emume  ,
+eme sịa
+eluigwe .  )
+eluigwe  . ” ,
+ellow ship
+eleke ntiọba
+election  "
+ele ctri
+ele ct
+elect ronic
+ele  .
+eld man
+el bour
+elbour ne ,
+ekwulọ bịa .
+ekwensu  ?
+ekwe  ,
+ekperi ma .
+ekperi ma ,
+ekpere  . ”
+ekpe mekpe
+ekpe  )
+ekele  .
+ekele  "
+ekele  !
+eke e
+eke de
+eke  .
+eju la .
+eju  ,
+eji ji ,
+egwuregwu   " 
+egwuregwu  "  National "
+egwu si ,
+egwu  ;
+egwu  !
+egwu   " . "
+ego  .  " 
+ego   " . "
+efe re .
+efe re
+ee nat
+ee ee
+edo  .
+echichi  .
+echiche  . ”
+ebumnuche  "
+ebube  ?
+ebighị ebi
+ebighịebi   " ka "
+ebighị e
+ebighịe bi .
+ebere  ?
+ebere  . ”
+ebe r
+ebe   " 
+e ye
+e nebo
+e mụtara
+e mi ,
+e me .
+e kpo
+e hee ,
+e ast
+e  ;
+e  . ” )
+e  .  " o "
+e   " 
+dị .  ;
+dị .  )
+dị  . ” )
+dị  !
+dume me
+du nu ,
+do wn
+do r .
+do nate ,
+do da
+do   " 
+do  "  Freedom "
+dne i
+dise mba .
+dire ct
+diocese  ,
+dio gbu ,
+dimkpa  . ”
+digi tal ,
+digi tal
+dia kpo
+dia h
+di ọkpara .
+di strict
+di sh
+di rector
+di po
+di narịọs
+di ma
+di gbo ,
+di ct
+di bịa .
+di bbo
+di amond
+di a ,
+der ship
+den cy
+defe nder
+de yanju
+de y
+de st
+de re  " We "
+de pression
+de na
+de n ,
+de h
+de ga
+de en
+de d
+dayọsi isi .
+dah  .
+da te :
+da ra ,
+da na
+da ge
+da do
+d é
+d zayi
+d yeing
+d win
+d vedev
+d say
+d land
+d ding
+cy ber
+cre di
+cra cy
+cou ver
+cou p
+con te
+con tainer
+con duct
+col lege
+codeine  .
+coa ted
+co mpany
+co mma
+co co
+co caine
+co bra
+co  ,
+cle sia
+cla sh
+ck  :
+ck  .
+cie ntific
+cial  "
+ci um ,
+ci nnamon
+ci es
+ci de
+chụ  .
+chọ  ”
+chọ  .  " che
+chukwu  :
+chineke  ;
+chineke  . ” )
+chie gu
+chie f
+chi stan
+chi ne
+chi kunwoke
+chi a
+che v ,
+che nko
+che mical
+che mi
+che ll
+che i
+change   " . "
+champion ship
+cham dum
+cha ị
+cha ra ,
+cha ra
+cha plet
+cha n
+cha cha
+cha acha
+cha a
+ch out
+ch or
+ch ole
+ce ssor
+ce ssion
+ce p
+ce ntury  " . "
+ce nsus
+ce ncy
+ce nce
+ce lebri
+carpe t ,
+car rier
+car do
+came ral
+cal cium ,
+ca terpillar
+ca ster
+ca re
+ca ptain
+ca mp
+ca h
+c urrency
+c ubit
+c tus
+c tionary
+c ti
+c risis :
+c q
+c lub
+c kout
+c ing
+c clesia
+c ca .
+c ana
+bụla  ”
+bụla  . ” )
+bụ ,   " 
+bụ  "  i
+bụ  "  Black "
+bụ ọgụ
+bọọ dụ
+bọ ket
+bọ  ,
+bịrị bị
+bịrịbị rị ,
+bịafra  .  " 
+bịa . ..
+bịa  ;
+bịa   " , "
+by ss
+bur b
+bulu isi
+bu usu
+bu siness
+bu ru
+bu ram
+bu nwe
+bu llet
+bro ok
+bri k
+bri ck
+brea k :
+bre ath
+breath s
+bra l
+bra ke
+boy s
+bo rehole
+bo o
+bo nu
+bo ng
+bn )  ;
+bill   " 
+bill  "  ọzọ "
+bia m ,
+bi yi
+bi la
+bi l
+bezbọ l ,
+ber ta .
+belụ sọ
+bekee  )
+bekee   " 
+be tti
+be ra
+be en
+be bi
+be  ? ?
+be   " . "
+baịbụl .  )
+bank ing
+baby  :
+ba ụ
+ba y
+ba tter
+ba se
+ba re
+ba ra
+ba nana
+ba mi
+ba  . ” )
+b é
+b ru
+b ron
+b lood
+b lo
+b lin ,
+b bi ,
+b b
+aịza ya ,
+aṅụrụ ma ,
+aṅụ  ,
+aṅ ara ,
+azụ  ? ”
+awụ sa ,
+awụ lụ
+au ghnessy
+atụmatụ  ?
+atọ m
+atọ  )
+atị lọgwụ
+atị kpa
+at ty
+asụsụ  ,
+asọ mmiri
+asị sa
+asị rị .
+asị  ?
+ase  ,
+asa ri
+asa mpete .
+arụ  . ”
+arụ  !
+arịrịọ  .
+ara ne
+ar tist
+ar ter
+ar ms
+apị tị
+anọ  ?
+anọ  :
+anọ  )
+anyụ ike
+anyị ,   " 
+anyị  ? ”
+anyị  .  " n' "
+anyị  .  " anyị "
+anya .  ;
+anya .  ,
+anya .  )
+anya ,  ”
+anya ụfụ
+anya  :
+anya  "
+anya  !
+anwa nsị
+anwa nsi ,
+ano  ,
+anambra  "
+ana ya
+an them  " . "
+an tena
+an ji
+an ghai
+amụma  ?
+amụ  "
+ame r
+ame funa
+amam ihe . ”
+amam ihe
+amagedọ n . ,
+ama ra
+ama okwu .
+ama  ;
+ama  . ”
+am nesty
+alo  ,
+alla na
+alakụ ba ,
+ala eze .
+ala  ? ”
+ala   " . "
+al- Sisi
+al- Bashir
+al ly
+al  :
+akụrụngwa  ,
+akụkọ  :
+akụ kpọ
+akụ  "
+akọ nuche
+akọ  .
+akịrịka  . ”
+akị dị .
+akwụkwọ  ”
+akwụkwọ  ? ”
+akwụ  "
+akwa  ? ”
+akpụrụ achị
+akpụrụachị a ?
+akpụ kụrụ
+akpụ kpụ
+akpọ masị
+akpị rị .
+akpa rị
+akara ka
+akara   " 
+aka ra ,
+aka nwu .
+aka mụ
+aka  . ” )
+aka  .  " anyị "
+aka  )
+aka  ! ”
+ajụjụ ọnụ ,
+ajụjụ  ?
+ajụjụ  :
+ajambele  .
+aja dụ
+aid ó
+ahụmahụ  ”
+ahụhụ .  ,
+ahụ .  "  ụmụ "
+ahụ .  "  ya "
+ahụ .  "  ha "
+ahụ .  "  akụkọ "
+ahụ .  ;
+ahụ .   " anyị "
+ahụ   " ọ "
+ahụ   " o "
+ahịa  ?
+ahị rị .
+ahị rị ,
+aha ma
+aha  ?
+agụmba  :
+agụma gụ
+agụ ba
+agụ  ?
+agọ  .
+agu lu
+aghụghọ  ?
+aghị ghịa
+agha .  ;
+agbụ gba
+agbọghọ  . ”
+agbata obi .
+agbata obi
+agba mume
+agba ego
+agba da
+afọ  ”
+afọ  "
+afrịka   " . "
+afi u
+af o ,
+af fy
+af fairs
+ad y
+ad vise
+ac tivist
+abụọ )  ;
+abụọ  ? ”
+abụọ  ) .
+abụ ba ,
+abịa ma
+abalị  ”
+abakaliki  .
+abakaliki  ,
+aba ta
+aba ran
+aba n
+aaaa aaaa
+a .  "  ha "
+a .  "  e
+a .  ,
+a .   " ihe "
+a ,  "
+a  "  etu "
+a  "  akụkọ "
+a yọ
+a yoro
+a wa ,
+a ttack
+a ta ,
+a sị :
+a rọ ,
+a riri
+a ri
+a re ,
+a pọkrịfa
+a p
+a nwu
+a mount
+a mi
+a m ,
+a irport
+a ida
+a gịga
+a gbịdị
+a gbo .
+a deyanju
+a ct
+a che
+a bịrị
+a bị
+a bor
+a afọ
+a a .
+a  )
+a   " n' "
+a   " a
+]  . ” )
+]  ,
+Zu ma
+Zealand  ,
+Zam bia .
+Zagre b
+Za ria ,
+Za ria
+ZANU -
+ZANU- PF
+Z ur
+Z ito
+Z hulkiflu
+Z hang
+Z eenat
+Z Ma
+ZMa pp
+Yusuf  ,
+Yu lia
+Yu gu
+Yoko hama ,
+Yoko hama
+Yobe  :
+Yobe  .
+Yo la ,
+Yo ga ,
+Yemi -E
+Yemi-E san
+Ye ni
+Yaba  :
+Ya ri
+Ya qub
+YPP  ,
+Y ugoslavia
+Y ard
+Y an
+Y IA
+YIA GA
+Xenophobia  " " na "
+Xenophobi a .
+Xavi er
+X tra ,
+X -
+Wu shishi
+Wor ks
+Wool wich
+Wood head
+Women  "
+Wol f
+Wo pari
+Wit tenberg
+Wil son
+Wi nifred
+Who opi
+Whi taker
+Wha tsApp
+West minster
+West  .
+West  ,
+Wednes day .
+We stern
+We mbley
+We iner
+We in
+Water town
+Wat ch
+Warri or
+War mbier
+Walter -
+Walter- Peters
+Wa ziri
+Wa ste
+Wa rialda
+Wa le
+Wa ko
+Wa i
+WHO  )
+W ri
+W ome
+W oji
+W igs :
+W AC
+Vulga te .
+Vulga te ,
+Volks wagen
+Vol cano
+Vo ters
+Visi t :
+Virgi n
+Vir gy
+Victo ria .
+Vi go
+Vi e
+Vi cti
+Vi chai
+Venu ra
+Venezue la .
+Ve stergaard
+Ve ra
+Vatican  .
+Van guard
+Van couver
+Valen cia ,
+Vale rian
+Va nessa
+VC DP
+V ázquez
+V ladyslav
+V irus
+V ik
+V etus
+V S
+Uzoho  ,
+Uzo din
+Ut recht
+Up date :
+University  .
+University  ) ,
+United  "
+Uni t
+Uni cameral
+Umueze -
+Umu nze ,
+Umu nya
+Umu nna
+Umu chi
+Umu achi
+Ume rue
+Ume gha
+Ume a
+Ulumma  "
+Ula si
+Ul fi
+Uke lle
+Uke je
+Uke h
+Uka egbu
+Ugwuanyi  ,
+Ugo chi
+Ugba wka
+Ugba w
+Uganda  ,
+Udo mma
+Udo ji
+Udo h
+Ude nwa ,
+Ude nsi ,
+Ude h-Akpe
+Ude di
+Uche chukwu
+Uche agbo .
+UT ME
+UT A )
+USSD  .
+USSD  ,
+US  "
+UNIZIK  :
+UNI LA
+UNESCO  )
+UN N
+UN H
+UNH CR
+UJ  )
+U yo .
+U yi
+U rban
+U ratta
+U nu
+U nai
+U mma
+U mbrella
+U kwa
+U kpor
+U ko ,
+U ghelli
+U gbene
+U gbe
+U ga ,
+U dum
+U di ,
+U buluisi
+U P )
+U P

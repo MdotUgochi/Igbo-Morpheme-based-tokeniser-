@@ -1,0 +1,313 @@
+{
+  "target_vocab_sizes": [
+    2000,
+    4000,
+    8000,
+    12000,
+    16000
+  ],
+  "morph_bpe": {
+    "2000": {
+      "train_time_sec": 14.5,
+      "actual_vocab_size": 2000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 6520,
+          "boundary_hits": 2822,
+          "boundary_recall": 0.8058,
+          "boundary_precision": 0.4328,
+          "boundary_f1": 0.5632,
+          "crossing_tokens": 668,
+          "crossing_rate": 0.0404
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.9636
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 16519,
+          "fertility_rate": 1.6519,
+          "compression_ratio": 2.5796,
+          "vocab_size": 2000,
+          "active_tokens": 1189,
+          "vocab_utilization": 0.5945
+        }
+      }
+    },
+    "4000": {
+      "train_time_sec": 28.49,
+      "actual_vocab_size": 4000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 5740,
+          "boundary_hits": 2697,
+          "boundary_recall": 0.7701,
+          "boundary_precision": 0.4699,
+          "boundary_f1": 0.5836,
+          "crossing_tokens": 781,
+          "crossing_rate": 0.0496
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.9591
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 15739,
+          "fertility_rate": 1.5739,
+          "compression_ratio": 2.7074,
+          "vocab_size": 4000,
+          "active_tokens": 1502,
+          "vocab_utilization": 0.3755
+        }
+      }
+    },
+    "8000": {
+      "train_time_sec": 57.04,
+      "actual_vocab_size": 8000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 5196,
+          "boundary_hits": 2537,
+          "boundary_recall": 0.7244,
+          "boundary_precision": 0.4883,
+          "boundary_f1": 0.5834,
+          "crossing_tokens": 934,
+          "crossing_rate": 0.0615
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.9498
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 15195,
+          "fertility_rate": 1.5195,
+          "compression_ratio": 2.8043,
+          "vocab_size": 8000,
+          "active_tokens": 1638,
+          "vocab_utilization": 0.2047
+        }
+      }
+    },
+    "12000": {
+      "train_time_sec": 89.96,
+      "actual_vocab_size": 12000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 4947,
+          "boundary_hits": 2410,
+          "boundary_recall": 0.6882,
+          "boundary_precision": 0.4872,
+          "boundary_f1": 0.5705,
+          "crossing_tokens": 1054,
+          "crossing_rate": 0.0705
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.942
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 14946,
+          "fertility_rate": 1.4946,
+          "compression_ratio": 2.8511,
+          "vocab_size": 12000,
+          "active_tokens": 1681,
+          "vocab_utilization": 0.1401
+        }
+      }
+    },
+    "16000": {
+      "train_time_sec": 113.96,
+      "actual_vocab_size": 16000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 4721,
+          "boundary_hits": 2255,
+          "boundary_recall": 0.6439,
+          "boundary_precision": 0.4777,
+          "boundary_f1": 0.5485,
+          "crossing_tokens": 1200,
+          "crossing_rate": 0.0815
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.9351
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 14720,
+          "fertility_rate": 1.472,
+          "compression_ratio": 2.8948,
+          "vocab_size": 16000,
+          "active_tokens": 1706,
+          "vocab_utilization": 0.1066
+        }
+      }
+    }
+  },
+  "baseline_bpe": {
+    "2000": {
+      "train_time_sec": 19.41,
+      "actual_vocab_size": 2000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 5052,
+          "boundary_hits": 1029,
+          "boundary_recall": 0.2938,
+          "boundary_precision": 0.2037,
+          "boundary_f1": 0.2406,
+          "crossing_tokens": 2098,
+          "crossing_rate": 0.1394
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.8774
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 15051,
+          "fertility_rate": 1.5051,
+          "compression_ratio": 2.8312,
+          "vocab_size": 2000,
+          "active_tokens": 1453,
+          "vocab_utilization": 0.7265
+        }
+      }
+    },
+    "4000": {
+      "train_time_sec": 38.51,
+      "actual_vocab_size": 4000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 3958,
+          "boundary_hits": 702,
+          "boundary_recall": 0.2005,
+          "boundary_precision": 0.1774,
+          "boundary_f1": 0.1882,
+          "crossing_tokens": 2217,
+          "crossing_rate": 0.1588
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.8529
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 13957,
+          "fertility_rate": 1.3957,
+          "compression_ratio": 3.0531,
+          "vocab_size": 4000,
+          "active_tokens": 1985,
+          "vocab_utilization": 0.4963
+        }
+      }
+    },
+    "8000": {
+      "train_time_sec": 88.02,
+      "actual_vocab_size": 8000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 3236,
+          "boundary_hits": 444,
+          "boundary_recall": 0.1268,
+          "boundary_precision": 0.1372,
+          "boundary_f1": 0.1318,
+          "crossing_tokens": 2242,
+          "crossing_rate": 0.1694
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.8388
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 13235,
+          "fertility_rate": 1.3235,
+          "compression_ratio": 3.2196,
+          "vocab_size": 8000,
+          "active_tokens": 2347,
+          "vocab_utilization": 0.2934
+        }
+      }
+    },
+    "12000": {
+      "train_time_sec": 143.14,
+      "actual_vocab_size": 12000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 2955,
+          "boundary_hits": 342,
+          "boundary_recall": 0.0977,
+          "boundary_precision": 0.1157,
+          "boundary_f1": 0.1059,
+          "crossing_tokens": 2251,
+          "crossing_rate": 0.1738
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.833
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 12954,
+          "fertility_rate": 1.2954,
+          "compression_ratio": 3.2895,
+          "vocab_size": 12000,
+          "active_tokens": 2460,
+          "vocab_utilization": 0.205
+        }
+      }
+    },
+    "16000": {
+      "train_time_sec": 191.31,
+      "actual_vocab_size": 16000,
+      "metrics": {
+        "axis_a_preservation": {
+          "gold_boundaries": 3502,
+          "pred_boundaries": 2805,
+          "boundary_hits": 283,
+          "boundary_recall": 0.0808,
+          "boundary_precision": 0.1009,
+          "boundary_f1": 0.0897,
+          "crossing_tokens": 2255,
+          "crossing_rate": 0.1761
+        },
+        "axis_b_consistency": {
+          "evaluated_morphemes_count": 681,
+          "avg_morpheme_consistency": 0.8295
+        },
+        "axis_c_efficiency": {
+          "total_words": 10000,
+          "total_chars": 42612,
+          "total_tokens": 12804,
+          "fertility_rate": 1.2804,
+          "compression_ratio": 3.328,
+          "vocab_size": 16000,
+          "active_tokens": 2497,
+          "vocab_utilization": 0.1561
+        }
+      }
+    }
+  }
+}

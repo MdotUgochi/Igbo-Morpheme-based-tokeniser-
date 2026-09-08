@@ -1,0 +1,3 @@
+"""
+MorphBPE package initialization.
+"""
